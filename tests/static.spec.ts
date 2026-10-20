@@ -2,8 +2,12 @@ import { test, expect } from "@playwright/test";
 import { readFileSync, mkdirSync, writeFileSync } from "node:fs";
 import { resolve } from "node:path";
 import { createHash } from "node:crypto";
+import { applySiteOverrides } from "../scripts/site-settings.mjs";
 
-const site = JSON.parse(readFileSync("content/site.json", "utf8"));
+const site = await applySiteOverrides(
+  JSON.parse(readFileSync("content/site.json", "utf8")),
+  process.cwd(),
+);
 const provenance = JSON.parse(readFileSync("content/provenance.json", "utf8"));
 const pathFor = (item: any) =>
   item.kind === "node"

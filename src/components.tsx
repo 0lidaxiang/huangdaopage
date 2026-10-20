@@ -11,9 +11,11 @@ import {
   Code2,
   Network,
   Layers,
+  ExternalLink,
 } from "lucide-react";
 import type { Content, Site } from "./types";
 import { date, linkTo } from "./types";
+import { subscriptionChannels } from "./subscriptions";
 
 export function BrandMark() {
   return (
@@ -168,31 +170,81 @@ export function SubscribeCard({
         <Radio size={15} /> 保持连接
       </div>
       <h3>不错过，下一个重要信号。</h3>
-      <p>扫码接收每周精选与重要 AI 信号</p>
-      <div className="subscribe-bottom">
-        <div>
-          <strong>{site.settings.wechatName}</strong>
-          <small>在信息噪声中，找到方向。</small>
-          <button className="text-link" onClick={onSubscribe}>
-            订阅更新 <ArrowRight size={14} />
-          </button>
-        </div>
-        <button
-          className="qr-mini"
-          onClick={onSubscribe}
-          aria-label="查看公众号二维码"
-        >
-          {site.settings.qrCode ? (
-            <img src={assetUrl(site.settings.qrCode)} alt="公众号二维码" />
-          ) : (
-            <>
-              <Radio size={25} />
-              <small>二维码待配置</small>
-            </>
-          )}
-        </button>
-      </div>
+      <p>微信读精选，小红书看日常分享。</p>
+      <SubscriptionCodes site={site} onEnlarge={onSubscribe} />
+      <button className="text-link subscription-enlarge" onClick={onSubscribe}>
+        放大二维码 <ArrowRight size={14} />
+      </button>
     </section>
+  );
+}
+export function SubscriptionCodes({
+  site,
+  expanded = false,
+  onEnlarge,
+}: {
+  site: Site;
+  expanded?: boolean;
+  onEnlarge?: () => void;
+}) {
+  return (
+    <div className={"subscription-codes" + (expanded ? " expanded" : "")}>
+      {subscriptionChannels(site).map((channel) => (
+        <section
+          className="subscription-channel"
+          key={channel.id}
+          aria-label={channel.label + "订阅"}
+        >
+          <h3 className="subscription-label">{channel.label}</h3>
+          {onEnlarge ? (
+            <button
+              className="subscription-image"
+              onClick={onEnlarge}
+              aria-label={"放大" + channel.label + "二维码"}
+            >
+              {channel.qrCode ? (
+                <img
+                  src={assetUrl(channel.qrCode)}
+                  alt={channel.label + "二维码"}
+                  width="430"
+                  height="430"
+                  loading="lazy"
+                />
+              ) : (
+                <span>二维码待配置</span>
+              )}
+            </button>
+          ) : (
+            <div className="subscription-image">
+              {channel.qrCode ? (
+                <img
+                  src={assetUrl(channel.qrCode)}
+                  alt={channel.label + "二维码"}
+                  width="430"
+                  height="430"
+                />
+              ) : (
+                <span>二维码待配置</span>
+              )}
+            </div>
+          )}
+          <p className="subscription-account">{channel.account}</p>
+          <p className="subscription-hint">{channel.hint}</p>
+          {channel.url && (
+            <a
+              className="text-link subscription-link"
+              href={channel.url}
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label={channel.action + "（新标签页）"}
+            >
+              {channel.action}
+              <ExternalLink size={12} aria-hidden="true" />
+            </a>
+          )}
+        </section>
+      ))}
+    </div>
   );
 }
 export function Sidebar({

@@ -25,9 +25,11 @@ npm run preview
 ## 内容与维护
 
 - `content/site.json`：公开元数据、话题、路线、阶段、推荐顺序和站点设置。
+- `content/site-overrides.json`：本静态站的微信/小红书订阅链接与本地二维码，构建时覆盖对应设置，重新导出数据库内容时保留。
 - `content/articles/{signal,depth,node}/*.json`：每篇公开文章的完整记录，正文为 Markdown。
 - `content/provenance.json`：导出来源、时间、公开 ID/slug 清单、正文哈希、总数与排除统计。
 - `public/uploads/`：公开内容引用的原站本地媒体；未引用的媒体不会导出。
+- `public/uploads/subscriptions/`：真实微信公众号二维码及根据用户提供的主页链接生成的小红书二维码，随站点本地托管；详见[订阅二维码](docs/订阅二维码.md)。
 - `public/brand/`：从设计稿灯塔区域提取的三个小型 WebP 和品牌图标，未携带设计稿中的文字或示例二维码。
 
 数据库导出只在本机维护时使用，不属于 `npm run build`：

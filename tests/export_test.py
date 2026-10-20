@@ -51,6 +51,12 @@ class VisibilityTests(unittest.TestCase):
             try:
                 exporter.export(state,source,{'type':'isolated-test'},AT)
                 self.assertEqual({x.name for x in (target/'public/uploads').iterdir()},{'inline.png','reference.webp'})
+                native = target/'public/uploads/subscriptions/qr.png'
+                native.parent.mkdir();native.write_bytes(b'locally maintained subscription QR')
+                exporter.export({**state,'contents':[]},source,{'type':'isolated-test'},AT)
+                self.assertTrue(native.is_file())
+                self.assertFalse((target/'public/uploads/inline.png').exists())
+                self.assertFalse((target/'public/uploads/reference.webp').exists())
             finally:exporter.ROOT,exporter.PRIVATE=old_root,old_private
 
     def test_original_publication_boundary_and_statuses(self):

@@ -182,6 +182,10 @@ def read_mysql(args):
 
 
 def export(state, source, meta, at):
+    previous_media = []
+    previous_manifest = ROOT / 'content/provenance.json'
+    if previous_manifest.is_file():
+        previous_media = json.loads(previous_manifest.read_text()).get('referencedLocalMedia', [])
     all_items = state['contents']
     ids, slugs = set(), set()
     for item in all_items:
@@ -269,8 +273,13 @@ def export(state, source, meta, at):
         if target.exists(): target.unlink()
         shutil.move(str(file), str(target))
     shutil.rmtree(staging)
-    for prefix in ('uploads', 'design'):
-        shutil.rmtree(ROOT / 'public' / prefix, ignore_errors=True)
+    # Remove only stale files owned by previous database exports. Site-maintained
+    # subscription images and other explicit public assets must survive re-export.
+    current_media = {x[2] for x in copied}
+    for url in set(previous_media) - current_media:
+        path = (ROOT / 'public' / unquote(urlsplit(url).path).lstrip('/')).resolve()
+        if any(path.is_relative_to((ROOT / 'public' / prefix).resolve()) for prefix in ('uploads', 'design')) and path.is_file():
+            path.unlink()
     for original, dest, _ in copied:
         dest.parent.mkdir(parents=True, exist_ok=True)
         shutil.copy2(original, dest)

@@ -45,6 +45,7 @@ import {
   Meta,
   ArticleRow,
   SubscribeCard,
+  SubscriptionCodes,
   Sidebar,
   Markdown,
   Modal,
@@ -290,23 +291,9 @@ export default function App({ initialSite }: { initialSite: Site }) {
       </footer>
       {subscribe && (
         <Modal title="保持连接，不错过重要信号" onClose={close}>
-          <p>扫码接收每周精选与重要 AI 信号</p>
-          <div className="qr-large">
-            {site.settings.qrCode ? (
-              <img
-                src={assetUrl(site.settings.qrCode)}
-                alt={`${site.settings.wechatName} 公众号二维码`}
-              />
-            ) : (
-              <>
-                <BrandMark />
-                <strong>二维码待配置</strong>
-                <small>配置后即可扫码关注</small>
-              </>
-            )}
-          </div>
-          <h3 className="blue">{site.settings.wechatName}</h3>
-          <p className="small muted">每一次阅读，都是找到方向的一点光。</p>
+          <p>微信读精选，小红书看日常分享。也可以直接打开下方链接。</p>
+          <SubscriptionCodes site={site} expanded />
+          <p className="small muted">手机可长按二维码识别或保存。</p>
         </Modal>
       )}
     </>

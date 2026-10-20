@@ -2,6 +2,7 @@ import { readFile, access, readdir } from "node:fs/promises";
 import { resolve, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 import { createHash } from "node:crypto";
+import { applySiteOverrides } from "./site-settings.mjs";
 
 const root = resolve(dirname(fileURLToPath(import.meta.url)), "..");
 const hash = (value) => createHash("sha256").update(value).digest("hex");
@@ -23,6 +24,7 @@ export async function validateContent() {
       "缺少公开内容源。先运行 npm run content:export；构建不会读取数据库或使用 seed。",
     );
   }
+  site = await applySiteOverrides(site, root);
   const errors = [],
     ids = new Set(),
     paths = new Set();

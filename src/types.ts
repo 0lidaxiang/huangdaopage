@@ -46,6 +46,9 @@ export type Settings = {
   tagline: string;
   wechatName: string;
   qrCode: string;
+  wechatUrl?: string;
+  xiaohongshuUrl?: string;
+  xiaohongshuQrCode?: string;
   about: string;
   consulting: string;
   contact: string;
