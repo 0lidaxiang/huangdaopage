@@ -1,0 +1,36 @@
+{
+  "id": "update-signal-20260928-claude-sonnet-55",
+  "kind": "signal",
+  "slug": "claude-sonnet-55-20260928",
+  "title": "Claude Sonnet 5.5 上线，日常编程与文档工作继续提速",
+  "summary": "定位于范围清楚的日常任务，官方称输出速度比 Sonnet 5 提升超过 30%。",
+  "body": "## 发生了什么\n\n**消息日期：2026-09-28。** 9 月 28 日，Anthropic 发布 Claude Sonnet 5.5。它在产品线中承担较低成本、较快响应的工作，主要场景是修复缺陷、完成范围明确的开发任务，以及制作文档、幻灯片和表格。\n\n官方称它的输出速度比 Sonnet 5 快 30% 以上，多数任务成本最多降低约 30%。公告同时指出，复杂、开放式且需要持续判断的工作仍是 Opus 5.5 的优势；选择模型时可以按具体任务比较完成质量与总耗时。\n\n## 原始来源\n\n- [Anthropic 官方公告](https://www.anthropic.com/claude-sonnet-5-5)\n\n荒岛书生依据官方公开资料整理，核验于 2026 年 10 月 20 日。",
+  "category": "模型",
+  "topics": [
+    "models",
+    "developer",
+    "agent",
+    "product"
+  ],
+  "author": "荒岛书生",
+  "source": "Anthropic",
+  "sourceUrl": "https://www.anthropic.com/claude-sonnet-5-5",
+  "cover": "",
+  "status": "published",
+  "publishedAt": "2026-09-28T00:00:00Z",
+  "updatedAt": "2026-10-20T08:50:48+00:00",
+  "readMinutes": 1,
+  "featured": false,
+  "seoTitle": "Claude Sonnet 5.5 上线，日常编程与文档工作继续提速",
+  "seoDescription": "定位于范围清楚的日常任务，官方称输出速度比 Sonnet 5 提升超过 30%。",
+  "route": "",
+  "stage": "",
+  "year": "",
+  "people": [],
+  "order": 0,
+  "related": [
+    "update-node-20260928-claude-sonnet-55",
+    "launch-agent-work-and-verification"
+  ],
+  "revision": 1
+}

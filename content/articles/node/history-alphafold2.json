@@ -9,13 +9,13 @@
   "topics": [
     "models"
   ],
-  "author": "荒岛有信号",
+  "author": "荒岛书生",
   "source": "公开资料 · 原创整理",
   "sourceUrl": "https://www.nature.com/articles/s41586-021-03819-2",
   "cover": "",
   "status": "published",
   "publishedAt": "2026-09-09T08:00:00+08:00",
-  "updatedAt": "2026-09-10T11:03:36+08:00",
+  "updatedAt": "2026-10-20T08:48:07+00:00",
   "readMinutes": 2,
   "featured": false,
   "seoTitle": "2021｜AlphaFold 2：结构预测进入高精度阶段",
@@ -31,5 +31,5 @@
   "related": [
     "launch-news-alphagenome-atlas"
   ],
-  "revision": 2
+  "revision": 3
 }

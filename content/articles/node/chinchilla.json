@@ -4,19 +4,19 @@
   "slug": "chinchilla",
   "title": "Chinchilla：模型和训练数据要一起扩展",
   "summary": "固定训练预算下，更多参数不一定是更好的资源分配。",
-  "body": "## 历史坐标\n\n**时间：2022.03.29。** 这里记录事件或论文首次公开时间，页面的发布日期是本站整理时间。\n\n**关键人物：Jordan Hoffmann、Sebastian Borgeaud、Arthur Mensch。** 人物用于标识相关贡献者；大型项目由团队共同完成，并非单一人物的作品。\n\n## 发生了什么\n\nChinchilla 论文研究模型大小、训练 token 数与计算预算的关系。实验显示，当时一些大模型训练不足，增加数据、调整模型规模可以更有效地使用预算。\n\n## 为什么值得记住\n\n把“模型多大”当作唯一能力指标，会忽略它是否得到充分训练。这个节点把讨论从单一规模数字，推进到参数、数据和计算之间的联合设计。\n\n## 放回历史中看\n\n论文结论来自特定实验范围与目标。训练成本最优并不自动等于部署总成本最优；当推理请求量很大，训练更久的小模型也可能是合理方案。\n\n## 资料与延伸阅读\n\n- [Hoffmann 等，Training Compute-Optimal Large Language Models](https://arxiv.org/abs/2203.15556)\n- [返回 AI 演化地图](/evolution)\n\n本文为荒岛编辑部依据公开资料撰写的历史条目；“为什么值得记住”和比较性表述属于编辑分析。资料核验：2026 年 9 月 5 日。",
+  "body": "## 历史坐标\n\n**时间：2022.03.29。** 这里记录事件或论文首次公开时间，页面的发布日期是本站整理时间。\n\n**关键人物：Jordan Hoffmann、Sebastian Borgeaud、Arthur Mensch。** 人物用于标识相关贡献者；大型项目由团队共同完成，并非单一人物的作品。\n\n## 发生了什么\n\nChinchilla 论文研究模型大小、训练 token 数与计算预算的关系。实验显示，当时一些大模型训练不足，增加数据、调整模型规模可以更有效地使用预算。\n\n## 为什么值得记住\n\n把“模型多大”当作唯一能力指标，会忽略它是否得到充分训练。这个节点把讨论从单一规模数字，推进到参数、数据和计算之间的联合设计。\n\n## 放回历史中看\n\n论文结论来自特定实验范围与目标。训练成本最优并不自动等于部署总成本最优；当推理请求量很大，训练更久的小模型也可能是合理方案。\n\n## 资料与延伸阅读\n\n- [Hoffmann 等，Training Compute-Optimal Large Language Models](https://arxiv.org/abs/2203.15556)\n- [返回 AI 演化地图](/evolution)\n\n本文为荒岛书生编辑部依据公开资料撰写的历史条目；“为什么值得记住”和比较性表述属于编辑分析。资料核验：2026 年 9 月 5 日。",
   "category": "历史节点",
   "topics": [
     "history",
     "models"
   ],
-  "author": "荒岛编辑部",
+  "author": "荒岛书生编辑部",
   "source": "Hoffmann 等，Training Compute-Optimal Large Language Models",
   "sourceUrl": "https://arxiv.org/abs/2203.15556",
   "cover": "",
   "status": "published",
   "publishedAt": "2026-09-05T06:00:00Z",
-  "updatedAt": "2026-09-05T15:20:46+08:00",
+  "updatedAt": "2026-10-20T08:48:07+00:00",
   "readMinutes": 2,
   "featured": false,
   "seoTitle": "Chinchilla：模型和训练数据要一起扩展",
@@ -33,5 +33,5 @@
   "related": [
     "editorial-depth-scaling-laws"
   ],
-  "revision": 1
+  "revision": 2
 }

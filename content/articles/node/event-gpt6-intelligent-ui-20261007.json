@@ -1,0 +1,36 @@
+{
+  "id": "update-node-20261007-gpt6-intelligent-ui",
+  "kind": "node",
+  "slug": "event-gpt6-intelligent-ui-20261007",
+  "title": "GPT-6 Intelligent UI：对话回答开始生成可操作的界面",
+  "summary": "按问题组合图表、按钮和小工具，把部分操作留在对话内部。",
+  "body": "## 事件坐标\n\n**2026-10-07。** 10 月 7 日，OpenAI 宣布将 GPT-6 带给更多 ChatGPT 用户，并介绍 Intelligent UI。模型可以根据问题组合文字、图形和交互控件，让用户直接在对话里操作图表、按钮、表单或计算工具。\n\n## 放在路线中看\n\n从 ELIZA 和对话助手走到这里，产品输出开始包括界面本身。交互可以帮助解释和计算，也增加了对数据正确性、操作反馈和使用便利性的要求。\n\n## 资料与延伸阅读\n\n- [OpenAI 官方公告](https://openai.com/index/gpt-6-for-everyone/)\n- [阅读对应短讯](/signals/gpt6-intelligent-ui-20261007)\n- [返回这条演化路线](/evolution/product)\n\n本节点由荒岛书生于 2026 年 10 月 20 日整理；路线解读为编辑分析。",
+  "category": "产品演进",
+  "topics": [
+    "models",
+    "product",
+    "multimodal",
+    "history"
+  ],
+  "author": "荒岛书生",
+  "source": "OpenAI",
+  "sourceUrl": "https://openai.com/index/gpt-6-for-everyone/",
+  "cover": "",
+  "status": "published",
+  "publishedAt": "2026-10-20T08:50:48+00:00",
+  "updatedAt": "2026-10-20T08:50:48+00:00",
+  "readMinutes": 1,
+  "featured": false,
+  "seoTitle": "GPT-6 Intelligent UI：对话回答开始生成可操作的界面",
+  "seoDescription": "按问题组合图表、按钮和小工具，把部分操作留在对话内部。",
+  "route": "product",
+  "stage": "Agent 时代",
+  "year": "2026.10.07",
+  "people": [],
+  "order": 20261007,
+  "related": [
+    "update-signal-20261007-gpt6-intelligent-ui",
+    "launch-agent-work-and-verification"
+  ],
+  "revision": 1
+}

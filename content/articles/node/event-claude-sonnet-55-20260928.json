@@ -1,0 +1,37 @@
+{
+  "id": "update-node-20260928-claude-sonnet-55",
+  "kind": "node",
+  "slug": "event-claude-sonnet-55-20260928",
+  "title": "Claude Sonnet 5.5：日常开发任务继续优化速度与成本",
+  "summary": "模型分工更清楚：快速处理范围明确的任务，复杂工作仍需单独评估。",
+  "body": "## 事件坐标\n\n**2026-09-28。** 9 月 28 日，Anthropic 发布 Claude Sonnet 5.5。它在产品线中承担较低成本、较快响应的工作，主要场景是修复缺陷、完成范围明确的开发任务，以及制作文档、幻灯片和表格。\n\n## 放在路线中看\n\n编程模型的变化逐渐体现在修复一次缺陷的总时间、重试和交付质量。Sonnet 5.5 的发布可以作为按任务分配模型的观察点，速度或单项基准不能替代项目验证。\n\n## 资料与延伸阅读\n\n- [Anthropic 官方公告](https://www.anthropic.com/claude-sonnet-5-5)\n- [阅读对应短讯](/signals/claude-sonnet-55-20260928)\n- [返回这条演化路线](/evolution/coding)\n\n本节点由荒岛书生于 2026 年 10 月 20 日整理；路线解读为编辑分析。",
+  "category": "近期节点",
+  "topics": [
+    "models",
+    "developer",
+    "agent",
+    "product",
+    "history"
+  ],
+  "author": "荒岛书生",
+  "source": "Anthropic",
+  "sourceUrl": "https://www.anthropic.com/claude-sonnet-5-5",
+  "cover": "",
+  "status": "published",
+  "publishedAt": "2026-10-20T08:50:48+00:00",
+  "updatedAt": "2026-10-20T08:50:48+00:00",
+  "readMinutes": 1,
+  "featured": false,
+  "seoTitle": "Claude Sonnet 5.5：日常开发任务继续优化速度与成本",
+  "seoDescription": "模型分工更清楚：快速处理范围明确的任务，复杂工作仍需单独评估。",
+  "route": "coding",
+  "stage": "Agent 时代",
+  "year": "2026.09.28",
+  "people": [],
+  "order": 20260928,
+  "related": [
+    "update-signal-20260928-claude-sonnet-55",
+    "launch-agent-work-and-verification"
+  ],
+  "revision": 1
+}

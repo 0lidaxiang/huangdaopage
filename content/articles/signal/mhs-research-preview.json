@@ -4,20 +4,20 @@
   "slug": "mhs-research-preview",
   "title": "Anthropic 预览 MHS：让 Agent 连接物理设备",
   "summary": "从连接软件工具走向实验设备，接口规范之外还需要明确操作边界。",
-  "body": "## 发生了什么\n\n**消息日期：2026-08-27。** Anthropic 开放 Model Hardware Standard 的研究预览，初期面向部分科研实验室和先进制造团队，目标是以共同规范帮助 Agent 操作可编程设备。公告介绍了设备描述与接口方式。\n\n## 为什么值得关注\n\n编辑观察：MCP 讨论的连接问题正在延伸到物理世界。实验仪器的状态、校准与动作后果，比普通文本工具更复杂，标准接口只是起点。\n\n## 需要分清的边界\n\n研究预览不等于所有设备均已兼容，也不能把演示直接当作可无人值守的生产方案。具体设备限制和现场责任仍需要系统设计解决。\n\n## 原始来源\n\n- [Anthropic 官方原文](https://www.anthropic.com/news/model-hardware-standard-research-preview)\n\n荒岛编辑部依据一手公告撰写，事实与编辑分析分列。核验日期：2026 年 9 月 5 日；未独立复现厂商性能测试。",
+  "body": "## 发生了什么\n\n**消息日期：2026-08-27。** Anthropic 开放 Model Hardware Standard 的研究预览，初期面向部分科研实验室和先进制造团队，目标是以共同规范帮助 Agent 操作可编程设备。公告介绍了设备描述与接口方式。\n\n## 为什么值得关注\n\n编辑观察：MCP 讨论的连接问题正在延伸到物理世界。实验仪器的状态、校准与动作后果，比普通文本工具更复杂，标准接口只是起点。\n\n## 需要分清的边界\n\n研究预览不等于所有设备均已兼容，也不能把演示直接当作可无人值守的生产方案。具体设备限制和现场责任仍需要系统设计解决。\n\n## 原始来源\n\n- [Anthropic 官方原文](https://www.anthropic.com/news/model-hardware-standard-research-preview)\n\n荒岛书生编辑部依据一手公告撰写，事实与编辑分析分列。核验日期：2026 年 9 月 5 日；未独立复现厂商性能测试。",
   "category": "研究",
   "topics": [
     "agent",
     "developer",
     "science"
   ],
-  "author": "荒岛编辑部",
+  "author": "荒岛书生编辑部",
   "source": "Anthropic",
   "sourceUrl": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
   "cover": "",
   "status": "published",
   "publishedAt": "2026-08-27T00:00:00+08:00",
-  "updatedAt": "2026-09-05T15:20:46+08:00",
+  "updatedAt": "2026-10-20T08:48:07+00:00",
   "readMinutes": 2,
   "featured": false,
   "seoTitle": "Anthropic 预览 MHS：让 Agent 连接物理设备",
@@ -30,6 +30,6 @@
     "n3",
     "d1"
   ],
-  "revision": 1,
+  "revision": 2,
   "people": []
 }

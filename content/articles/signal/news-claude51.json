@@ -11,13 +11,13 @@
     "agent",
     "developer"
   ],
-  "author": "荒岛有信号",
+  "author": "荒岛书生",
   "source": "Anthropic · 官方发布",
   "sourceUrl": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
   "cover": "",
   "status": "published",
   "publishedAt": "2026-09-01T12:00:00+08:00",
-  "updatedAt": "2026-09-10T11:03:36+08:00",
+  "updatedAt": "2026-10-20T08:48:07+00:00",
   "readMinutes": 2,
   "featured": false,
   "seoTitle": "Anthropic 发布 Claude Fable 5.1 与 Mythos 5.1，采用不同访问与防护安排",
@@ -30,6 +30,6 @@
     "launch-post-training-and-truth",
     "launch-agent-work-and-verification"
   ],
-  "revision": 2,
+  "revision": 3,
   "people": []
 }

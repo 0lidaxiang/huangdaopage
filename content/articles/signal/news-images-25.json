@@ -10,13 +10,13 @@
     "multimodal",
     "product"
   ],
-  "author": "荒岛有信号",
+  "author": "荒岛书生",
   "source": "OpenAI · 系统卡",
   "sourceUrl": "https://deploymentsafety.openai.com/chatgpt-images-2-5",
   "cover": "",
   "status": "published",
   "publishedAt": "2026-09-08T12:00:00+08:00",
-  "updatedAt": "2026-09-10T11:03:36+08:00",
+  "updatedAt": "2026-10-20T08:48:07+00:00",
   "readMinutes": 2,
   "featured": false,
   "seoTitle": "OpenAI 发布 Images 2.5 系统卡，强调编辑一致性与生成控制",
@@ -29,6 +29,6 @@
     "launch-diffusion-and-multimodal",
     "launch-history-latent-diffusion"
   ],
-  "revision": 2,
+  "revision": 3,
   "people": []
 }

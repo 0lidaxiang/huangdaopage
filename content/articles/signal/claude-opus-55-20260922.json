@@ -1,0 +1,34 @@
+{
+  "id": "update-signal-20260922-claude-opus-55",
+  "kind": "signal",
+  "slug": "claude-opus-55-20260922",
+  "title": "Claude Opus 5.5 发布，面向复杂任务降低运行成本",
+  "summary": "Claude 5.5 系列首款模型，重点改进编程、知识工作与长任务协作。",
+  "body": "## 发生了什么\n\n**消息日期：2026-09-22。** Anthropic 于 9 月 22 日推出 Claude Opus 5.5，作为 Claude 5.5 系列的首款模型。官方将它定位于需要持续判断的复杂工作，改进方向包括代码迁移、软件优化、文档工作和长时间协作。\n\n发布公告给出的标准 API 价格为每百万输入 token 4 美元、输出 20 美元。官方称典型任务成本较 Opus 5 下降约 40%；这是其测试口径，实际花费还受任务长度、缓存命中和重试影响。\n\n## 原始来源\n\n- [Anthropic 官方公告](https://www.anthropic.com/claude-opus-5-5)\n\n荒岛书生依据官方公开资料整理，核验于 2026 年 10 月 20 日。",
+  "category": "模型",
+  "topics": [
+    "models",
+    "agent",
+    "developer"
+  ],
+  "author": "荒岛书生",
+  "source": "Anthropic",
+  "sourceUrl": "https://www.anthropic.com/claude-opus-5-5",
+  "cover": "",
+  "status": "published",
+  "publishedAt": "2026-09-22T00:00:00Z",
+  "updatedAt": "2026-10-20T08:50:48+00:00",
+  "readMinutes": 1,
+  "featured": false,
+  "seoTitle": "Claude Opus 5.5 发布，面向复杂任务降低运行成本",
+  "seoDescription": "Claude 5.5 系列首款模型，重点改进编程、知识工作与长任务协作。",
+  "route": "",
+  "stage": "",
+  "year": "",
+  "people": [],
+  "order": 0,
+  "related": [
+    "launch-agent-work-and-verification"
+  ],
+  "revision": 1
+}

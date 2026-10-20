@@ -1,0 +1,37 @@
+{
+  "id": "update-node-20261013-gemini4-argon",
+  "kind": "node",
+  "slug": "event-gemini4-argon-20261013",
+  "title": "Gemini 4 Argon：模型能力继续面向复杂工程任务",
+  "summary": "代码、科学与多步骤工作成为这一轮发布的主要场景。",
+  "body": "## 事件坐标\n\n**2026-10-13。** Google 于 10 月 13 日宣布 Gemini 4 Argon 上线，提供 Gemini API，并按对应条件进入 Gemini 应用、搜索 AI Mode 与 Antigravity。官方将复杂工程、科学研究和多步骤专业工作列为主要场景。\n\n## 放在路线中看\n\n评估模型的尺度进一步延伸到跨文件修改、工具使用和可验证的交付物。官方展示的工程与科研案例说明了探索方向，是否适用于其他项目仍需在相应数据与工具条件下检查。\n\n## 资料与延伸阅读\n\n- [Google 官方公告](https://blog.google/intl/en-mena/product-updates/explore-get-answers/gemini-4-argon-built-to-solve-your-hardest-problems/)\n- [阅读对应短讯](/signals/gemini4-argon-20261013)\n- [返回这条演化路线](/evolution/capability)\n\n本节点由荒岛书生于 2026 年 10 月 20 日整理；路线解读为编辑分析。",
+  "category": "近期节点",
+  "topics": [
+    "models",
+    "agent",
+    "developer",
+    "science",
+    "history"
+  ],
+  "author": "荒岛书生",
+  "source": "Google",
+  "sourceUrl": "https://blog.google/intl/en-mena/product-updates/explore-get-answers/gemini-4-argon-built-to-solve-your-hardest-problems/",
+  "cover": "",
+  "status": "published",
+  "publishedAt": "2026-10-20T08:50:48+00:00",
+  "updatedAt": "2026-10-20T08:50:48+00:00",
+  "readMinutes": 1,
+  "featured": false,
+  "seoTitle": "Gemini 4 Argon：模型能力继续面向复杂工程任务",
+  "seoDescription": "代码、科学与多步骤工作成为这一轮发布的主要场景。",
+  "route": "capability",
+  "stage": "Agent 时代",
+  "year": "2026.10.13",
+  "people": [],
+  "order": 20261013,
+  "related": [
+    "update-signal-20261013-gemini4-argon",
+    "launch-reasoning-compute-and-checks"
+  ],
+  "revision": 1
+}

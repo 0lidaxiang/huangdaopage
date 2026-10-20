@@ -1,0 +1,35 @@
+{
+  "id": "update-signal-20261007-gpt6-intelligent-ui",
+  "kind": "signal",
+  "slug": "gpt6-intelligent-ui-20261007",
+  "title": "GPT-6 向更多 ChatGPT 用户开放，加入可交互回答",
+  "summary": "Intelligent UI 可以按问题组合图表、按钮、表单和小工具。",
+  "body": "## 发生了什么\n\n**消息日期：2026-10-07。** 10 月 7 日，OpenAI 宣布将 GPT-6 带给更多 ChatGPT 用户，并介绍 Intelligent UI。模型可以根据问题组合文字、图形和交互控件，让用户直接在对话里操作图表、按钮、表单或计算工具。\n\n官方示例包括交互式原理解说、费用分摊和行程规划。产品变化在于回答的呈现方式也可以随任务调整；需要简短文字时仍可直接作答。实际入口与可用范围应以相应套餐和产品界面为准。\n\n## 原始来源\n\n- [OpenAI 官方公告](https://openai.com/index/gpt-6-for-everyone/)\n\n荒岛书生依据官方公开资料整理，核验于 2026 年 10 月 20 日。",
+  "category": "产品",
+  "topics": [
+    "models",
+    "product",
+    "multimodal"
+  ],
+  "author": "荒岛书生",
+  "source": "OpenAI",
+  "sourceUrl": "https://openai.com/index/gpt-6-for-everyone/",
+  "cover": "",
+  "status": "published",
+  "publishedAt": "2026-10-07T00:00:00Z",
+  "updatedAt": "2026-10-20T08:50:48+00:00",
+  "readMinutes": 1,
+  "featured": false,
+  "seoTitle": "GPT-6 向更多 ChatGPT 用户开放，加入可交互回答",
+  "seoDescription": "Intelligent UI 可以按问题组合图表、按钮、表单和小工具。",
+  "route": "",
+  "stage": "",
+  "year": "",
+  "people": [],
+  "order": 0,
+  "related": [
+    "update-node-20261007-gpt6-intelligent-ui",
+    "launch-agent-work-and-verification"
+  ],
+  "revision": 1
+}

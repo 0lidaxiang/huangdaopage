@@ -382,8 +382,8 @@ function Home({ site, sub }: { site: Site; sub: () => void }) {
           </div>
         )}
         <section className="panel signals-panel">
-          <SectionTitle title="今日信号" to="/signals" label="全部" />
-          <p className="section-subtitle">正在发生，也值得回看</p>
+          <SectionTitle title="最新信号" to="/signals" label="全部" />
+          <p className="section-subtitle">模型发布、产品变化与值得回看的事件</p>
           <div className="signal-timeline">
             {items.map((c, i) => (
               <article key={c.id}>
@@ -579,7 +579,7 @@ function Listing({
     : topic
       ? "# " + topic.name
       : search
-        ? "搜索荒岛"
+        ? "搜索荒岛书生"
         : "信号";
   const content = (
     <>

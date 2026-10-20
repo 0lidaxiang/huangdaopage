@@ -1,0 +1,38 @@
+{
+  "id": "editorial-depth-artificial-analysis-index-guide",
+  "kind": "depth",
+  "slug": "artificial-analysis-index-guide",
+  "title": "10月最新AI榜单：Claude第一，GPT-6.1 Sol紧追Astra",
+  "summary": "Claude Opus 5.5 拿到 58 分，Sol 与 Astra 的取整分数只差一分。把 10 月最新的分数和成本图放在一起，这轮竞争更有看头。",
+  "body": "10 月这张 AI 榜单，前排已经挤得很热闹了。\n\nClaude Opus 5.5 拿到 58 分，排在最前面。后面一口气挤着三个 56 分：Claude Sonnet 5.5、另一个推理配置的 Opus 5.5，还有 Meta 的 Muse Wonder Full。\n\n但把第二张成本图放到旁边，我更想聊的是 GPT-6.1 Sol。\n\nSol 是 52 分，GPT-6 Astra 的 max 配置是 53 分。显示分数只差一分，成本位置却隔开了一段距离。对经常用 AI 干活的人来说，这个变化很具体：接近旗舰的能力，开始出现在更便宜的档位上。\n\n下面两张图来自 **2026 年 10 月 20 日的 Artificial Analysis 榜单**，对应 v4.3.2 版本。第一张重新排成了竖榜，原来的品牌色和“无公开 API”标记都保留了。\n\n## Claude 第一，前排已经挤满了\n\n先看完整的分数分布。这里展示的是页面选中的 32 个配置，完整候选库当时有 696 个条目。\n\n```site-chart\naa-intelligence-2026-10-20\n```\n\nClaude 这一轮最有存在感：Opus 5.5 占着榜首，Sonnet 5.5 的 max with fallback 配置也到了 56 分。如果只看产品名字，很容易觉得 Sonnet 理应比 Opus 低一档；放到这套测试里，它已经站到了非常靠前的位置。\n\nMeta 也挤进来了。Muse Wonder Full 同样显示为 56 分，超过了图中 Astra 和 Argon 的取整分数。不过它带着方格纹：**当时没有公开 API**。成绩可以先看，能不能接进自己的工作流，还要另算。\n\n再往下，Astra、Gemini 4 Argon、Muse Wonder、GPT-6.1 Sol 聚在 52、53 分这一带。前排品牌越来越多，读者也有了更多可以比较的对象。\n\n这里我会保留两个细节：一是分数取了整，同为 56 分的条目，原始小数可能不同；二是 max、xhigh、high、with fallback 这些后缀要一起看。同一个系列换了配置，位置也会变，不能把其中一个成绩套给所有用法。\n\n## Sol 离 Astra 很近，价格却没有挤在一起\n\n第二张图更有看头。\n\n纵轴还是智能指数，横轴换成了完成评测任务的成本。越往上，综合分数越高；越往左，花的钱越少。\n\n```site-chart\naa-cost-2026-10-20\n```\n\nSol 的点明显在 Astra 左边，分数却很接近。这说明，在这套任务和计费口径下，Sol 用更低的成本，做到了接近 Astra 的综合成绩。\n\n对模型公司，这是产品分档的问题；对使用者，它会影响一件更日常的事：哪些任务可以放心多跑几次。\n\n整理资料、改写初稿、处理重复代码、批量核对材料，这些工作经常要反复修改。假如便宜一档的模型已经能把大部分工作接住，就可以多留一些预算给真正难的部分。最后究竟省了多少，还得把失败和返工算进去，但候选范围已经变宽了。\n\n当然，这两点也不能被读成“Sol 已经全面追平 Astra”。它们在你的具体难题上，可能拉开比总分更大的距离。综合成绩接近，值得拿同一组真实任务比较一次，看看你的场景里能省下多少成本。\n\n## 单价便宜，和把活干便宜，是两件事\n\n这也是我觉得第二张图比一张 API 价目表更有用的原因。\n\n它算的是指数任务的加权平均成本，包含输入、缓存、推理和最终答案等 token 的费用。一个模型每百万 token 很便宜，如果完成任务要绕很多圈、输出很多内容，最后的账单未必同样好看。\n\n反过来，一个单价高的模型，如果能少走弯路，也可能在某类任务里更划算。对我们来说，真正想知道的是：这件事做完，花了多少钱，又省下了多少自己的时间。\n\n图里的虚线，就是把分数与成本的取舍连起来看的帕累托前沿。靠近这条线的候选值得关注：在所采用的比较范围里，想再省钱或再提高分数，往往需要接受另一边的让步。绿色区域则让较高分、较低成本的组合更容易被看到。\n\n横轴用了对数坐标，同样一段距离表示的是成本倍数，不能按普通等距价格尺去读。原图里的点也不足以让我们精确读出每个模型的小数价格，所以这里保留高清图，不补造一张“精确到分”的价目表。\n\n## 这张榜能看竞争，选主力还得看自己的活\n\n这套智能指数把十项评测合在一起，Agent 任务占 30%，编程占 20%，科学推理占 20%，通用能力占 30%。它比较的是一组有明确权重的任务，58 分不能直接读成日常使用的正确率。\n\n它也主要面向英文、文本任务。中文写作是否顺手，生图能否保持人物一致，做出来的 3D 场景好不好看，都要接着看相应测试。之前聊的 Nano Banana 和 3D 实验，就不能拿这张总榜直接判输赢。\n\n如果现在让我从这张图里挑几个候选继续看，我会把 Claude 的领先配置、Sol 这样的成本效率候选，以及最适合自己工具环境的模型放到同一组真实任务里。重点看结果，也看中间有没有反复解释、遗漏材料和返工。\n\n**10 月这轮榜单最值得关注的，是选择变多了。** Claude 把综合分数推到前面，Sol 让接近旗舰的能力出现在更低成本的位置，其他厂商也在挤进来。模型之间的差别，越来越需要放到“这件事做得怎样、总共花了多少”里一起看。\n\n下次再有新模型发布，我想接着看两个问题：它有没有把难题做得更稳，以及普通人能不能用更低的代价，把这些能力真正用起来。\n\n## 图表来源\n\n- [Artificial Analysis Intelligence Index v4.3.2：2026 年 10 月榜单](https://artificialanalysis.ai/evaluations/artificial-analysis-intelligence-index)\n- [Artificial Analysis：评测方法、权重与版本记录](https://artificialanalysis.ai/methodology/intelligence-benchmarking)\n\n本文依据 2026 年 10 月 20 日的榜单快照与官方方法整理，属于榜单点评。分数按原图取整，保留原始排序；并非本站重新跑出的模型实测。第一张可展开查看全部 32 项，第二张可点击放大。",
+  "category": "模型观察",
+  "topics": [
+    "models",
+    "developer",
+    "product"
+  ],
+  "author": "荒岛书生",
+  "source": "Artificial Analysis",
+  "sourceUrl": "https://artificialanalysis.ai/evaluations/artificial-analysis-intelligence-index",
+  "cover": "",
+  "status": "published",
+  "publishedAt": "2026-10-20T09:43:59Z",
+  "updatedAt": "2026-10-20T09:49:11Z",
+  "readMinutes": 7,
+  "featured": true,
+  "seoTitle": "10月最新AI榜单：Claude第一，GPT-6.1 Sol紧追Astra",
+  "seoDescription": "2026 年 10 月最新 AI 榜单点评：Claude Opus 5.5 领跑，GPT-6.1 Sol 接近 Astra，成本却更低。附 Artificial Analysis v4.3.2 原色竖榜与成本原图。",
+  "route": "",
+  "stage": "",
+  "year": "",
+  "people": [],
+  "order": 0,
+  "related": [
+    "editorial-depth-astra-sol-3d-evaluations",
+    "editorial-depth-muse-personal-agent-wave",
+    "update-signal-20260929-gpt-61-sol",
+    "update-signal-20260922-claude-opus-55",
+    "editorial-depth-reasoning-and-verification"
+  ],
+  "revision": 2
+}

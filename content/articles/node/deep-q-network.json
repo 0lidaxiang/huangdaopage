@@ -4,19 +4,19 @@
   "slug": "deep-q-network",
   "title": "DQN：从像素到行动的强化学习",
   "summary": "深度网络开始学习行动的价值，Agent 的思想早于聊天模型。",
-  "body": "## 历史坐标\n\n**时间：2013.12.19。** 这里记录事件或论文首次公开时间，页面的发布日期是本站整理时间。\n\n**关键人物：Volodymyr Mnih、David Silver、Koray Kavukcuoglu、Demis Hassabis。** 人物用于标识相关贡献者；大型项目由团队共同完成，并非单一人物的作品。\n\n## 发生了什么\n\nDeepMind 团队发表 Playing Atari with Deep Reinforcement Learning，研究从游戏画面学习动作选择。网络估计状态与动作的价值，并从环境交互反馈中改善策略。\n\n## 为什么值得记住\n\n识别“画面里是什么”和判断“接下来应该做什么”是不同的问题。DQN 把感知与决策放入同一个学习系统，为后来讨论行动型 AI 提供了一个清楚的历史前驱。\n\n## 放回历史中看\n\n游戏有明确奖励和可重复环境，真实工作通常没有。把“得到高游戏分数”迁移成“可靠完成开放任务”，还需要处理奖励设计、探索成本和不可逆动作。\n\n## 资料与延伸阅读\n\n- [Mnih 等，Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602)\n- [返回 AI 演化地图](/evolution)\n\n本文为荒岛编辑部依据公开资料撰写的历史条目；“为什么值得记住”和比较性表述属于编辑分析。资料核验：2026 年 9 月 5 日。",
+  "body": "## 历史坐标\n\n**时间：2013.12.19。** 这里记录事件或论文首次公开时间，页面的发布日期是本站整理时间。\n\n**关键人物：Volodymyr Mnih、David Silver、Koray Kavukcuoglu、Demis Hassabis。** 人物用于标识相关贡献者；大型项目由团队共同完成，并非单一人物的作品。\n\n## 发生了什么\n\nDeepMind 团队发表 Playing Atari with Deep Reinforcement Learning，研究从游戏画面学习动作选择。网络估计状态与动作的价值，并从环境交互反馈中改善策略。\n\n## 为什么值得记住\n\n识别“画面里是什么”和判断“接下来应该做什么”是不同的问题。DQN 把感知与决策放入同一个学习系统，为后来讨论行动型 AI 提供了一个清楚的历史前驱。\n\n## 放回历史中看\n\n游戏有明确奖励和可重复环境，真实工作通常没有。把“得到高游戏分数”迁移成“可靠完成开放任务”，还需要处理奖励设计、探索成本和不可逆动作。\n\n## 资料与延伸阅读\n\n- [Mnih 等，Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602)\n- [返回 AI 演化地图](/evolution)\n\n本文为荒岛书生编辑部依据公开资料撰写的历史条目；“为什么值得记住”和比较性表述属于编辑分析。资料核验：2026 年 9 月 5 日。",
   "category": "历史节点",
   "topics": [
     "history",
     "agent"
   ],
-  "author": "荒岛编辑部",
+  "author": "荒岛书生编辑部",
   "source": "Mnih 等，Playing Atari with Deep Reinforcement Learning",
   "sourceUrl": "https://arxiv.org/abs/1312.5602",
   "cover": "",
   "status": "published",
   "publishedAt": "2026-09-05T06:00:00Z",
-  "updatedAt": "2026-09-05T15:20:46+08:00",
+  "updatedAt": "2026-10-20T08:48:07+00:00",
   "readMinutes": 2,
   "featured": false,
   "seoTitle": "DQN：从像素到行动的强化学习",
@@ -32,5 +32,5 @@
   ],
   "order": 20131219,
   "related": [],
-  "revision": 1
+  "revision": 2
 }

@@ -10,13 +10,13 @@
     "multimodal",
     "models"
   ],
-  "author": "荒岛有信号",
+  "author": "荒岛书生",
   "source": "公开资料 · 原创整理",
   "sourceUrl": "https://arxiv.org/abs/2112.10752",
   "cover": "",
   "status": "published",
   "publishedAt": "2026-09-09T08:00:00+08:00",
-  "updatedAt": "2026-09-10T11:03:36+08:00",
+  "updatedAt": "2026-10-20T08:48:07+00:00",
   "readMinutes": 2,
   "featured": false,
   "seoTitle": "2021–2022｜潜空间扩散：把图像生成搬到更紧凑的表示中",
@@ -36,5 +36,5 @@
     "launch-diffusion-and-multimodal",
     "launch-news-images-25"
   ],
-  "revision": 2
+  "revision": 3
 }

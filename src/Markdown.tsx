@@ -3,14 +3,29 @@ import remarkGfm from "remark-gfm";
 import rehypeHighlight from "rehype-highlight";
 import { Link } from "react-router-dom";
 import { assetUrl } from "./data";
+import { isValidElement, type ReactNode } from "react";
+import { articleFigure } from "./ArticleFigures";
 export default function Markdown({ body }: { body: string }) {
   return (
     <div className="markdown">
       <ReactMarkdown
         skipHtml
         remarkPlugins={[remarkGfm]}
-        rehypePlugins={[rehypeHighlight]}
+        rehypePlugins={[[rehypeHighlight, { plainText: ["site-chart"] }]]}
         components={{
+          pre: ({ children }) => {
+            if (
+              isValidElement<{ className?: string; children?: ReactNode }>(
+                children,
+              ) &&
+              children.props.className === "language-site-chart" &&
+              typeof children.props.children === "string"
+            ) {
+              const figure = articleFigure(children.props.children.trim());
+              if (figure) return figure;
+            }
+            return <pre>{children}</pre>;
+          },
           h2: ({ children, ...props }) => (
             <h2 id={String(children).trim().replace(/\s+/g, "-")} {...props}>
               {children}

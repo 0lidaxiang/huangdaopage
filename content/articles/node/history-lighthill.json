@@ -10,13 +10,13 @@
     "product",
     "models"
   ],
-  "author": "荒岛有信号",
+  "author": "荒岛书生",
   "source": "公开资料 · 原创整理",
   "sourceUrl": "https://archives.ucl.ac.uk/CalmView/Record.aspx?id=LIGHTHILL%2FK%2F668-685%2F683-685%2F684&src=CalmView.Catalog",
   "cover": "",
   "status": "published",
   "publishedAt": "2026-09-09T08:00:00+08:00",
-  "updatedAt": "2026-09-10T11:03:36+08:00",
+  "updatedAt": "2026-10-20T08:48:07+00:00",
   "readMinutes": 2,
   "featured": false,
   "seoTitle": "1973｜莱特希尔报告：AI 的承诺接受现实检验",
@@ -29,5 +29,5 @@
   ],
   "order": 40,
   "related": [],
-  "revision": 2
+  "revision": 3
 }

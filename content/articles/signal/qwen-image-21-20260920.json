@@ -1,0 +1,35 @@
+{
+  "id": "update-signal-20260920-qwen-image-21",
+  "kind": "signal",
+  "slug": "qwen-image-21-20260920",
+  "title": "千问开源 Qwen-Image-2.1，统一生图、编辑与透明图层",
+  "summary": "视觉生成部分采用 7B 参数，支持透明图片和最多 10 张参考图。",
+  "body": "## 发生了什么\n\n**消息日期：2026-09-20。** 千问团队于 9 月 20 日发布 Qwen-Image-2.1，将文生图与图像编辑合并到同一模型。官方介绍，其视觉生成部分为 7B 参数，原生支持生成、编辑透明图片，也能从照片中提取主体。\n\n编辑功能支持最多 10 张参考图，重点改善局部修改以及人物、商品外观的保持。对设计工作来说，透明背景和多图参考可以减少素材处理环节；具体画面质量仍要用自己的素材检验。\n\n## 原始来源\n\n- [Qwen Team 官方公告](https://qwen.ai/blog?id=qwen-image-2.1)\n\n荒岛书生依据官方公开资料整理，核验于 2026 年 10 月 20 日。",
+  "category": "多模态",
+  "topics": [
+    "models",
+    "multimodal",
+    "open-source"
+  ],
+  "author": "荒岛书生",
+  "source": "Qwen Team",
+  "sourceUrl": "https://qwen.ai/blog?id=qwen-image-2.1",
+  "cover": "",
+  "status": "published",
+  "publishedAt": "2026-09-20T00:00:00Z",
+  "updatedAt": "2026-10-20T08:50:48+00:00",
+  "readMinutes": 1,
+  "featured": false,
+  "seoTitle": "千问开源 Qwen-Image-2.1，统一生图、编辑与透明图层",
+  "seoDescription": "视觉生成部分采用 7B 参数，支持透明图片和最多 10 张参考图。",
+  "route": "",
+  "stage": "",
+  "year": "",
+  "people": [],
+  "order": 0,
+  "related": [
+    "update-node-20260920-qwen-image-21",
+    "launch-diffusion-and-multimodal"
+  ],
+  "revision": 1
+}

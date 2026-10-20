@@ -10,13 +10,13 @@
     "product",
     "models"
   ],
-  "author": "荒岛有信号",
+  "author": "荒岛书生",
   "source": "公开资料 · 原创整理",
   "sourceUrl": "https://arxiv.org/abs/2203.02155",
   "cover": "",
   "status": "published",
   "publishedAt": "2026-09-09T08:00:00+08:00",
-  "updatedAt": "2026-09-10T11:03:36+08:00",
+  "updatedAt": "2026-10-20T08:48:07+00:00",
   "readMinutes": 2,
   "featured": false,
   "seoTitle": "2022｜InstructGPT：把人类偏好接入训练",
@@ -33,5 +33,5 @@
   "related": [
     "launch-post-training-and-truth"
   ],
-  "revision": 2
+  "revision": 3
 }

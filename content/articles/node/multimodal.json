@@ -4,19 +4,19 @@
   "slug": "multimodal",
   "title": "CLIP：图像与自然语言对齐",
   "summary": "通过图文配对学习共同表示，让文字描述参与视觉识别。",
-  "body": "## 历史坐标\n\n**时间：2021.02.26。** 这里记录事件或论文首次公开时间，页面的发布日期是本站整理时间。\n\n**关键人物：Alec Radford、Jong Wook Kim、Aditya Ramesh。** 人物用于标识相关贡献者；大型项目由团队共同完成，并非单一人物的作品。\n\n## 发生了什么\n\nCLIP 论文研究从图像及其自然语言描述学习可迁移视觉表示。图像和文字被编码后进行匹配，使用时可用文本描述构造分类候选。该日期为论文首次提交时间。\n\n## 为什么值得记住\n\n固定分类标签限制了模型能回答的问题。文字提供更灵活的概念接口，让图像检索和开放词汇识别拥有新的表达方式。\n\n## 放回历史中看\n\n能匹配图文并不等于能精确计数、理解空间关系或生成完整图片。CLIP 是表示学习的重要节点，与后来能对话和行动的多模态系统之间仍有很多环节。\n\n## 资料与延伸阅读\n\n- [Radford 等，Learning Transferable Visual Models](https://arxiv.org/abs/2103.00020)\n- [返回 AI 演化地图](/evolution)\n\n本文为荒岛编辑部依据公开资料撰写的历史条目；“为什么值得记住”和比较性表述属于编辑分析。资料核验：2026 年 9 月 5 日。",
+  "body": "## 历史坐标\n\n**时间：2021.02.26。** 这里记录事件或论文首次公开时间，页面的发布日期是本站整理时间。\n\n**关键人物：Alec Radford、Jong Wook Kim、Aditya Ramesh。** 人物用于标识相关贡献者；大型项目由团队共同完成，并非单一人物的作品。\n\n## 发生了什么\n\nCLIP 论文研究从图像及其自然语言描述学习可迁移视觉表示。图像和文字被编码后进行匹配，使用时可用文本描述构造分类候选。该日期为论文首次提交时间。\n\n## 为什么值得记住\n\n固定分类标签限制了模型能回答的问题。文字提供更灵活的概念接口，让图像检索和开放词汇识别拥有新的表达方式。\n\n## 放回历史中看\n\n能匹配图文并不等于能精确计数、理解空间关系或生成完整图片。CLIP 是表示学习的重要节点，与后来能对话和行动的多模态系统之间仍有很多环节。\n\n## 资料与延伸阅读\n\n- [Radford 等，Learning Transferable Visual Models](https://arxiv.org/abs/2103.00020)\n- [返回 AI 演化地图](/evolution)\n\n本文为荒岛书生编辑部依据公开资料撰写的历史条目；“为什么值得记住”和比较性表述属于编辑分析。资料核验：2026 年 9 月 5 日。",
   "category": "历史节点",
   "topics": [
     "history",
     "multimodal"
   ],
-  "author": "荒岛编辑部",
+  "author": "荒岛书生编辑部",
   "source": "Radford 等，Learning Transferable Visual Models",
   "sourceUrl": "https://arxiv.org/abs/2103.00020",
   "cover": "",
   "status": "published",
   "publishedAt": "2026-09-05T06:00:00Z",
-  "updatedAt": "2026-09-05T15:20:46+08:00",
+  "updatedAt": "2026-10-20T08:48:07+00:00",
   "readMinutes": 2,
   "featured": false,
   "seoTitle": "CLIP：图像与自然语言对齐",
@@ -34,5 +34,5 @@
     "editorial-depth-diffusion-explained",
     "d6"
   ],
-  "revision": 2
+  "revision": 3
 }

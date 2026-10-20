@@ -1,0 +1,34 @@
+{
+  "id": "update-signal-20261015-rosalind-academic-plan",
+  "kind": "signal",
+  "slug": "rosalind-academic-plan-20261015",
+  "title": "OpenAI 推出 Rosalind 学术计划，资助生命科学实验室使用 AI",
+  "summary": "符合条件的实验室可申请席位支持，GPT-Rosalind 访问仍需审核。",
+  "body": "## 发生了什么\n\n**消息日期：2026-10-15。** 10 月 15 日，OpenAI 公布 Rosalind Academic Plan，面向符合条件的学术实验室，提供最多 30 个 Business Standard 席位、最长 12 个月的免费支持。GPT-Rosalind 访问需要通过相应的可信访问审核。\n\n该计划围绕生命科学研究，把专用模型与科研工具编排结合，用于文献、基因组学和实验辅助等工作。它是申请制的研究支持计划，并非面向所有人的无条件开放，也不能替代实验验证。\n\n## 原始来源\n\n- [OpenAI 官方公告](https://openai.com/index/introducing-the-rosalind-academic-plan/)\n\n荒岛书生依据官方公开资料整理，核验于 2026 年 10 月 20 日。",
+  "category": "产品",
+  "topics": [
+    "science",
+    "models",
+    "product"
+  ],
+  "author": "荒岛书生",
+  "source": "OpenAI",
+  "sourceUrl": "https://openai.com/index/introducing-the-rosalind-academic-plan/",
+  "cover": "",
+  "status": "published",
+  "publishedAt": "2026-10-15T00:00:00Z",
+  "updatedAt": "2026-10-20T08:50:48+00:00",
+  "readMinutes": 1,
+  "featured": false,
+  "seoTitle": "OpenAI 推出 Rosalind 学术计划，资助生命科学实验室使用 AI",
+  "seoDescription": "符合条件的实验室可申请席位支持，GPT-Rosalind 访问仍需审核。",
+  "route": "",
+  "stage": "",
+  "year": "",
+  "people": [],
+  "order": 0,
+  "related": [
+    "launch-reasoning-compute-and-checks"
+  ],
+  "revision": 1
+}

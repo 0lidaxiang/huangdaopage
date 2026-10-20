@@ -1,0 +1,34 @@
+{
+  "id": "update-signal-20261015-timestral",
+  "kind": "signal",
+  "slug": "timestral-20261015",
+  "title": "Mistral 发布 Timestral，把基础模型用于时间序列预测",
+  "summary": "四种规模从 5M 到 209M 参数，支持多变量和概率预测，可在 CPU 推理。",
+  "body": "## 发生了什么\n\n**消息日期：2026-10-15。** Mistral 于 10 月 15 日发布时间序列基础模型 Timestral，提供 5M、28M、123M、209M 四种参数规模。它处理随时间变化的数值，支持多变量、概率预测，以及利用已知的未来条件辅助预测。\n\n官方已提供代码仓库，模型可以在 CPU 上推理，示例场景包括传感器、产能与能源需求。公开基准中的表现不能保证对新业务数据同样有效，实际使用仍需要按时间切分数据回测，并观察数据分布变化。\n\n## 原始来源\n\n- [Mistral AI 官方公告](https://mistral.ai/news/timestral/)\n\n荒岛书生依据官方公开资料整理，核验于 2026 年 10 月 20 日。",
+  "category": "模型",
+  "topics": [
+    "models",
+    "science",
+    "open-source"
+  ],
+  "author": "荒岛书生",
+  "source": "Mistral AI",
+  "sourceUrl": "https://mistral.ai/news/timestral/",
+  "cover": "",
+  "status": "published",
+  "publishedAt": "2026-10-15T00:00:00Z",
+  "updatedAt": "2026-10-20T08:50:48+00:00",
+  "readMinutes": 1,
+  "featured": false,
+  "seoTitle": "Mistral 发布 Timestral，把基础模型用于时间序列预测",
+  "seoDescription": "四种规模从 5M 到 209M 参数，支持多变量和概率预测，可在 CPU 推理。",
+  "route": "",
+  "stage": "",
+  "year": "",
+  "people": [],
+  "order": 0,
+  "related": [
+    "launch-scaling-and-compute"
+  ],
+  "revision": 1
+}

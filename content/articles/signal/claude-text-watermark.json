@@ -4,19 +4,19 @@
   "slug": "claude-text-watermark",
   "title": "Claude 文本水印说明公布：通过生成模式识别来源",
   "summary": "官方称方案不加入隐藏字符；检测结果仍应按概率和适用条件理解。",
-  "body": "## 发生了什么\n\n**消息日期：2026-08-14。** Anthropic 解释未来 Claude 模型文本水印的机制：利用生成中的选择形成可检测模式，而不是在文章里插入隐藏字符。公司称水印不包含可追踪到具体用户或对话的身份信息。\n\n## 为什么值得关注\n\n编辑观察：AI 内容识别正在从事后猜测文风，扩展到生成时引入来源信号。对读者而言，识别生成来源与判断内容真实性仍然是两个问题。\n\n## 需要分清的边界\n\n这里转述的是该厂商所描述的方案，不能推及所有水印技术。检测到 AI 参与不等于内容错误，未检测到也不能证明内容一定由人独立撰写。\n\n## 原始来源\n\n- [Anthropic 官方原文](https://www.anthropic.com/news/claude-text-watermark)\n\n荒岛编辑部依据一手公告撰写，事实与编辑分析分列。核验日期：2026 年 9 月 5 日；未独立复现厂商性能测试。",
+  "body": "## 发生了什么\n\n**消息日期：2026-08-14。** Anthropic 解释未来 Claude 模型文本水印的机制：利用生成中的选择形成可检测模式，而不是在文章里插入隐藏字符。公司称水印不包含可追踪到具体用户或对话的身份信息。\n\n## 为什么值得关注\n\n编辑观察：AI 内容识别正在从事后猜测文风，扩展到生成时引入来源信号。对读者而言，识别生成来源与判断内容真实性仍然是两个问题。\n\n## 需要分清的边界\n\n这里转述的是该厂商所描述的方案，不能推及所有水印技术。检测到 AI 参与不等于内容错误，未检测到也不能证明内容一定由人独立撰写。\n\n## 原始来源\n\n- [Anthropic 官方原文](https://www.anthropic.com/news/claude-text-watermark)\n\n荒岛书生编辑部依据一手公告撰写，事实与编辑分析分列。核验日期：2026 年 9 月 5 日；未独立复现厂商性能测试。",
   "category": "行业",
   "topics": [
     "models",
     "product"
   ],
-  "author": "荒岛编辑部",
+  "author": "荒岛书生编辑部",
   "source": "Anthropic",
   "sourceUrl": "https://www.anthropic.com/news/claude-text-watermark",
   "cover": "",
   "status": "published",
   "publishedAt": "2026-08-14T00:00:00+08:00",
-  "updatedAt": "2026-09-05T15:20:46+08:00",
+  "updatedAt": "2026-10-20T08:48:07+00:00",
   "readMinutes": 2,
   "featured": false,
   "seoTitle": "Claude 文本水印说明公布：通过生成模式识别来源",
@@ -28,6 +28,6 @@
   "related": [
     "editorial-depth-rlhf-and-dpo"
   ],
-  "revision": 1,
+  "revision": 2,
   "people": []
 }

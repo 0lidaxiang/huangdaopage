@@ -1,6 +1,7 @@
-# 荒岛有信号 · 静态站
+# 荒岛书生 · 静态站
 
 - 修改前检查 Git 状态、分支和远程，保留已有改动。提交、推送、部署依用户当次授权。
+- 本仓库写文章、新闻短讯、榜单点评、改稿和拟标题时，默认先读取并遵循[荒岛书生写作 Skill](.agents/skills/huangdao-ai-writer/SKILL.md)，无需用户显式调用；用户当次要求优先。普通代码、部署和文档维护不触发。
 - React 18.3.1、TypeScript 5.8.3、Vite 6.4.3、React Router DOM 7.18.3。默认复用现有组件、CSS 和亮暗主题，不无故升级主版本。
 - `npm ci`、`npm run build` 生成纯静态 `dist/`，构建和访问不连接 MySQL、不启动 Go、不调用旧 API。
 - `content/` 只存可公开内容；草稿、下线、回收站、未来记录及凭据只能留在 Git 忽略的 `.private/`，不得复制到 `public/` 或产物。

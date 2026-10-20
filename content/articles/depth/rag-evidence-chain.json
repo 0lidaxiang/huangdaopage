@@ -11,13 +11,13 @@
     "models",
     "developer"
   ],
-  "author": "荒岛有信号",
+  "author": "荒岛书生",
   "source": "公开资料 · 原创整理",
   "sourceUrl": "https://arxiv.org/abs/2005.11401",
   "cover": "",
   "status": "published",
   "publishedAt": "2026-09-09T08:00:00+08:00",
-  "updatedAt": "2026-09-10T11:03:36+08:00",
+  "updatedAt": "2026-10-20T08:48:07+00:00",
   "readMinutes": 4,
   "featured": true,
   "seoTitle": "RAG 的难点在证据链：长上下文为何没有让检索失去意义",
@@ -32,6 +32,6 @@
     "launch-history-gpt3",
     "launch-news-agentic-video"
   ],
-  "revision": 2,
+  "revision": 3,
   "people": []
 }

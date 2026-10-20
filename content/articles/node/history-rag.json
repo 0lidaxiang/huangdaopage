@@ -10,13 +10,13 @@
     "product",
     "models"
   ],
-  "author": "荒岛有信号",
+  "author": "荒岛书生",
   "source": "公开资料 · 原创整理",
   "sourceUrl": "https://arxiv.org/abs/2005.11401",
   "cover": "",
   "status": "published",
   "publishedAt": "2026-09-09T08:00:00+08:00",
-  "updatedAt": "2026-09-10T11:03:36+08:00",
+  "updatedAt": "2026-10-20T08:48:07+00:00",
   "readMinutes": 2,
   "featured": false,
   "seoTitle": "2020｜RAG：让生成回答访问外部知识",
@@ -33,5 +33,5 @@
   "related": [
     "launch-rag-evidence-chain"
   ],
-  "revision": 2
+  "revision": 3
 }

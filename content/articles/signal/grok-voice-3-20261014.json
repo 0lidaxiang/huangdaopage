@@ -1,0 +1,35 @@
+{
+  "id": "update-signal-20261014-grok-voice-3",
+  "kind": "signal",
+  "slug": "grok-voice-3-20261014",
+  "title": "Grok Voice 3.0 上线 API，重点改善实时语音交互",
+  "summary": "语音到语音模型强调客服任务、打断处理与响应速度。",
+  "body": "## 发生了什么\n\n**消息日期：2026-10-14。** 10 月 14 日，xAI 宣布 Grok Voice 3.0 已进入 API，价格沿用上一代。新版本面向语音到语音对话，发布公告重点介绍客服任务处理、对停顿和打断的适应，以及低于一秒的延迟表现。\n\n速度与任务成绩来自公告和其引用的评测，真实通话还会受网络、口音、噪声和业务工具响应影响。对语音产品而言，能否自然接话和完成任务，需要放在同一段实际对话里检查。\n\n## 原始来源\n\n- [xAI 官方公告](https://x.ai/news/grok-voice-3)\n\n荒岛书生依据官方公开资料整理，核验于 2026 年 10 月 20 日。",
+  "category": "多模态",
+  "topics": [
+    "models",
+    "multimodal",
+    "product",
+    "agent"
+  ],
+  "author": "荒岛书生",
+  "source": "xAI",
+  "sourceUrl": "https://x.ai/news/grok-voice-3",
+  "cover": "",
+  "status": "published",
+  "publishedAt": "2026-10-14T00:00:00Z",
+  "updatedAt": "2026-10-20T08:50:48+00:00",
+  "readMinutes": 1,
+  "featured": false,
+  "seoTitle": "Grok Voice 3.0 上线 API，重点改善实时语音交互",
+  "seoDescription": "语音到语音模型强调客服任务、打断处理与响应速度。",
+  "route": "",
+  "stage": "",
+  "year": "",
+  "people": [],
+  "order": 0,
+  "related": [
+    "launch-diffusion-and-multimodal"
+  ],
+  "revision": 1
+}

@@ -11,13 +11,13 @@
     "developer",
     "product"
   ],
-  "author": "荒岛有信号",
+  "author": "荒岛书生",
   "source": "公开资料 · 原创整理",
   "sourceUrl": "https://arxiv.org/abs/2310.06770",
   "cover": "",
   "status": "published",
   "publishedAt": "2026-09-09T08:00:00+08:00",
-  "updatedAt": "2026-09-10T11:03:36+08:00",
+  "updatedAt": "2026-10-20T08:48:07+00:00",
   "readMinutes": 5,
   "featured": true,
   "seoTitle": "从 Copilot 到 Agent：AI 编程真正扩大的是什么",
@@ -34,6 +34,6 @@
     "launch-news-gemini38",
     "launch-news-claude51"
   ],
-  "revision": 2,
+  "revision": 3,
   "people": []
 }

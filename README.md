@@ -1,8 +1,10 @@
-# 荒岛有信号 · 静态站
+# 荒岛书生 · 静态站
 
 React 18.3.1、React DOM 18.3.1、TypeScript 5.8.3、Vite 6.4.3、React Router DOM 7.18.3。复用原站的组件、样式、灯塔意象和亮暗主题；所有公开页面在构建时生成 HTML。文章和演化节点的正文、来源、日期与 SEO 已进入 HTML，无需 JavaScript 也可阅读。
 
 运行网站和平台构建只需要本仓库，**不启动 Go，不连接 MySQL，不调用旧 API**。
+
+当前品牌为“荒岛书生”。2026-10-20 在保留最初迁移的 100 条公开记录基础上，新增 15 条近一月 AI 短讯、6 个演化节点及 3 篇深度文章，现有 124 条公开内容（信号 29、深度 22、节点 73）。新闻来源和日期依据见[本轮更新记录](docs/更新记录-2026-10-20.md)，文章资料见[Muse 长文说明](docs/Muse长文说明.md)、[3D 评测长文说明](docs/3D评测长文说明.md)与[10 月榜单说明](docs/榜单解读说明.md)。
 
 ## 本地运行
 
@@ -24,10 +26,13 @@ npm run preview
 
 ## 内容与维护
 
+- [荒岛书生写作 Skill](.agents/skills/huangdao-ai-writer/SKILL.md)：本仓库的文章、短讯、榜单点评和标题规范，已在 `AGENTS.md` 中设为内容写作默认流程；也可显式调用 `$huangdao-ai-writer`。
 - `content/site.json`：公开元数据、话题、路线、阶段、推荐顺序和站点设置。
 - `content/site-overrides.json`：本静态站的微信/小红书订阅链接与本地二维码，构建时覆盖对应设置，重新导出数据库内容时保留。
 - `content/articles/{signal,depth,node}/*.json`：每篇公开文章的完整记录，正文为 Markdown。
 - `content/provenance.json`：导出来源、时间、公开 ID/slug 清单、正文哈希、总数与排除统计。
+- `content/news-batches/`：人工核验的新闻批次、时间窗口、官方来源与入选/未入选依据；每条正文仍在 `content/articles/` 中维护。
+- `content/figures/`：文章图表使用的公开快照、配置名称、配色和来源，随静态构建生成可阅读的 HTML。
 - `public/uploads/`：公开内容引用的原站本地媒体；未引用的媒体不会导出。
 - `public/uploads/subscriptions/`：真实微信公众号二维码及根据用户提供的主页链接生成的小红书二维码，随站点本地托管；详见[订阅二维码](docs/订阅二维码.md)。
 - `public/brand/`：从设计稿灯塔区域提取的三个小型 WebP 和品牌图标，未携带设计稿中的文字或示例二维码。

@@ -4,20 +4,20 @@
   "slug": "deepseekmoe",
   "title": "DeepSeekMoE：细粒度专家与共享专家",
   "summary": "稀疏激活不只关乎省计算，也关乎专家如何分工。",
-  "body": "## 历史坐标\n\n**时间：2024.01.11。** 这里记录事件或论文首次公开时间，页面的发布日期是本站整理时间。\n\n**关键人物：Damai Dai、Chengqi Deng、Chenggang Zhao、梁文锋、DeepSeek 研发团队。** 人物用于标识相关贡献者；大型项目由团队共同完成，并非单一人物的作品。\n\n## 发生了什么\n\nDeepSeekMoE 论文研究更细粒度的专家划分和共享专家机制，让路由专家更有机会形成差异化的知识分工。它是后来 DeepSeek 系列稀疏模型的重要架构基础。\n\n## 为什么值得记住\n\n总参数容量和单 token 计算可以部分分离。系统可以拥有更多权重，但让每个 token 只经过其中一部分专家；这也把路由和负载均衡变成设计重点。\n\n## 放回历史中看\n\n“专家”是神经网络子模块，不是人工指定的一群行业顾问。激活参数少也不代表所有权重都不占显存，部署还要考虑通信与数据搬运。\n\n## 资料与延伸阅读\n\n- [Dai 等，DeepSeekMoE](https://arxiv.org/abs/2401.06066)\n- [返回 AI 演化地图](/evolution)\n\n本文为荒岛编辑部依据公开资料撰写的历史条目；“为什么值得记住”和比较性表述属于编辑分析。资料核验：2026 年 9 月 5 日。",
+  "body": "## 历史坐标\n\n**时间：2024.01.11。** 这里记录事件或论文首次公开时间，页面的发布日期是本站整理时间。\n\n**关键人物：Damai Dai、Chengqi Deng、Chenggang Zhao、梁文锋、DeepSeek 研发团队。** 人物用于标识相关贡献者；大型项目由团队共同完成，并非单一人物的作品。\n\n## 发生了什么\n\nDeepSeekMoE 论文研究更细粒度的专家划分和共享专家机制，让路由专家更有机会形成差异化的知识分工。它是后来 DeepSeek 系列稀疏模型的重要架构基础。\n\n## 为什么值得记住\n\n总参数容量和单 token 计算可以部分分离。系统可以拥有更多权重，但让每个 token 只经过其中一部分专家；这也把路由和负载均衡变成设计重点。\n\n## 放回历史中看\n\n“专家”是神经网络子模块，不是人工指定的一群行业顾问。激活参数少也不代表所有权重都不占显存，部署还要考虑通信与数据搬运。\n\n## 资料与延伸阅读\n\n- [Dai 等，DeepSeekMoE](https://arxiv.org/abs/2401.06066)\n- [返回 AI 演化地图](/evolution)\n\n本文为荒岛书生编辑部依据公开资料撰写的历史条目；“为什么值得记住”和比较性表述属于编辑分析。资料核验：2026 年 9 月 5 日。",
   "category": "历史节点",
   "topics": [
     "history",
     "models",
     "open-source"
   ],
-  "author": "荒岛编辑部",
+  "author": "荒岛书生编辑部",
   "source": "Dai 等，DeepSeekMoE",
   "sourceUrl": "https://arxiv.org/abs/2401.06066",
   "cover": "",
   "status": "published",
   "publishedAt": "2026-09-05T06:00:00Z",
-  "updatedAt": "2026-09-05T15:20:46+08:00",
+  "updatedAt": "2026-10-20T08:48:07+00:00",
   "readMinutes": 2,
   "featured": false,
   "seoTitle": "DeepSeekMoE：细粒度专家与共享专家",
@@ -36,5 +36,5 @@
   "related": [
     "editorial-depth-deepseek-moe-explained"
   ],
-  "revision": 1
+  "revision": 2
 }

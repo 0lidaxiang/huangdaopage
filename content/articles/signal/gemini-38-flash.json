@@ -4,20 +4,20 @@
   "slug": "gemini-38-flash",
   "title": "Gemini 3.8 Flash 发布，通用模型与安全专用版本分开",
   "summary": "Google 推出 Flash 与 Flash Cyber 两种版本，强调长流程编程及防御场景。",
-  "body": "## 发生了什么\n\n**消息日期：2026-09-02。** Google 宣布 Gemini 3.8 Flash 和 3.8 Flash Cyber。前者面向编程与 Agent 工作，后者通过 Fairwind 计划向可信防御方提供相关安全能力。\n\n## 为什么值得关注\n\n编辑观察：同一基础能力可能因场景而采用不同开放方式。选择模型时，除了看能力和价格，也应核对能否访问、允许执行哪些工作以及需要什么部署条件。\n\n## 需要分清的边界\n\n性能提升为 Google 的公开评估口径；Cyber 版本不等于对所有用户开放的普通模型。复杂任务可能使用更多推理 token，单价相同也不必然意味着单个任务费用相同。\n\n## 原始来源\n\n- [Google DeepMind 官方原文](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/)\n\n荒岛编辑部依据一手公告撰写，事实与编辑分析分列。核验日期：2026 年 9 月 5 日；未独立复现厂商性能测试。",
+  "body": "## 发生了什么\n\n**消息日期：2026-09-02。** Google 宣布 Gemini 3.8 Flash 和 3.8 Flash Cyber。前者面向编程与 Agent 工作，后者通过 Fairwind 计划向可信防御方提供相关安全能力。\n\n## 为什么值得关注\n\n编辑观察：同一基础能力可能因场景而采用不同开放方式。选择模型时，除了看能力和价格，也应核对能否访问、允许执行哪些工作以及需要什么部署条件。\n\n## 需要分清的边界\n\n性能提升为 Google 的公开评估口径；Cyber 版本不等于对所有用户开放的普通模型。复杂任务可能使用更多推理 token，单价相同也不必然意味着单个任务费用相同。\n\n## 原始来源\n\n- [Google DeepMind 官方原文](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/)\n\n荒岛书生编辑部依据一手公告撰写，事实与编辑分析分列。核验日期：2026 年 9 月 5 日；未独立复现厂商性能测试。",
   "category": "模型",
   "topics": [
     "models",
     "agent",
     "developer"
   ],
-  "author": "荒岛编辑部",
+  "author": "荒岛书生编辑部",
   "source": "Google DeepMind",
   "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
   "cover": "",
   "status": "published",
   "publishedAt": "2026-09-02T00:00:00+08:00",
-  "updatedAt": "2026-09-05T15:20:46+08:00",
+  "updatedAt": "2026-10-20T08:48:07+00:00",
   "readMinutes": 2,
   "featured": false,
   "seoTitle": "Gemini 3.8 Flash 发布，通用模型与安全专用版本分开",
@@ -29,6 +29,6 @@
   "related": [
     "d1"
   ],
-  "revision": 1,
+  "revision": 2,
   "people": []
 }

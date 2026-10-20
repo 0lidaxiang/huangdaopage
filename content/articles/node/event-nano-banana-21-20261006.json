@@ -1,0 +1,37 @@
+{
+  "author": "荒岛书生",
+  "source": "Google / Google DeepMind",
+  "sourceUrl": "https://ai.google.dev/gemini-api/docs/changelog",
+  "cover": "",
+  "status": "published",
+  "updatedAt": "2026-10-20T09:25:13Z",
+  "readMinutes": 1,
+  "featured": false,
+  "people": [],
+  "revision": 1,
+  "id": "update-node-20261006-nano-banana-21",
+  "kind": "node",
+  "slug": "event-nano-banana-21-20261006",
+  "title": "Nano Banana 2.1：图像生成继续走向多轮编辑",
+  "summary": "Flash 系图像模型更新，文字渲染与人物一致性成为持续创作的观察点。",
+  "body": "## 事件坐标\n\n**2026-10-06。** Google 宣布 Nano Banana 2.1 在 Gemini API 正式可用（GA），用于图像生成和对话式编辑。模型卡注明底层为 Gemini 3.6 Flash；开发者调用名为 `gemini-nano-banana-2.1`。\n\n## 放在路线中看\n\n这次更新把多轮人物一致性和文字渲染列为重点。沿着多模态路线看，生成一张图之后能否继续准确修改，会影响它能否进入系列素材与设计工作流。这是编辑的观察角度，具体质量应以同一素材的多次修改结果检验。\n\n## 资料与延伸阅读\n\n- [Google：Gemini API 发布日志](https://ai.google.dev/gemini-api/docs/changelog)\n- [Google DeepMind：Nano Banana 2.1 模型卡](https://deepmind.google/models/model-cards/nano-banana-2-1/)\n- [阅读对应短讯](/signals/nano-banana-21-20261006)\n- [返回多模态路线](/evolution/multimodal)\n\n本节点由荒岛书生于 2026 年 10 月 20 日整理；路线解读为编辑分析。",
+  "category": "近期节点",
+  "topics": [
+    "models",
+    "multimodal",
+    "product",
+    "history"
+  ],
+  "publishedAt": "2026-10-20T09:25:13Z",
+  "route": "multimodal",
+  "stage": "Agent 时代",
+  "year": "2026.10.06",
+  "order": 20261006,
+  "related": [
+    "update-signal-20261006-nano-banana-21",
+    "launch-diffusion-and-multimodal",
+    "update-node-20260920-qwen-image-21"
+  ],
+  "seoTitle": "Nano Banana 2.1：图像生成继续走向多轮编辑",
+  "seoDescription": "Flash 系图像模型更新，文字渲染与人物一致性成为持续创作的观察点。"
+}

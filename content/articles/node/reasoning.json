@@ -4,20 +4,20 @@
   "slug": "reasoning",
   "title": "DeepSeek-R1：强化学习与可验证推理",
   "summary": "可验证任务的反馈，让推理行为成为后训练的重要对象。",
-  "body": "## 历史坐标\n\n**时间：2025.01.22。** 这里记录事件或论文首次公开时间，页面的发布日期是本站整理时间。\n\n**关键人物：Daya Guo、Dejian Yang、Haowei Zhang、DeepSeek 研发团队。** 人物用于标识相关贡献者；大型项目由团队共同完成，并非单一人物的作品。\n\n## 发生了什么\n\nDeepSeek-R1 技术论文介绍 R1-Zero 与 R1 的训练探索。前者研究直接强化学习产生推理行为的可能性，后者引入冷启动数据及多阶段训练。这里采用论文首次提交日期。\n\n## 为什么值得记住\n\n如果一个解答可以被判定对错，就有机会让训练围绕实际结果展开，而不只模仿人类写出的推理文本。这使“如何提供反馈”成为理解推理模型的重要问题。\n\n## 放回历史中看\n\nR1-Zero、R1 和蒸馏模型不能混称同一方案；推理写得长，也不保证事实正确。没有可靠验证器的开放任务，仍然需要独立证据与人工判断。\n\n## 资料与延伸阅读\n\n- [DeepSeek-AI：DeepSeek-R1](https://arxiv.org/abs/2501.12948)\n- [返回 AI 演化地图](/evolution)\n\n本文为荒岛编辑部依据公开资料撰写的历史条目；“为什么值得记住”和比较性表述属于编辑分析。资料核验：2026 年 9 月 5 日。",
+  "body": "## 历史坐标\n\n**时间：2025.01.22。** 这里记录事件或论文首次公开时间，页面的发布日期是本站整理时间。\n\n**关键人物：Daya Guo、Dejian Yang、Haowei Zhang、DeepSeek 研发团队。** 人物用于标识相关贡献者；大型项目由团队共同完成，并非单一人物的作品。\n\n## 发生了什么\n\nDeepSeek-R1 技术论文介绍 R1-Zero 与 R1 的训练探索。前者研究直接强化学习产生推理行为的可能性，后者引入冷启动数据及多阶段训练。这里采用论文首次提交日期。\n\n## 为什么值得记住\n\n如果一个解答可以被判定对错，就有机会让训练围绕实际结果展开，而不只模仿人类写出的推理文本。这使“如何提供反馈”成为理解推理模型的重要问题。\n\n## 放回历史中看\n\nR1-Zero、R1 和蒸馏模型不能混称同一方案；推理写得长，也不保证事实正确。没有可靠验证器的开放任务，仍然需要独立证据与人工判断。\n\n## 资料与延伸阅读\n\n- [DeepSeek-AI：DeepSeek-R1](https://arxiv.org/abs/2501.12948)\n- [返回 AI 演化地图](/evolution)\n\n本文为荒岛书生编辑部依据公开资料撰写的历史条目；“为什么值得记住”和比较性表述属于编辑分析。资料核验：2026 年 9 月 5 日。",
   "category": "历史节点",
   "topics": [
     "history",
     "models",
     "open-source"
   ],
-  "author": "荒岛编辑部",
+  "author": "荒岛书生编辑部",
   "source": "DeepSeek-AI：DeepSeek-R1",
   "sourceUrl": "https://arxiv.org/abs/2501.12948",
   "cover": "",
   "status": "published",
   "publishedAt": "2026-09-05T06:00:00Z",
-  "updatedAt": "2026-09-05T15:20:46+08:00",
+  "updatedAt": "2026-10-20T08:48:07+00:00",
   "readMinutes": 2,
   "featured": false,
   "seoTitle": "DeepSeek-R1：强化学习与可验证推理",
@@ -37,5 +37,5 @@
     "editorial-depth-rlhf-and-dpo",
     "editorial-depth-reasoning-and-verification"
   ],
-  "revision": 2
+  "revision": 3
 }

@@ -10,13 +10,13 @@
     "models",
     "product"
   ],
-  "author": "荒岛有信号",
+  "author": "荒岛书生",
   "source": "Google DeepMind · 官方发布",
   "sourceUrl": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
   "cover": "",
   "status": "published",
   "publishedAt": "2026-09-08T12:00:00+08:00",
-  "updatedAt": "2026-09-10T11:03:36+08:00",
+  "updatedAt": "2026-10-20T08:48:07+00:00",
   "readMinutes": 2,
   "featured": false,
   "seoTitle": "Google DeepMind 推出 AlphaGenome Atlas，开放大规模变异预测查询",
@@ -28,6 +28,6 @@
   "related": [
     "launch-history-alphafold2"
   ],
-  "revision": 2,
+  "revision": 3,
   "people": []
 }

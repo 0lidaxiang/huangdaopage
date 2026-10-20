@@ -1,0 +1,36 @@
+{
+  "id": "update-signal-20261006-mistral-large-4",
+  "kind": "signal",
+  "slug": "mistral-large-4-20261006",
+  "title": "Mistral Large 4 开放 API 预览，权重计划月底发布",
+  "summary": "原生多模态模型面向编程、Agent 与专业工作；当前发布状态仍为预览。",
+  "body": "## 发生了什么\n\n**消息日期：2026-10-06。** Mistral 于 10 月 6 日发布 Mistral Large 4 的公开预览，可通过 Mistral Studio API 体验。官方称模型总参数为一万亿、每次激活约 520 亿，原生支持多模态输入，覆盖编程、Agent 流程与专业文档工作。\n\n公告将权重发布安排在 10 月底，并表示训练仍在继续。截至本条核验，能确认的是 API 预览和后续开放权重计划；本文不把计划写成已经完成，也不把厂商基准表现等同于实际业务结果。\n\n## 原始来源\n\n- [Mistral AI 官方公告](https://mistral.ai/news/mistral-large-4/)\n\n荒岛书生依据官方公开资料整理，核验于 2026 年 10 月 20 日。",
+  "category": "模型",
+  "topics": [
+    "models",
+    "multimodal",
+    "agent",
+    "open-source"
+  ],
+  "author": "荒岛书生",
+  "source": "Mistral AI",
+  "sourceUrl": "https://mistral.ai/news/mistral-large-4/",
+  "cover": "",
+  "status": "published",
+  "publishedAt": "2026-10-06T00:00:00Z",
+  "updatedAt": "2026-10-20T08:50:48+00:00",
+  "readMinutes": 1,
+  "featured": false,
+  "seoTitle": "Mistral Large 4 开放 API 预览，权重计划月底发布",
+  "seoDescription": "原生多模态模型面向编程、Agent 与专业工作；当前发布状态仍为预览。",
+  "route": "",
+  "stage": "",
+  "year": "",
+  "people": [],
+  "order": 0,
+  "related": [
+    "update-node-20261006-mistral-large-4",
+    "launch-efficient-model-systems"
+  ],
+  "revision": 1
+}

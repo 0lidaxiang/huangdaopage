@@ -229,7 +229,10 @@ test("desktop and mobile light/dark visual evidence, theme persistence and mobil
     "/depth",
     "/evolution",
     "/signals",
-    pathFor(site.contents.find((item: any) => item.kind === "depth")),
+    pathFor(
+      site.contents.find((item: any) => item.id === site.settings.heroId) ||
+        site.contents.find((item: any) => item.kind === "depth"),
+    ),
   ];
   for (const width of [1440, 390]) {
     await page.setViewportSize({ width, height: 1000 });

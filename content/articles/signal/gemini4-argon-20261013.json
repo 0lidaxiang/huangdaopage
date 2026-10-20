@@ -1,0 +1,36 @@
+{
+  "id": "update-signal-20261013-gemini4-argon",
+  "kind": "signal",
+  "slug": "gemini4-argon-20261013",
+  "title": "Gemini 4 Argon 发布，面向复杂工程与科学任务",
+  "summary": "进入 Gemini API 等入口，重点处理多步骤工作；不同产品有相应订阅要求。",
+  "body": "## 发生了什么\n\n**消息日期：2026-10-13。** Google 于 10 月 13 日宣布 Gemini 4 Argon 上线，提供 Gemini API，并按对应条件进入 Gemini 应用、搜索 AI Mode 与 Antigravity。官方将复杂工程、科学研究和多步骤专业工作列为主要场景。\n\n发布页给出 API 限时标准价格：每百万输入 token 2 美元、输出 10 美元，优惠期至 11 月 30 日，之后分别为 4 和 20 美元。应用与开发工具的订阅条件不同；公告中的工程和科研成果也不等于任意任务都能复现。\n\n## 原始来源\n\n- [Google 官方公告](https://blog.google/intl/en-mena/product-updates/explore-get-answers/gemini-4-argon-built-to-solve-your-hardest-problems/)\n\n荒岛书生依据官方公开资料整理，核验于 2026 年 10 月 20 日。",
+  "category": "模型",
+  "topics": [
+    "models",
+    "agent",
+    "developer",
+    "science"
+  ],
+  "author": "荒岛书生",
+  "source": "Google",
+  "sourceUrl": "https://blog.google/intl/en-mena/product-updates/explore-get-answers/gemini-4-argon-built-to-solve-your-hardest-problems/",
+  "cover": "",
+  "status": "published",
+  "publishedAt": "2026-10-13T00:00:00Z",
+  "updatedAt": "2026-10-20T08:50:48+00:00",
+  "readMinutes": 1,
+  "featured": false,
+  "seoTitle": "Gemini 4 Argon 发布，面向复杂工程与科学任务",
+  "seoDescription": "进入 Gemini API 等入口，重点处理多步骤工作；不同产品有相应订阅要求。",
+  "route": "",
+  "stage": "",
+  "year": "",
+  "people": [],
+  "order": 0,
+  "related": [
+    "update-node-20261013-gemini4-argon",
+    "launch-reasoning-compute-and-checks"
+  ],
+  "revision": 1
+}

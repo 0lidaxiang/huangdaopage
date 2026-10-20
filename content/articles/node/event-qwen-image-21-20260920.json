@@ -1,0 +1,36 @@
+{
+  "id": "update-node-20260920-qwen-image-21",
+  "kind": "node",
+  "slug": "event-qwen-image-21-20260920",
+  "title": "Qwen-Image-2.1：图像生成与编辑走向同一工作流",
+  "summary": "透明图像和多参考图，让素材生成更接近后续编辑流程。",
+  "body": "## 事件坐标\n\n**2026-09-20。** 千问团队于 9 月 20 日发布 Qwen-Image-2.1，将文生图与图像编辑合并到同一模型。官方介绍，其视觉生成部分为 7B 参数，原生支持生成、编辑透明图片，也能从照片中提取主体。\n\n## 放在路线中看\n\n生成与编辑共用一个入口，用户可以继续修改素材，而不是每一步更换工具。透明图像还保留了后续排版所需的图层空间；实际一致性需要具体素材验证。\n\n## 资料与延伸阅读\n\n- [Qwen Team 官方公告](https://qwen.ai/blog?id=qwen-image-2.1)\n- [阅读对应短讯](/signals/qwen-image-21-20260920)\n- [返回这条演化路线](/evolution/multimodal)\n\n本节点由荒岛书生于 2026 年 10 月 20 日整理；路线解读为编辑分析。",
+  "category": "近期节点",
+  "topics": [
+    "models",
+    "multimodal",
+    "open-source",
+    "history"
+  ],
+  "author": "荒岛书生",
+  "source": "Qwen Team",
+  "sourceUrl": "https://qwen.ai/blog?id=qwen-image-2.1",
+  "cover": "",
+  "status": "published",
+  "publishedAt": "2026-10-20T08:50:48+00:00",
+  "updatedAt": "2026-10-20T08:50:48+00:00",
+  "readMinutes": 1,
+  "featured": false,
+  "seoTitle": "Qwen-Image-2.1：图像生成与编辑走向同一工作流",
+  "seoDescription": "透明图像和多参考图，让素材生成更接近后续编辑流程。",
+  "route": "multimodal",
+  "stage": "Agent 时代",
+  "year": "2026.09.20",
+  "people": [],
+  "order": 20260920,
+  "related": [
+    "update-signal-20260920-qwen-image-21",
+    "launch-diffusion-and-multimodal"
+  ],
+  "revision": 1
+}

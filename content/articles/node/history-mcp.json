@@ -10,13 +10,13 @@
     "developer",
     "agent"
   ],
-  "author": "荒岛有信号",
+  "author": "荒岛书生",
   "source": "公开资料 · 原创整理",
   "sourceUrl": "https://www.anthropic.com/news/model-context-protocol",
   "cover": "",
   "status": "published",
   "publishedAt": "2026-09-09T08:00:00+08:00",
-  "updatedAt": "2026-09-10T11:03:36+08:00",
+  "updatedAt": "2026-10-20T08:48:07+00:00",
   "readMinutes": 2,
   "featured": true,
   "seoTitle": "2024｜MCP：为模型连接工具建立共同接口",
@@ -32,5 +32,5 @@
   "related": [
     "launch-agent-work-and-verification"
   ],
-  "revision": 2
+  "revision": 3
 }

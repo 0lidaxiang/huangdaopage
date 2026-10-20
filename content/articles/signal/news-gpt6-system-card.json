@@ -11,13 +11,13 @@
     "agent",
     "developer"
   ],
-  "author": "荒岛有信号",
+  "author": "荒岛书生",
   "source": "OpenAI · 系统卡",
   "sourceUrl": "https://deploymentsafety.openai.com/gpt-6-astra",
   "cover": "",
   "status": "published",
   "publishedAt": "2026-09-03T12:00:00+08:00",
-  "updatedAt": "2026-09-10T11:03:36+08:00",
+  "updatedAt": "2026-10-20T08:48:07+00:00",
   "readMinutes": 2,
   "featured": false,
   "seoTitle": "GPT-6 Astra 系统卡公布：能力提升伴随更严格的网络安全部署措施",
@@ -30,6 +30,6 @@
     "launch-agent-work-and-verification",
     "launch-reasoning-compute-and-checks"
   ],
-  "revision": 2,
+  "revision": 3,
   "people": []
 }

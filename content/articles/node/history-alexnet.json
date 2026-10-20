@@ -10,13 +10,13 @@
     "multimodal",
     "models"
   ],
-  "author": "荒岛有信号",
+  "author": "荒岛书生",
   "source": "公开资料 · 原创整理",
   "sourceUrl": "https://www.cs.toronto.edu/~hinton/absps/imagenet.pdf",
   "cover": "",
   "status": "published",
   "publishedAt": "2026-09-09T08:00:00+08:00",
-  "updatedAt": "2026-09-10T11:03:36+08:00",
+  "updatedAt": "2026-10-20T08:48:07+00:00",
   "readMinutes": 2,
   "featured": true,
   "seoTitle": "2012｜AlexNet：数据、GPU 与深层网络汇合",
@@ -31,5 +31,5 @@
   ],
   "order": 100,
   "related": [],
-  "revision": 2
+  "revision": 3
 }

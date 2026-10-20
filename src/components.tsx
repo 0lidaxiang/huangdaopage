@@ -121,7 +121,7 @@ export function Meta({ item }: { item: Content }) {
   return (
     <div className="meta">
       <span className="author-dot">荒</span>
-      <span>{item.author || "荒岛编辑部"}</span>
+      <span>{item.author || "荒岛书生编辑部"}</span>
       <span>
         <Clock size={12} />
         {item.readMinutes || 3} 分钟阅读

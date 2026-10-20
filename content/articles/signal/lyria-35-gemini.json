@@ -4,19 +4,19 @@
   "slug": "lyria-35-gemini",
   "title": "Google 将 Lyria 3.5 音乐生成接入 Gemini",
   "summary": "音乐生成继续走向日常创作入口，新增风格选择与长短曲目选项。",
-  "body": "## 发生了什么\n\n**消息日期：2026-09-04。** Google 宣布 Lyria 3.5 已进入 Gemini 应用和 API，并介绍人声与编曲方面的改进。应用提供风格、人声或器乐、模板及曲目长短等选项。\n\n## 为什么值得关注\n\n编辑观察：生成模型的竞争正在从“能否生成”转向“用户能否方便地表达创作意图”。明确的控制项，比让用户反复猜提示词更接近日常创作流程。\n\n## 需要分清的边界\n\n音质改进来自官方描述，实际效果应结合试听判断；可用范围与后续规则以产品界面和官方说明为准。生成音乐的使用条件需要另行核对，本文不作版权授权承诺。\n\n## 原始来源\n\n- [Google 官方原文](https://blog.google/innovation-and-ai/products/gemini-app/better-tracks-lyria-gemini/)\n\n荒岛编辑部依据一手公告撰写，事实与编辑分析分列。核验日期：2026 年 9 月 5 日；未独立复现厂商性能测试。",
+  "body": "## 发生了什么\n\n**消息日期：2026-09-04。** Google 宣布 Lyria 3.5 已进入 Gemini 应用和 API，并介绍人声与编曲方面的改进。应用提供风格、人声或器乐、模板及曲目长短等选项。\n\n## 为什么值得关注\n\n编辑观察：生成模型的竞争正在从“能否生成”转向“用户能否方便地表达创作意图”。明确的控制项，比让用户反复猜提示词更接近日常创作流程。\n\n## 需要分清的边界\n\n音质改进来自官方描述，实际效果应结合试听判断；可用范围与后续规则以产品界面和官方说明为准。生成音乐的使用条件需要另行核对，本文不作版权授权承诺。\n\n## 原始来源\n\n- [Google 官方原文](https://blog.google/innovation-and-ai/products/gemini-app/better-tracks-lyria-gemini/)\n\n荒岛书生编辑部依据一手公告撰写，事实与编辑分析分列。核验日期：2026 年 9 月 5 日；未独立复现厂商性能测试。",
   "category": "产品",
   "topics": [
     "multimodal",
     "product"
   ],
-  "author": "荒岛编辑部",
+  "author": "荒岛书生编辑部",
   "source": "Google",
   "sourceUrl": "https://blog.google/innovation-and-ai/products/gemini-app/better-tracks-lyria-gemini/",
   "cover": "",
   "status": "published",
   "publishedAt": "2026-09-04T00:00:00+08:00",
-  "updatedAt": "2026-09-05T15:20:46+08:00",
+  "updatedAt": "2026-10-20T08:48:07+00:00",
   "readMinutes": 2,
   "featured": false,
   "seoTitle": "Google 将 Lyria 3.5 音乐生成接入 Gemini",
@@ -28,6 +28,6 @@
   "related": [
     "d6"
   ],
-  "revision": 1,
+  "revision": 2,
   "people": []
 }

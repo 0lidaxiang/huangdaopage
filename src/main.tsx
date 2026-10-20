@@ -7,6 +7,7 @@ import type { Site } from "./types";
 import type { ComponentType } from "react";
 import { MarkdownContext } from "./markdown-context";
 import "./styles.css";
+import "./article-figures.css";
 
 const root = document.getElementById("root")!;
 const data = document.getElementById("page-data");

@@ -1,0 +1,37 @@
+{
+  "id": "update-node-20261006-mistral-large-4",
+  "kind": "node",
+  "slug": "event-mistral-large-4-20261006",
+  "title": "Mistral Large 4 预览：多模态与专业任务并行推进",
+  "summary": "先发布 API 预览、再计划开放权重，两种发布状态需要分别记录。",
+  "body": "## 事件坐标\n\n**2026-10-06。** Mistral 于 10 月 6 日发布 Mistral Large 4 的公开预览，可通过 Mistral Studio API 体验。官方称模型总参数为一万亿、每次激活约 520 亿，原生支持多模态输入，覆盖编程、Agent 流程与专业文档工作。\n\n## 放在路线中看\n\n这次发布将编程、视觉理解和专业任务放入同一模型路线。预览 API 已开放，权重则是公告中的月底计划；记录演化时需要保留这种时间差，避免把路线图当作既成事实。\n\n## 资料与延伸阅读\n\n- [Mistral AI 官方公告](https://mistral.ai/news/mistral-large-4/)\n- [阅读对应短讯](/signals/mistral-large-4-20261006)\n- [返回这条演化路线](/evolution/capability)\n\n本节点由荒岛书生于 2026 年 10 月 20 日整理；路线解读为编辑分析。",
+  "category": "近期节点",
+  "topics": [
+    "models",
+    "multimodal",
+    "agent",
+    "open-source",
+    "history"
+  ],
+  "author": "荒岛书生",
+  "source": "Mistral AI",
+  "sourceUrl": "https://mistral.ai/news/mistral-large-4/",
+  "cover": "",
+  "status": "published",
+  "publishedAt": "2026-10-20T08:50:48+00:00",
+  "updatedAt": "2026-10-20T08:50:48+00:00",
+  "readMinutes": 1,
+  "featured": false,
+  "seoTitle": "Mistral Large 4 预览：多模态与专业任务并行推进",
+  "seoDescription": "先发布 API 预览、再计划开放权重，两种发布状态需要分别记录。",
+  "route": "capability",
+  "stage": "Agent 时代",
+  "year": "2026.10.06",
+  "people": [],
+  "order": 20261006,
+  "related": [
+    "update-signal-20261006-mistral-large-4",
+    "launch-efficient-model-systems"
+  ],
+  "revision": 1
+}

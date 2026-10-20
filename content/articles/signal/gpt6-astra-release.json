@@ -4,20 +4,20 @@
   "slug": "gpt6-astra-release",
   "title": "OpenAI 发布 GPT-6 Astra，强调完整工作任务",
   "summary": "计算机操作、软件工程和专业任务成为发布重点，访问按阶段开放。",
-  "body": "## 发生了什么\n\n**消息日期：2026-09-03。** OpenAI 发布 GPT-6 Astra，重点介绍计算机使用、编程和专业工作能力，并说明逐步向用户与 API 开放的安排，同时发布相关安全资料。\n\n## 为什么值得关注\n\n编辑观察：前沿模型的展示对象正在从单个回答扩展到一串软件操作。对使用者而言，最值得比较的是任务是否完成、耗时与返工，而不仅是聊天文本是否流畅。\n\n## 需要分清的边界\n\n公告中的领先表述与基准分数属于厂商报告，不能直接推出某个企业任务的成功率。分批开放也不意味着每个账户在同一时刻都能访问。\n\n## 原始来源\n\n- [OpenAI 官方原文](https://openai.com/index/gpt-6-astra/)\n\n荒岛编辑部依据一手公告撰写，事实与编辑分析分列。核验日期：2026 年 9 月 5 日；未独立复现厂商性能测试。",
+  "body": "## 发生了什么\n\n**消息日期：2026-09-03。** OpenAI 发布 GPT-6 Astra，重点介绍计算机使用、编程和专业工作能力，并说明逐步向用户与 API 开放的安排，同时发布相关安全资料。\n\n## 为什么值得关注\n\n编辑观察：前沿模型的展示对象正在从单个回答扩展到一串软件操作。对使用者而言，最值得比较的是任务是否完成、耗时与返工，而不仅是聊天文本是否流畅。\n\n## 需要分清的边界\n\n公告中的领先表述与基准分数属于厂商报告，不能直接推出某个企业任务的成功率。分批开放也不意味着每个账户在同一时刻都能访问。\n\n## 原始来源\n\n- [OpenAI 官方原文](https://openai.com/index/gpt-6-astra/)\n\n荒岛书生编辑部依据一手公告撰写，事实与编辑分析分列。核验日期：2026 年 9 月 5 日；未独立复现厂商性能测试。",
   "category": "模型",
   "topics": [
     "models",
     "agent",
     "developer"
   ],
-  "author": "荒岛编辑部",
+  "author": "荒岛书生编辑部",
   "source": "OpenAI",
   "sourceUrl": "https://openai.com/index/gpt-6-astra/",
   "cover": "",
   "status": "published",
   "publishedAt": "2026-09-03T00:00:00+08:00",
-  "updatedAt": "2026-09-05T15:20:46+08:00",
+  "updatedAt": "2026-10-20T08:48:07+00:00",
   "readMinutes": 2,
   "featured": false,
   "seoTitle": "OpenAI 发布 GPT-6 Astra，强调完整工作任务",
@@ -30,6 +30,6 @@
     "editorial-node-gpt6-astra",
     "d1"
   ],
-  "revision": 1,
+  "revision": 2,
   "people": []
 }

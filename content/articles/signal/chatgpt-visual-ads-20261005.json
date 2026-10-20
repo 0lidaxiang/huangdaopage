@@ -1,0 +1,33 @@
+{
+  "id": "update-signal-20261005-chatgpt-visual-ads",
+  "kind": "signal",
+  "slug": "chatgpt-visual-ads-20261005",
+  "title": "ChatGPT 公布视觉广告新形式，先在美国小范围测试",
+  "summary": "面向 Free 和 Go 用户的图像生成场景，广告与生成图片分开展示。",
+  "body": "## 发生了什么\n\n**消息日期：2026-10-05。** OpenAI 于 10 月 5 日介绍 ChatGPT 的新视觉广告形式，并扩展转化衡量与广告合作工具。最初测试面向美国的 Free、Go 用户，计划在当月稍后从图像生成场景开始。\n\n按官方说明，广告会明确标识，并与用户正在生成的图片分开展示；回答内容不受广告影响。这里记录的是测试计划，不能据此推定所有地区、套餐已经出现这一界面。它也显示，对话产品正在探索订阅之外的收入方式。\n\n## 原始来源\n\n- [OpenAI 官方公告](https://openai.com/index/new-chatgpt-ads-format-and-measurement/)\n\n荒岛书生依据官方公开资料整理，核验于 2026 年 10 月 20 日。",
+  "category": "产品",
+  "topics": [
+    "product",
+    "multimodal"
+  ],
+  "author": "荒岛书生",
+  "source": "OpenAI",
+  "sourceUrl": "https://openai.com/index/new-chatgpt-ads-format-and-measurement/",
+  "cover": "",
+  "status": "published",
+  "publishedAt": "2026-10-05T00:00:00Z",
+  "updatedAt": "2026-10-20T08:50:48+00:00",
+  "readMinutes": 1,
+  "featured": false,
+  "seoTitle": "ChatGPT 公布视觉广告新形式，先在美国小范围测试",
+  "seoDescription": "面向 Free 和 Go 用户的图像生成场景，广告与生成图片分开展示。",
+  "route": "",
+  "stage": "",
+  "year": "",
+  "people": [],
+  "order": 0,
+  "related": [
+    "launch-agent-work-and-verification"
+  ],
+  "revision": 1
+}

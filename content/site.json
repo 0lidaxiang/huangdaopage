@@ -13,13 +13,13 @@
         "developer",
         "product"
       ],
-      "author": "荒岛编辑部",
+      "author": "荒岛书生编辑部",
       "source": "Yao 等，ReAct（2022）",
       "sourceUrl": "https://arxiv.org/abs/2210.03629",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-05T06:00:00Z",
-      "updatedAt": "2026-09-05T15:20:46+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 3,
       "featured": true,
       "seoTitle": "Agent 的分水岭：从调用工具到交付可验证结果",
@@ -33,7 +33,7 @@
         "n3",
         "n6"
       ],
-      "revision": 2,
+      "revision": 3,
       "people": []
     },
     {
@@ -49,13 +49,13 @@
         "developer",
         "models"
       ],
-      "author": "荒岛编辑部",
+      "author": "荒岛书生编辑部",
       "source": "Lewis 等，Retrieval-Augmented Generation（2020）",
       "sourceUrl": "https://arxiv.org/abs/2005.11401",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-05T06:00:00Z",
-      "updatedAt": "2026-09-05T15:20:46+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 3,
       "featured": false,
       "seoTitle": "RAG 的价值不在“接上向量库”，而在证据链",
@@ -67,7 +67,7 @@
       "related": [
         "editorial-node-rag"
       ],
-      "revision": 2,
+      "revision": 3,
       "people": []
     },
     {
@@ -83,13 +83,13 @@
         "agent",
         "models"
       ],
-      "author": "荒岛编辑部",
+      "author": "荒岛书生编辑部",
       "source": "Radford 等，CLIP（2021）",
       "sourceUrl": "https://arxiv.org/abs/2103.00020",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-05T06:00:00Z",
-      "updatedAt": "2026-09-05T15:20:46+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 3,
       "featured": false,
       "seoTitle": "从 CLIP 到多模态助手：对齐、理解与行动是三件事",
@@ -103,7 +103,7 @@
         "editorial-node-imagenet",
         "editorial-node-alexnet"
       ],
-      "revision": 2,
+      "revision": 3,
       "people": []
     },
     {
@@ -118,13 +118,13 @@
         "history",
         "models"
       ],
-      "author": "荒岛编辑部",
+      "author": "荒岛书生编辑部",
       "source": "Vaswani 等，Attention Is All You Need",
       "sourceUrl": "https://arxiv.org/abs/1706.03762",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-05T06:00:00Z",
-      "updatedAt": "2026-09-05T15:20:46+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": true,
       "seoTitle": "Transformer：序列建模转向注意力",
@@ -147,7 +147,7 @@
         "editorial-depth-transformer-explained",
         "editorial-depth-residual-connections"
       ],
-      "revision": 2
+      "revision": 3
     },
     {
       "id": "n2",
@@ -162,13 +162,13 @@
         "product",
         "models"
       ],
-      "author": "荒岛编辑部",
+      "author": "荒岛书生编辑部",
       "source": "OpenAI：Introducing ChatGPT",
       "sourceUrl": "https://openai.com/index/chatgpt/",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-05T06:00:00Z",
-      "updatedAt": "2026-09-05T15:20:46+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": false,
       "seoTitle": "ChatGPT：对话成为大众使用 AI 的入口",
@@ -181,7 +181,7 @@
       ],
       "order": 20221130,
       "related": [],
-      "revision": 2
+      "revision": 3
     },
     {
       "id": "n3",
@@ -196,13 +196,13 @@
         "agent",
         "developer"
       ],
-      "author": "荒岛编辑部",
+      "author": "荒岛书生编辑部",
       "source": "Anthropic：Introducing the Model Context Protocol",
       "sourceUrl": "https://www.anthropic.com/news/model-context-protocol",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-05T06:00:00Z",
-      "updatedAt": "2026-09-05T15:20:46+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": false,
       "seoTitle": "MCP：统一模型与外部工具的连接方式",
@@ -217,7 +217,7 @@
       "related": [
         "d1"
       ],
-      "revision": 2
+      "revision": 3
     },
     {
       "id": "n4",
@@ -232,13 +232,13 @@
         "agent",
         "developer"
       ],
-      "author": "荒岛编辑部",
+      "author": "荒岛书生编辑部",
       "source": "Yao 等，ReAct",
       "sourceUrl": "https://arxiv.org/abs/2210.03629",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-05T06:00:00Z",
-      "updatedAt": "2026-09-05T15:20:46+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": false,
       "seoTitle": "ReAct：把推理、行动和观察接起来",
@@ -257,7 +257,7 @@
         "d1",
         "editorial-depth-reasoning-and-verification"
       ],
-      "revision": 2
+      "revision": 3
     },
     {
       "id": "n5",
@@ -271,13 +271,13 @@
         "history",
         "multimodal"
       ],
-      "author": "荒岛编辑部",
+      "author": "荒岛书生编辑部",
       "source": "Radford 等，Learning Transferable Visual Models",
       "sourceUrl": "https://arxiv.org/abs/2103.00020",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-05T06:00:00Z",
-      "updatedAt": "2026-09-05T15:20:46+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": false,
       "seoTitle": "CLIP：图像与自然语言对齐",
@@ -295,7 +295,7 @@
         "editorial-depth-diffusion-explained",
         "d6"
       ],
-      "revision": 2
+      "revision": 3
     },
     {
       "id": "n6",
@@ -310,13 +310,13 @@
         "developer",
         "product"
       ],
-      "author": "荒岛编辑部",
+      "author": "荒岛书生编辑部",
       "source": "GitHub：Copilot 技术预览公告",
       "sourceUrl": "https://github.blog/news-insights/product-news/introducing-github-copilot-ai-pair-programmer/",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-05T06:00:00Z",
-      "updatedAt": "2026-09-05T15:20:46+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": false,
       "seoTitle": "GitHub Copilot：代码补全进入日常开发",
@@ -332,7 +332,7 @@
       "related": [
         "d1"
       ],
-      "revision": 2
+      "revision": 3
     },
     {
       "id": "n7",
@@ -347,13 +347,13 @@
         "models",
         "open-source"
       ],
-      "author": "荒岛编辑部",
+      "author": "荒岛书生编辑部",
       "source": "DeepSeek-AI：DeepSeek-R1",
       "sourceUrl": "https://arxiv.org/abs/2501.12948",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-05T06:00:00Z",
-      "updatedAt": "2026-09-05T15:20:46+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": false,
       "seoTitle": "DeepSeek-R1：强化学习与可验证推理",
@@ -373,7 +373,7 @@
         "editorial-depth-rlhf-and-dpo",
         "editorial-depth-reasoning-and-verification"
       ],
-      "revision": 2
+      "revision": 3
     },
     {
       "id": "editorial-node-turing-test",
@@ -387,13 +387,13 @@
         "history",
         "models"
       ],
-      "author": "荒岛编辑部",
+      "author": "荒岛书生编辑部",
       "source": "Turing，《Mind》，1950",
       "sourceUrl": "https://academic.oup.com/mind/article/LIX/236/433/986238",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-05T06:00:00Z",
-      "updatedAt": "2026-09-05T15:20:46+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": false,
       "seoTitle": "图灵把“机器会思考吗”变成可讨论的问题",
@@ -406,7 +406,7 @@
       ],
       "order": 19501001,
       "related": [],
-      "revision": 1
+      "revision": 2
     },
     {
       "id": "editorial-node-dartmouth",
@@ -420,13 +420,13 @@
         "history",
         "models"
       ],
-      "author": "荒岛编辑部",
+      "author": "荒岛书生编辑部",
       "source": "Dartmouth：Our Story",
       "sourceUrl": "https://ai.dartmouth.edu/our-story",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-05T06:00:00Z",
-      "updatedAt": "2026-09-05T15:20:46+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": false,
       "seoTitle": "达特茅斯：人工智能成为共同研究议题",
@@ -442,7 +442,7 @@
       ],
       "order": 19560101,
       "related": [],
-      "revision": 1
+      "revision": 2
     },
     {
       "id": "editorial-node-perceptron",
@@ -456,13 +456,13 @@
         "history",
         "models"
       ],
-      "author": "荒岛编辑部",
+      "author": "荒岛书生编辑部",
       "source": "Cornell Chronicle：感知机档案回顾",
       "sourceUrl": "https://news.cornell.edu/stories/2019/09/professors-perceptron-paved-way-ai-60-years-too-soon",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-05T06:00:00Z",
-      "updatedAt": "2026-09-05T15:20:46+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": false,
       "seoTitle": "感知机：让分类规则从样本中学出来",
@@ -475,7 +475,7 @@
       ],
       "order": 19580701,
       "related": [],
-      "revision": 1
+      "revision": 2
     },
     {
       "id": "editorial-node-eliza",
@@ -489,13 +489,13 @@
         "history",
         "product"
       ],
-      "author": "荒岛编辑部",
+      "author": "荒岛书生编辑部",
       "source": "MIT CSAIL：ELIZA 历史回顾",
       "sourceUrl": "https://www.csail.mit.edu/news/eliza-wins-peabody-award",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-05T06:00:00Z",
-      "updatedAt": "2026-09-05T15:20:46+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": false,
       "seoTitle": "ELIZA：人为什么会对程序产生理解感",
@@ -508,7 +508,7 @@
       ],
       "order": 19660101,
       "related": [],
-      "revision": 1
+      "revision": 2
     },
     {
       "id": "editorial-node-lighthill-debate",
@@ -522,13 +522,13 @@
         "history",
         "models"
       ],
-      "author": "荒岛编辑部",
+      "author": "荒岛书生编辑部",
       "source": "爱丁堡大学：1973 年 Lighthill 辩论档案",
       "sourceUrl": "https://www.aiai.ed.ac.uk/events/lighthill1973/",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-05T06:00:00Z",
-      "updatedAt": "2026-09-05T15:20:46+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": false,
       "seoTitle": "Lighthill 争论：AI 的发展并非一路向上",
@@ -543,7 +543,7 @@
       ],
       "order": 19730601,
       "related": [],
-      "revision": 1
+      "revision": 2
     },
     {
       "id": "editorial-node-mycin",
@@ -557,13 +557,13 @@
         "history",
         "product"
       ],
-      "author": "荒岛编辑部",
+      "author": "荒岛书生编辑部",
       "source": "John McCarthy：Some Expert Systems Need Common Sense",
       "sourceUrl": "https://www-formal.stanford.edu/jmc/someneed/someneed.html",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-05T06:00:00Z",
-      "updatedAt": "2026-09-05T15:20:46+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": false,
       "seoTitle": "MYCIN：专家知识被写进规则系统",
@@ -577,7 +577,7 @@
       ],
       "order": 19700101,
       "related": [],
-      "revision": 1
+      "revision": 2
     },
     {
       "id": "editorial-node-backpropagation",
@@ -591,13 +591,13 @@
         "history",
         "models"
       ],
-      "author": "荒岛编辑部",
+      "author": "荒岛书生编辑部",
       "source": "Rumelhart、Hinton、Williams，Nature 1986",
       "sourceUrl": "https://www.nature.com/articles/323533a0",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-05T06:00:00Z",
-      "updatedAt": "2026-09-05T15:20:46+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": false,
       "seoTitle": "反向传播：多层网络学会内部表示",
@@ -612,7 +612,7 @@
       ],
       "order": 19861009,
       "related": [],
-      "revision": 1
+      "revision": 2
     },
     {
       "id": "editorial-node-support-vector-machines",
@@ -626,13 +626,13 @@
         "history",
         "models"
       ],
-      "author": "荒岛编辑部",
+      "author": "荒岛书生编辑部",
       "source": "Cortes & Vapnik，Machine Learning 1995",
       "sourceUrl": "https://link.springer.com/article/10.1007/BF00994018",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-05T06:00:00Z",
-      "updatedAt": "2026-09-05T15:20:46+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": false,
       "seoTitle": "支持向量机：统计学习把泛化放到中心",
@@ -646,7 +646,7 @@
       ],
       "order": 19950901,
       "related": [],
-      "revision": 1
+      "revision": 2
     },
     {
       "id": "editorial-node-deep-blue",
@@ -660,13 +660,13 @@
         "history",
         "product"
       ],
-      "author": "荒岛编辑部",
+      "author": "荒岛书生编辑部",
       "source": "IBM：Deep Blue 历史档案",
       "sourceUrl": "https://www.ibm.com/history/deep-blue",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-05T06:00:00Z",
-      "updatedAt": "2026-09-05T15:20:46+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": false,
       "seoTitle": "深蓝击败卡斯帕罗夫：专用智能的里程碑",
@@ -682,7 +682,7 @@
       ],
       "order": 19970511,
       "related": [],
-      "revision": 1
+      "revision": 2
     },
     {
       "id": "editorial-node-imagenet",
@@ -696,13 +696,13 @@
         "history",
         "multimodal"
       ],
-      "author": "荒岛编辑部",
+      "author": "荒岛书生编辑部",
       "source": "ImageNet 团队：项目与论文目录",
       "sourceUrl": "https://www.image-net.org/about",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-05T06:00:00Z",
-      "updatedAt": "2026-09-05T15:20:46+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": false,
       "seoTitle": "ImageNet：数据集成为 AI 基础设施",
@@ -722,7 +722,7 @@
       "related": [
         "d6"
       ],
-      "revision": 1
+      "revision": 2
     },
     {
       "id": "editorial-node-alexnet",
@@ -736,13 +736,13 @@
         "history",
         "multimodal"
       ],
-      "author": "荒岛编辑部",
+      "author": "荒岛书生编辑部",
       "source": "Krizhevsky 等，NeurIPS 2012",
       "sourceUrl": "https://papers.nips.cc/paper_files/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-05T06:00:00Z",
-      "updatedAt": "2026-09-05T15:20:46+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": false,
       "seoTitle": "AlexNet：数据、GPU 与深层网络相遇",
@@ -759,7 +759,7 @@
       "related": [
         "d6"
       ],
-      "revision": 1
+      "revision": 2
     },
     {
       "id": "editorial-node-deep-q-network",
@@ -773,13 +773,13 @@
         "history",
         "agent"
       ],
-      "author": "荒岛编辑部",
+      "author": "荒岛书生编辑部",
       "source": "Mnih 等，Playing Atari with Deep Reinforcement Learning",
       "sourceUrl": "https://arxiv.org/abs/1312.5602",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-05T06:00:00Z",
-      "updatedAt": "2026-09-05T15:20:46+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": false,
       "seoTitle": "DQN：从像素到行动的强化学习",
@@ -795,7 +795,7 @@
       ],
       "order": 20131219,
       "related": [],
-      "revision": 1
+      "revision": 2
     },
     {
       "id": "editorial-node-gan",
@@ -809,13 +809,13 @@
         "history",
         "multimodal"
       ],
-      "author": "荒岛编辑部",
+      "author": "荒岛书生编辑部",
       "source": "Goodfellow 等，Generative Adversarial Networks",
       "sourceUrl": "https://arxiv.org/abs/1406.2661",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-05T06:00:00Z",
-      "updatedAt": "2026-09-05T15:20:46+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": false,
       "seoTitle": "GAN：生成与判别在对抗中学习",
@@ -830,7 +830,7 @@
       ],
       "order": 20140610,
       "related": [],
-      "revision": 1
+      "revision": 2
     },
     {
       "id": "editorial-node-resnet",
@@ -844,13 +844,13 @@
         "history",
         "models"
       ],
-      "author": "荒岛编辑部",
+      "author": "荒岛书生编辑部",
       "source": "He 等，Deep Residual Learning for Image Recognition",
       "sourceUrl": "https://arxiv.org/abs/1512.03385",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-05T06:00:00Z",
-      "updatedAt": "2026-09-05T15:20:46+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": false,
       "seoTitle": "ResNet：残差连接让深层网络更容易训练",
@@ -868,7 +868,7 @@
       "related": [
         "editorial-depth-residual-connections"
       ],
-      "revision": 1
+      "revision": 2
     },
     {
       "id": "editorial-node-alphago",
@@ -883,13 +883,13 @@
         "agent",
         "models"
       ],
-      "author": "荒岛编辑部",
+      "author": "荒岛书生编辑部",
       "source": "Google DeepMind：AlphaGo 项目档案",
       "sourceUrl": "https://deepmind.google/research/alphago/",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-05T06:00:00Z",
-      "updatedAt": "2026-09-05T15:20:46+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": false,
       "seoTitle": "AlphaGo：学习与搜索共同走出关键一步",
@@ -905,7 +905,7 @@
       ],
       "order": 20160301,
       "related": [],
-      "revision": 1
+      "revision": 2
     },
     {
       "id": "editorial-node-bert",
@@ -919,13 +919,13 @@
         "history",
         "models"
       ],
-      "author": "荒岛编辑部",
+      "author": "荒岛书生编辑部",
       "source": "Devlin 等，BERT",
       "sourceUrl": "https://arxiv.org/abs/1810.04805",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-05T06:00:00Z",
-      "updatedAt": "2026-09-05T15:20:46+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": false,
       "seoTitle": "BERT：双向预训练改变语言理解",
@@ -941,7 +941,7 @@
       ],
       "order": 20181011,
       "related": [],
-      "revision": 1
+      "revision": 2
     },
     {
       "id": "editorial-node-rag",
@@ -956,13 +956,13 @@
         "rag",
         "product"
       ],
-      "author": "荒岛编辑部",
+      "author": "荒岛书生编辑部",
       "source": "Lewis 等，Retrieval-Augmented Generation",
       "sourceUrl": "https://arxiv.org/abs/2005.11401",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-05T06:00:00Z",
-      "updatedAt": "2026-09-05T15:20:46+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": false,
       "seoTitle": "RAG：把可更新资料接到生成模型旁边",
@@ -980,7 +980,7 @@
       "related": [
         "d3"
       ],
-      "revision": 1
+      "revision": 2
     },
     {
       "id": "editorial-node-gpt3",
@@ -994,13 +994,13 @@
         "history",
         "models"
       ],
-      "author": "荒岛编辑部",
+      "author": "荒岛书生编辑部",
       "source": "Brown 等，Language Models are Few-Shot Learners",
       "sourceUrl": "https://arxiv.org/abs/2005.14165",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-05T06:00:00Z",
-      "updatedAt": "2026-09-05T15:20:46+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": false,
       "seoTitle": "GPT-3：在提示中给例子，也能迁移任务",
@@ -1018,7 +1018,7 @@
       "related": [
         "editorial-depth-scaling-laws"
       ],
-      "revision": 1
+      "revision": 2
     },
     {
       "id": "editorial-node-ddpm",
@@ -1032,13 +1032,13 @@
         "history",
         "multimodal"
       ],
-      "author": "荒岛编辑部",
+      "author": "荒岛书生编辑部",
       "source": "Ho、Jain、Abbeel，DDPM",
       "sourceUrl": "https://arxiv.org/abs/2006.11239",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-05T06:00:00Z",
-      "updatedAt": "2026-09-05T15:20:46+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": false,
       "seoTitle": "DDPM：通过逐步去噪学习生成",
@@ -1055,7 +1055,7 @@
       "related": [
         "editorial-depth-diffusion-explained"
       ],
-      "revision": 1
+      "revision": 2
     },
     {
       "id": "editorial-node-lora",
@@ -1070,13 +1070,13 @@
         "developer",
         "models"
       ],
-      "author": "荒岛编辑部",
+      "author": "荒岛书生编辑部",
       "source": "Hu 等，LoRA",
       "sourceUrl": "https://arxiv.org/abs/2106.09685",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-05T06:00:00Z",
-      "updatedAt": "2026-09-05T15:20:46+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": false,
       "seoTitle": "LoRA：低秩增量让模型适配更轻量",
@@ -1094,7 +1094,7 @@
       "related": [
         "editorial-depth-lora-and-qlora"
       ],
-      "revision": 1
+      "revision": 2
     },
     {
       "id": "editorial-node-alphafold2",
@@ -1109,13 +1109,13 @@
         "science",
         "models"
       ],
-      "author": "荒岛编辑部",
+      "author": "荒岛书生编辑部",
       "source": "Jumper 等，Nature 2021",
       "sourceUrl": "https://www.nature.com/articles/s41586-021-03819-2",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-05T06:00:00Z",
-      "updatedAt": "2026-09-05T15:20:46+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": false,
       "seoTitle": "AlphaFold 2：AI 进入科学问题的核心环节",
@@ -1130,7 +1130,7 @@
       ],
       "order": 20210715,
       "related": [],
-      "revision": 1
+      "revision": 2
     },
     {
       "id": "editorial-node-instructgpt",
@@ -1144,13 +1144,13 @@
         "history",
         "models"
       ],
-      "author": "荒岛编辑部",
+      "author": "荒岛书生编辑部",
       "source": "Ouyang 等，Training language models to follow instructions",
       "sourceUrl": "https://arxiv.org/abs/2203.02155",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-05T06:00:00Z",
-      "updatedAt": "2026-09-05T15:20:46+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": false,
       "seoTitle": "InstructGPT：从续写文本到遵循意图",
@@ -1168,7 +1168,7 @@
       "related": [
         "editorial-depth-rlhf-and-dpo"
       ],
-      "revision": 1
+      "revision": 2
     },
     {
       "id": "editorial-node-chinchilla",
@@ -1182,13 +1182,13 @@
         "history",
         "models"
       ],
-      "author": "荒岛编辑部",
+      "author": "荒岛书生编辑部",
       "source": "Hoffmann 等，Training Compute-Optimal Large Language Models",
       "sourceUrl": "https://arxiv.org/abs/2203.15556",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-05T06:00:00Z",
-      "updatedAt": "2026-09-05T15:20:46+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": false,
       "seoTitle": "Chinchilla：模型和训练数据要一起扩展",
@@ -1205,7 +1205,7 @@
       "related": [
         "editorial-depth-scaling-laws"
       ],
-      "revision": 1
+      "revision": 2
     },
     {
       "id": "editorial-node-llama2",
@@ -1220,13 +1220,13 @@
         "open-source",
         "models"
       ],
-      "author": "荒岛编辑部",
+      "author": "荒岛书生编辑部",
       "source": "Touvron 等，Llama 2",
       "sourceUrl": "https://arxiv.org/abs/2307.09288",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-05T06:00:00Z",
-      "updatedAt": "2026-09-05T15:20:46+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": false,
       "seoTitle": "Llama 2：开放权重扩大模型适配生态",
@@ -1242,7 +1242,7 @@
       ],
       "order": 20230718,
       "related": [],
-      "revision": 1
+      "revision": 2
     },
     {
       "id": "editorial-node-deepseekmoe",
@@ -1257,13 +1257,13 @@
         "models",
         "open-source"
       ],
-      "author": "荒岛编辑部",
+      "author": "荒岛书生编辑部",
       "source": "Dai 等，DeepSeekMoE",
       "sourceUrl": "https://arxiv.org/abs/2401.06066",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-05T06:00:00Z",
-      "updatedAt": "2026-09-05T15:20:46+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": false,
       "seoTitle": "DeepSeekMoE：细粒度专家与共享专家",
@@ -1282,7 +1282,7 @@
       "related": [
         "editorial-depth-deepseek-moe-explained"
       ],
-      "revision": 1
+      "revision": 2
     },
     {
       "id": "editorial-node-deepseek-v3",
@@ -1297,13 +1297,13 @@
         "models",
         "open-source"
       ],
-      "author": "荒岛编辑部",
+      "author": "荒岛书生编辑部",
       "source": "DeepSeek-AI：DeepSeek-V3 Technical Report",
       "sourceUrl": "https://arxiv.org/abs/2412.19437",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-05T06:00:00Z",
-      "updatedAt": "2026-09-05T15:20:46+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": false,
       "seoTitle": "DeepSeek-V3：把稀疏架构做成系统工程",
@@ -1318,7 +1318,7 @@
       "related": [
         "editorial-depth-deepseek-moe-explained"
       ],
-      "revision": 1
+      "revision": 2
     },
     {
       "id": "editorial-node-deepseek-v4-preview",
@@ -1333,13 +1333,13 @@
         "models",
         "open-source"
       ],
-      "author": "荒岛编辑部",
+      "author": "荒岛书生编辑部",
       "source": "DeepSeek：V4 Preview 公告",
       "sourceUrl": "https://deepseek.com/en/news/v4-preview/",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-05T06:00:00Z",
-      "updatedAt": "2026-09-05T15:20:46+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": false,
       "seoTitle": "DeepSeek-V4 预览：长上下文进入新一轮工程竞争",
@@ -1352,7 +1352,7 @@
       ],
       "order": 20260424,
       "related": [],
-      "revision": 1
+      "revision": 2
     },
     {
       "id": "editorial-node-gpt6-astra",
@@ -1367,13 +1367,13 @@
         "agent",
         "product"
       ],
-      "author": "荒岛编辑部",
+      "author": "荒岛书生编辑部",
       "source": "OpenAI：GPT-6 Astra 发布公告",
       "sourceUrl": "https://openai.com/index/gpt-6-astra/",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-05T06:00:00Z",
-      "updatedAt": "2026-09-05T15:20:46+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": false,
       "seoTitle": "GPT-6 Astra：前沿模型进一步面向完整工作",
@@ -1386,7 +1386,7 @@
       ],
       "order": 20260903,
       "related": [],
-      "revision": 1
+      "revision": 2
     },
     {
       "id": "editorial-depth-transformer-explained",
@@ -1400,13 +1400,13 @@
         "models",
         "developer"
       ],
-      "author": "荒岛编辑部",
+      "author": "荒岛书生编辑部",
       "source": "Vaswani 等，Attention Is All You Need（2017）",
       "sourceUrl": "https://arxiv.org/abs/1706.03762",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-05T06:00:00Z",
-      "updatedAt": "2026-09-05T15:20:46+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 4,
       "featured": true,
       "seoTitle": "读懂 Transformer：注意力如何把上下文变成计算",
@@ -1418,7 +1418,7 @@
       "related": [
         "n1"
       ],
-      "revision": 1,
+      "revision": 2,
       "people": []
     },
     {
@@ -1433,13 +1433,13 @@
         "models",
         "developer"
       ],
-      "author": "荒岛编辑部",
+      "author": "荒岛书生编辑部",
       "source": "He 等，Deep Residual Learning for Image Recognition（2015）",
       "sourceUrl": "https://arxiv.org/abs/1512.03385",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-05T06:00:00Z",
-      "updatedAt": "2026-09-05T15:20:46+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 4,
       "featured": true,
       "seoTitle": "残差连接为什么有效：从 ResNet 到深层模型的优化",
@@ -1452,7 +1452,7 @@
         "editorial-node-resnet",
         "n1"
       ],
-      "revision": 1,
+      "revision": 2,
       "people": []
     },
     {
@@ -1468,13 +1468,13 @@
         "developer",
         "open-source"
       ],
-      "author": "荒岛编辑部",
+      "author": "荒岛书生编辑部",
       "source": "Dai 等，DeepSeekMoE（2024）",
       "sourceUrl": "https://arxiv.org/abs/2401.06066",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-05T06:00:00Z",
-      "updatedAt": "2026-09-05T15:20:46+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 4,
       "featured": true,
       "seoTitle": "DeepSeek 的 MoE 到底省在哪里：专家、路由、MLA 与训练成本",
@@ -1488,7 +1488,7 @@
         "editorial-node-deepseek-v3",
         "n7"
       ],
-      "revision": 1,
+      "revision": 2,
       "people": []
     },
     {
@@ -1503,13 +1503,13 @@
         "models",
         "developer"
       ],
-      "author": "荒岛编辑部",
+      "author": "荒岛书生编辑部",
       "source": "Kaplan 等，Scaling Laws for Neural Language Models（2020）",
       "sourceUrl": "https://arxiv.org/abs/2001.08361",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-05T06:00:00Z",
-      "updatedAt": "2026-09-05T15:20:46+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 3,
       "featured": false,
       "seoTitle": "Scaling Laws 与 Chinchilla：大模型为什么不能只比参数",
@@ -1522,7 +1522,7 @@
         "editorial-node-chinchilla",
         "editorial-node-gpt3"
       ],
-      "revision": 1,
+      "revision": 2,
       "people": []
     },
     {
@@ -1537,13 +1537,13 @@
         "models",
         "agent"
       ],
-      "author": "荒岛编辑部",
+      "author": "荒岛书生编辑部",
       "source": "Ouyang 等，InstructGPT（2022）",
       "sourceUrl": "https://arxiv.org/abs/2203.02155",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-05T06:00:00Z",
-      "updatedAt": "2026-09-05T15:20:46+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 3,
       "featured": false,
       "seoTitle": "RLHF 与 DPO：模型怎样学会“更符合人的要求”",
@@ -1556,7 +1556,7 @@
         "editorial-node-instructgpt",
         "n7"
       ],
-      "revision": 1,
+      "revision": 2,
       "people": []
     },
     {
@@ -1572,13 +1572,13 @@
         "models",
         "open-source"
       ],
-      "author": "荒岛编辑部",
+      "author": "荒岛书生编辑部",
       "source": "Hu 等，LoRA（2021）",
       "sourceUrl": "https://arxiv.org/abs/2106.09685",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-05T06:00:00Z",
-      "updatedAt": "2026-09-05T15:20:46+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 3,
       "featured": false,
       "seoTitle": "LoRA 与 QLoRA：少训练一些参数，究竟省了什么",
@@ -1590,7 +1590,7 @@
       "related": [
         "editorial-node-lora"
       ],
-      "revision": 1,
+      "revision": 2,
       "people": []
     },
     {
@@ -1605,13 +1605,13 @@
         "multimodal",
         "models"
       ],
-      "author": "荒岛编辑部",
+      "author": "荒岛书生编辑部",
       "source": "Ho 等，Denoising Diffusion Probabilistic Models（2020）",
       "sourceUrl": "https://arxiv.org/abs/2006.11239",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-05T06:00:00Z",
-      "updatedAt": "2026-09-05T15:20:46+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 3,
       "featured": false,
       "seoTitle": "扩散模型如何画图：从噪声预测到潜空间生成",
@@ -1624,7 +1624,7 @@
         "editorial-node-ddpm",
         "n5"
       ],
-      "revision": 1,
+      "revision": 2,
       "people": []
     },
     {
@@ -1640,13 +1640,13 @@
         "agent",
         "developer"
       ],
-      "author": "荒岛编辑部",
+      "author": "荒岛书生编辑部",
       "source": "DeepSeek-AI，DeepSeek-R1（2025）",
       "sourceUrl": "https://arxiv.org/abs/2501.12948",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-05T06:00:00Z",
-      "updatedAt": "2026-09-05T15:20:46+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 3,
       "featured": false,
       "seoTitle": "推理模型为什么要学会验证：从长答案到可靠答案",
@@ -1659,7 +1659,7 @@
         "n7",
         "n4"
       ],
-      "revision": 1,
+      "revision": 2,
       "people": []
     },
     {
@@ -1674,13 +1674,13 @@
         "multimodal",
         "product"
       ],
-      "author": "荒岛编辑部",
+      "author": "荒岛书生编辑部",
       "source": "Google",
       "sourceUrl": "https://blog.google/innovation-and-ai/products/gemini-app/better-tracks-lyria-gemini/",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-04T00:00:00+08:00",
-      "updatedAt": "2026-09-05T15:20:46+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": false,
       "seoTitle": "Google 将 Lyria 3.5 音乐生成接入 Gemini",
@@ -1692,7 +1692,7 @@
       "related": [
         "d6"
       ],
-      "revision": 1,
+      "revision": 2,
       "people": []
     },
     {
@@ -1708,13 +1708,13 @@
         "agent",
         "developer"
       ],
-      "author": "荒岛编辑部",
+      "author": "荒岛书生编辑部",
       "source": "OpenAI",
       "sourceUrl": "https://openai.com/index/gpt-6-astra/",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-03T00:00:00+08:00",
-      "updatedAt": "2026-09-05T15:20:46+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": false,
       "seoTitle": "OpenAI 发布 GPT-6 Astra，强调完整工作任务",
@@ -1727,7 +1727,7 @@
         "editorial-node-gpt6-astra",
         "d1"
       ],
-      "revision": 1,
+      "revision": 2,
       "people": []
     },
     {
@@ -1743,13 +1743,13 @@
         "agent",
         "developer"
       ],
-      "author": "荒岛编辑部",
+      "author": "荒岛书生编辑部",
       "source": "Google DeepMind",
       "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-02T00:00:00+08:00",
-      "updatedAt": "2026-09-05T15:20:46+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": false,
       "seoTitle": "Gemini 3.8 Flash 发布，通用模型与安全专用版本分开",
@@ -1761,7 +1761,7 @@
       "related": [
         "d1"
       ],
-      "revision": 1,
+      "revision": 2,
       "people": []
     },
     {
@@ -1777,13 +1777,13 @@
         "agent",
         "product"
       ],
-      "author": "荒岛编辑部",
+      "author": "荒岛书生编辑部",
       "source": "Anthropic",
       "sourceUrl": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-01T00:00:00+08:00",
-      "updatedAt": "2026-09-05T15:20:46+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": false,
       "seoTitle": "Anthropic 发布 Claude Fable 5.1 与 Mythos 5.1",
@@ -1796,7 +1796,7 @@
         "d1",
         "editorial-depth-reasoning-and-verification"
       ],
-      "revision": 1,
+      "revision": 2,
       "people": []
     },
     {
@@ -1810,13 +1810,13 @@
       "topics": [
         "product"
       ],
-      "author": "荒岛编辑部",
+      "author": "荒岛书生编辑部",
       "source": "OpenAI",
       "sourceUrl": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads/",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-08-31T00:00:00+08:00",
-      "updatedAt": "2026-09-05T15:20:46+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": false,
       "seoTitle": "OpenAI 披露 ChatGPT 广告年化收入运行率达 10 亿美元",
@@ -1828,7 +1828,7 @@
       "related": [
         "n2"
       ],
-      "revision": 1,
+      "revision": 2,
       "people": []
     },
     {
@@ -1844,13 +1844,13 @@
         "developer",
         "science"
       ],
-      "author": "荒岛编辑部",
+      "author": "荒岛书生编辑部",
       "source": "Anthropic",
       "sourceUrl": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-08-27T00:00:00+08:00",
-      "updatedAt": "2026-09-05T15:20:46+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": false,
       "seoTitle": "Anthropic 预览 MHS：让 Agent 连接物理设备",
@@ -1863,7 +1863,7 @@
         "n3",
         "d1"
       ],
-      "revision": 1,
+      "revision": 2,
       "people": []
     },
     {
@@ -1878,13 +1878,13 @@
         "product",
         "science"
       ],
-      "author": "荒岛编辑部",
+      "author": "荒岛书生编辑部",
       "source": "Anthropic",
       "sourceUrl": "https://www.anthropic.com/news/wellbeing-research-grants",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-08-25T00:00:00+08:00",
-      "updatedAt": "2026-09-05T15:20:46+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": false,
       "seoTitle": "Anthropic 设立 500 万美元资助，支持 AI 福祉评估",
@@ -1896,7 +1896,7 @@
       "related": [
         "editorial-node-eliza"
       ],
-      "revision": 1,
+      "revision": 2,
       "people": []
     },
     {
@@ -1911,13 +1911,13 @@
         "models",
         "product"
       ],
-      "author": "荒岛编辑部",
+      "author": "荒岛书生编辑部",
       "source": "Anthropic",
       "sourceUrl": "https://www.anthropic.com/news/claude-text-watermark",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-08-14T00:00:00+08:00",
-      "updatedAt": "2026-09-05T15:20:46+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": false,
       "seoTitle": "Claude 文本水印说明公布：通过生成模式识别来源",
@@ -1929,7 +1929,7 @@
       "related": [
         "editorial-depth-rlhf-and-dpo"
       ],
-      "revision": 1,
+      "revision": 2,
       "people": []
     },
     {
@@ -1943,13 +1943,13 @@
       "topics": [
         "models"
       ],
-      "author": "荒岛有信号",
+      "author": "荒岛书生",
       "source": "公开资料 · 原创整理",
       "sourceUrl": "https://courses.cs.umbc.edu/undergraduate/471/papers/turing.shtml",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-09T08:00:00+08:00",
-      "updatedAt": "2026-09-10T11:03:36+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": false,
       "seoTitle": "1950｜图灵把“机器能思考吗”变成可讨论的实验",
@@ -1962,7 +1962,7 @@
       ],
       "order": 0,
       "related": [],
-      "revision": 2
+      "revision": 3
     },
     {
       "id": "launch-history-dartmouth",
@@ -1975,13 +1975,13 @@
       "topics": [
         "models"
       ],
-      "author": "荒岛有信号",
+      "author": "荒岛书生",
       "source": "公开资料 · 原创整理",
       "sourceUrl": "https://www-formal.stanford.edu/jmc/history/dartmouth/dartmouth.html",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-09T08:00:00+08:00",
-      "updatedAt": "2026-09-10T11:03:36+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": false,
       "seoTitle": "1956｜达特茅斯：人工智能成为一项共同研究议程",
@@ -1997,7 +1997,7 @@
       ],
       "order": 10,
       "related": [],
-      "revision": 2
+      "revision": 3
     },
     {
       "id": "launch-history-perceptron",
@@ -2010,13 +2010,13 @@
       "topics": [
         "models"
       ],
-      "author": "荒岛有信号",
+      "author": "荒岛书生",
       "source": "公开资料 · 原创整理",
       "sourceUrl": "https://news.cornell.edu/stories/2019/09/professors-perceptron-paved-way-ai-60-years-too-soon",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-09T08:00:00+08:00",
-      "updatedAt": "2026-09-10T11:03:36+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": false,
       "seoTitle": "1958｜感知机：让机器从样本中调整判断",
@@ -2029,7 +2029,7 @@
       ],
       "order": 20,
       "related": [],
-      "revision": 2
+      "revision": 3
     },
     {
       "id": "launch-history-expert-systems",
@@ -2043,13 +2043,13 @@
         "product",
         "models"
       ],
-      "author": "荒岛有信号",
+      "author": "荒岛书生",
       "source": "公开资料 · 原创整理",
       "sourceUrl": "https://cs.stanford.edu/people/eaf/wordpress/publications/",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-09T08:00:00+08:00",
-      "updatedAt": "2026-09-10T11:03:36+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": false,
       "seoTitle": "1960s–1980s｜专家系统：把领域知识写进推理过程",
@@ -2064,7 +2064,7 @@
       ],
       "order": 30,
       "related": [],
-      "revision": 2
+      "revision": 3
     },
     {
       "id": "launch-history-lighthill",
@@ -2078,13 +2078,13 @@
         "product",
         "models"
       ],
-      "author": "荒岛有信号",
+      "author": "荒岛书生",
       "source": "公开资料 · 原创整理",
       "sourceUrl": "https://archives.ucl.ac.uk/CalmView/Record.aspx?id=LIGHTHILL%2FK%2F668-685%2F683-685%2F684&src=CalmView.Catalog",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-09T08:00:00+08:00",
-      "updatedAt": "2026-09-10T11:03:36+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": false,
       "seoTitle": "1973｜莱特希尔报告：AI 的承诺接受现实检验",
@@ -2097,7 +2097,7 @@
       ],
       "order": 40,
       "related": [],
-      "revision": 2
+      "revision": 3
     },
     {
       "id": "launch-history-backprop",
@@ -2110,13 +2110,13 @@
       "topics": [
         "models"
       ],
-      "author": "荒岛有信号",
+      "author": "荒岛书生",
       "source": "公开资料 · 原创整理",
       "sourceUrl": "https://www.nature.com/articles/323533a0",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-09T08:00:00+08:00",
-      "updatedAt": "2026-09-10T11:03:36+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": false,
       "seoTitle": "1986｜反向传播推动多层网络学习表示",
@@ -2131,7 +2131,7 @@
       ],
       "order": 50,
       "related": [],
-      "revision": 2
+      "revision": 3
     },
     {
       "id": "launch-history-svm",
@@ -2144,13 +2144,13 @@
       "topics": [
         "models"
       ],
-      "author": "荒岛有信号",
+      "author": "荒岛书生",
       "source": "公开资料 · 原创整理",
       "sourceUrl": "https://doi.org/10.1007/BF00994018",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-09T08:00:00+08:00",
-      "updatedAt": "2026-09-10T11:03:36+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": false,
       "seoTitle": "1995｜支持向量机：把泛化能力放到中心",
@@ -2164,7 +2164,7 @@
       ],
       "order": 60,
       "related": [],
-      "revision": 2
+      "revision": 3
     },
     {
       "id": "launch-history-deep-blue",
@@ -2178,13 +2178,13 @@
         "product",
         "models"
       ],
-      "author": "荒岛有信号",
+      "author": "荒岛书生",
       "source": "公开资料 · 原创整理",
       "sourceUrl": "https://www.ibm.com/history/deep-blue",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-09T08:00:00+08:00",
-      "updatedAt": "2026-09-10T11:03:36+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": false,
       "seoTitle": "1997｜深蓝击败卡斯帕罗夫：专用系统的高峰",
@@ -2199,7 +2199,7 @@
       ],
       "order": 70,
       "related": [],
-      "revision": 2
+      "revision": 3
     },
     {
       "id": "launch-history-lenet",
@@ -2213,13 +2213,13 @@
         "multimodal",
         "models"
       ],
-      "author": "荒岛有信号",
+      "author": "荒岛书生",
       "source": "公开资料 · 原创整理",
       "sourceUrl": "https://bottou.org/papers/lecun-98h",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-09T08:00:00+08:00",
-      "updatedAt": "2026-09-10T11:03:36+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": false,
       "seoTitle": "1998｜LeNet 与文档识别：神经网络进入实用任务",
@@ -2235,7 +2235,7 @@
       ],
       "order": 80,
       "related": [],
-      "revision": 2
+      "revision": 3
     },
     {
       "id": "launch-history-imagenet",
@@ -2249,13 +2249,13 @@
         "multimodal",
         "models"
       ],
-      "author": "荒岛有信号",
+      "author": "荒岛书生",
       "source": "公开资料 · 原创整理",
       "sourceUrl": "https://www.image-net.org/about.php",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-09T08:00:00+08:00",
-      "updatedAt": "2026-09-10T11:03:36+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": false,
       "seoTitle": "2009｜ImageNet：数据与公共基准成为基础设施",
@@ -2273,7 +2273,7 @@
       ],
       "order": 90,
       "related": [],
-      "revision": 2
+      "revision": 3
     },
     {
       "id": "launch-history-alexnet",
@@ -2287,13 +2287,13 @@
         "multimodal",
         "models"
       ],
-      "author": "荒岛有信号",
+      "author": "荒岛书生",
       "source": "公开资料 · 原创整理",
       "sourceUrl": "https://www.cs.toronto.edu/~hinton/absps/imagenet.pdf",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-09T08:00:00+08:00",
-      "updatedAt": "2026-09-10T11:03:36+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": true,
       "seoTitle": "2012｜AlexNet：数据、GPU 与深层网络汇合",
@@ -2308,7 +2308,7 @@
       ],
       "order": 100,
       "related": [],
-      "revision": 2
+      "revision": 3
     },
     {
       "id": "launch-history-dqn",
@@ -2321,13 +2321,13 @@
       "topics": [
         "models"
       ],
-      "author": "荒岛有信号",
+      "author": "荒岛书生",
       "source": "公开资料 · 原创整理",
       "sourceUrl": "https://arxiv.org/abs/1312.5602",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-09T08:00:00+08:00",
-      "updatedAt": "2026-09-10T11:03:36+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": false,
       "seoTitle": "2013｜DQN：从像素与奖励中学习游戏策略",
@@ -2342,7 +2342,7 @@
       ],
       "order": 110,
       "related": [],
-      "revision": 2
+      "revision": 3
     },
     {
       "id": "launch-history-gan",
@@ -2356,13 +2356,13 @@
         "multimodal",
         "models"
       ],
-      "author": "荒岛有信号",
+      "author": "荒岛书生",
       "source": "公开资料 · 原创整理",
       "sourceUrl": "https://arxiv.org/abs/1406.2661",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-09T08:00:00+08:00",
-      "updatedAt": "2026-09-10T11:03:36+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": false,
       "seoTitle": "2014｜GAN：通过生成与判别的竞争学习造图",
@@ -2376,7 +2376,7 @@
       ],
       "order": 120,
       "related": [],
-      "revision": 2
+      "revision": 3
     },
     {
       "id": "launch-history-seq2seq",
@@ -2389,13 +2389,13 @@
       "topics": [
         "models"
       ],
-      "author": "荒岛有信号",
+      "author": "荒岛书生",
       "source": "公开资料 · 原创整理",
       "sourceUrl": "https://arxiv.org/abs/1409.3215",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-09T08:00:00+08:00",
-      "updatedAt": "2026-09-10T11:03:36+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": false,
       "seoTitle": "2014｜Seq2Seq：用统一框架连接输入与输出序列",
@@ -2412,7 +2412,7 @@
       "related": [
         "launch-understanding-transformer"
       ],
-      "revision": 2
+      "revision": 3
     },
     {
       "id": "launch-history-resnet",
@@ -2426,13 +2426,13 @@
         "multimodal",
         "models"
       ],
-      "author": "荒岛有信号",
+      "author": "荒岛书生",
       "source": "公开资料 · 原创整理",
       "sourceUrl": "https://arxiv.org/abs/1512.03385",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-09T08:00:00+08:00",
-      "updatedAt": "2026-09-10T11:03:36+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": false,
       "seoTitle": "2015–2016｜ResNet：让更深的网络更容易训练",
@@ -2450,7 +2450,7 @@
       "related": [
         "launch-understanding-transformer"
       ],
-      "revision": 2
+      "revision": 3
     },
     {
       "id": "launch-history-alphago",
@@ -2463,13 +2463,13 @@
       "topics": [
         "models"
       ],
-      "author": "荒岛有信号",
+      "author": "荒岛书生",
       "source": "公开资料 · 原创整理",
       "sourceUrl": "https://doi.org/10.1038/nature16961",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-09T08:00:00+08:00",
-      "updatedAt": "2026-09-10T11:03:36+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": false,
       "seoTitle": "2016｜AlphaGo：学习与搜索共同扩大决策能力",
@@ -2486,7 +2486,7 @@
       "related": [
         "launch-reasoning-compute-and-checks"
       ],
-      "revision": 2
+      "revision": 3
     },
     {
       "id": "launch-history-transformer",
@@ -2499,13 +2499,13 @@
       "topics": [
         "models"
       ],
-      "author": "荒岛有信号",
+      "author": "荒岛书生",
       "source": "公开资料 · 原创整理",
       "sourceUrl": "https://arxiv.org/abs/1706.03762",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-09T08:00:00+08:00",
-      "updatedAt": "2026-09-10T11:03:36+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": true,
       "seoTitle": "2017｜Transformer：用注意力重组序列建模",
@@ -2528,7 +2528,7 @@
         "launch-understanding-transformer",
         "launch-efficient-model-systems"
       ],
-      "revision": 2
+      "revision": 3
     },
     {
       "id": "launch-history-bert",
@@ -2541,13 +2541,13 @@
       "topics": [
         "models"
       ],
-      "author": "荒岛有信号",
+      "author": "荒岛书生",
       "source": "公开资料 · 原创整理",
       "sourceUrl": "https://arxiv.org/abs/1810.04805",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-09T08:00:00+08:00",
-      "updatedAt": "2026-09-10T11:03:36+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": false,
       "seoTitle": "2018｜BERT：预训练表示走向语言理解任务",
@@ -2566,7 +2566,7 @@
         "launch-understanding-transformer",
         "launch-rag-evidence-chain"
       ],
-      "revision": 2
+      "revision": 3
     },
     {
       "id": "launch-history-rag",
@@ -2580,13 +2580,13 @@
         "product",
         "models"
       ],
-      "author": "荒岛有信号",
+      "author": "荒岛书生",
       "source": "公开资料 · 原创整理",
       "sourceUrl": "https://arxiv.org/abs/2005.11401",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-09T08:00:00+08:00",
-      "updatedAt": "2026-09-10T11:03:36+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": false,
       "seoTitle": "2020｜RAG：让生成回答访问外部知识",
@@ -2603,7 +2603,7 @@
       "related": [
         "launch-rag-evidence-chain"
       ],
-      "revision": 2
+      "revision": 3
     },
     {
       "id": "launch-history-gpt3",
@@ -2616,13 +2616,13 @@
       "topics": [
         "models"
       ],
-      "author": "荒岛有信号",
+      "author": "荒岛书生",
       "source": "公开资料 · 原创整理",
       "sourceUrl": "https://arxiv.org/abs/2005.14165",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-09T08:00:00+08:00",
-      "updatedAt": "2026-09-10T11:03:36+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": false,
       "seoTitle": "2020｜GPT-3：任务开始通过上下文表达",
@@ -2642,7 +2642,7 @@
         "launch-rag-evidence-chain",
         "launch-reasoning-compute-and-checks"
       ],
-      "revision": 2
+      "revision": 3
     },
     {
       "id": "launch-history-ddpm",
@@ -2656,13 +2656,13 @@
         "multimodal",
         "models"
       ],
-      "author": "荒岛有信号",
+      "author": "荒岛书生",
       "source": "公开资料 · 原创整理",
       "sourceUrl": "https://arxiv.org/abs/2006.11239",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-09T08:00:00+08:00",
-      "updatedAt": "2026-09-10T11:03:36+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": false,
       "seoTitle": "2020｜扩散模型：把生成转成逐步去噪",
@@ -2679,7 +2679,7 @@
       "related": [
         "launch-diffusion-and-multimodal"
       ],
-      "revision": 2
+      "revision": 3
     },
     {
       "id": "launch-history-clip",
@@ -2693,13 +2693,13 @@
         "multimodal",
         "models"
       ],
-      "author": "荒岛有信号",
+      "author": "荒岛书生",
       "source": "公开资料 · 原创整理",
       "sourceUrl": "https://arxiv.org/abs/2103.00020",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-09T08:00:00+08:00",
-      "updatedAt": "2026-09-10T11:03:36+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": false,
       "seoTitle": "2021｜CLIP：用自然语言连接图像概念",
@@ -2716,7 +2716,7 @@
       "related": [
         "launch-diffusion-and-multimodal"
       ],
-      "revision": 2
+      "revision": 3
     },
     {
       "id": "launch-history-lora",
@@ -2730,13 +2730,13 @@
         "developer",
         "agent"
       ],
-      "author": "荒岛有信号",
+      "author": "荒岛书生",
       "source": "公开资料 · 原创整理",
       "sourceUrl": "https://arxiv.org/abs/2106.09685",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-09T08:00:00+08:00",
-      "updatedAt": "2026-09-10T11:03:36+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": false,
       "seoTitle": "2021｜LoRA：用小规模参数更新适配大模型",
@@ -2752,7 +2752,7 @@
       "related": [
         "launch-efficient-model-systems"
       ],
-      "revision": 2
+      "revision": 3
     },
     {
       "id": "launch-history-copilot",
@@ -2766,13 +2766,13 @@
         "developer",
         "agent"
       ],
-      "author": "荒岛有信号",
+      "author": "荒岛书生",
       "source": "公开资料 · 原创整理",
       "sourceUrl": "https://github.blog/news-insights/product-news/introducing-github-copilot-ai-pair-programmer/",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-09T08:00:00+08:00",
-      "updatedAt": "2026-09-10T11:03:36+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": false,
       "seoTitle": "2021｜GitHub Copilot：AI 进入代码编辑现场",
@@ -2787,7 +2787,7 @@
       "related": [
         "launch-agent-work-and-verification"
       ],
-      "revision": 2
+      "revision": 3
     },
     {
       "id": "launch-history-alphafold2",
@@ -2800,13 +2800,13 @@
       "topics": [
         "models"
       ],
-      "author": "荒岛有信号",
+      "author": "荒岛书生",
       "source": "公开资料 · 原创整理",
       "sourceUrl": "https://www.nature.com/articles/s41586-021-03819-2",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-09T08:00:00+08:00",
-      "updatedAt": "2026-09-10T11:03:36+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": false,
       "seoTitle": "2021｜AlphaFold 2：结构预测进入高精度阶段",
@@ -2822,7 +2822,7 @@
       "related": [
         "launch-news-alphagenome-atlas"
       ],
-      "revision": 2
+      "revision": 3
     },
     {
       "id": "launch-history-latent-diffusion",
@@ -2836,13 +2836,13 @@
         "multimodal",
         "models"
       ],
-      "author": "荒岛有信号",
+      "author": "荒岛书生",
       "source": "公开资料 · 原创整理",
       "sourceUrl": "https://arxiv.org/abs/2112.10752",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-09T08:00:00+08:00",
-      "updatedAt": "2026-09-10T11:03:36+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": false,
       "seoTitle": "2021–2022｜潜空间扩散：把图像生成搬到更紧凑的表示中",
@@ -2862,7 +2862,7 @@
         "launch-diffusion-and-multimodal",
         "launch-news-images-25"
       ],
-      "revision": 2
+      "revision": 3
     },
     {
       "id": "launch-history-instructgpt",
@@ -2876,13 +2876,13 @@
         "product",
         "models"
       ],
-      "author": "荒岛有信号",
+      "author": "荒岛书生",
       "source": "公开资料 · 原创整理",
       "sourceUrl": "https://arxiv.org/abs/2203.02155",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-09T08:00:00+08:00",
-      "updatedAt": "2026-09-10T11:03:36+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": false,
       "seoTitle": "2022｜InstructGPT：把人类偏好接入训练",
@@ -2899,7 +2899,7 @@
       "related": [
         "launch-post-training-and-truth"
       ],
-      "revision": 2
+      "revision": 3
     },
     {
       "id": "launch-history-chatgpt",
@@ -2913,13 +2913,13 @@
         "product",
         "models"
       ],
-      "author": "荒岛有信号",
+      "author": "荒岛书生",
       "source": "公开资料 · 原创整理",
       "sourceUrl": "https://openai.com/index/chatgpt/",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-09T08:00:00+08:00",
-      "updatedAt": "2026-09-10T11:03:36+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": true,
       "seoTitle": "2022｜ChatGPT：对话成为大众使用 AI 的入口",
@@ -2931,7 +2931,7 @@
       "related": [
         "launch-post-training-and-truth"
       ],
-      "revision": 2,
+      "revision": 3,
       "people": []
     },
     {
@@ -2946,13 +2946,13 @@
         "developer",
         "agent"
       ],
-      "author": "荒岛有信号",
+      "author": "荒岛书生",
       "source": "公开资料 · 原创整理",
       "sourceUrl": "https://arxiv.org/abs/2310.06770",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-09T08:00:00+08:00",
-      "updatedAt": "2026-09-10T11:03:36+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": false,
       "seoTitle": "2023｜SWE-bench：从生成函数转向修复真实仓库",
@@ -2969,7 +2969,7 @@
       "related": [
         "launch-agent-work-and-verification"
       ],
-      "revision": 2
+      "revision": 3
     },
     {
       "id": "launch-history-mixtral",
@@ -2982,13 +2982,13 @@
       "topics": [
         "models"
       ],
-      "author": "荒岛有信号",
+      "author": "荒岛书生",
       "source": "公开资料 · 原创整理",
       "sourceUrl": "https://arxiv.org/abs/2401.04088",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-09T08:00:00+08:00",
-      "updatedAt": "2026-09-10T11:03:36+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": false,
       "seoTitle": "2024｜Mixtral：用稀疏专家控制每次计算量",
@@ -3006,7 +3006,7 @@
         "launch-scaling-and-compute",
         "launch-efficient-model-systems"
       ],
-      "revision": 2
+      "revision": 3
     },
     {
       "id": "launch-history-mcp",
@@ -3020,13 +3020,13 @@
         "developer",
         "agent"
       ],
-      "author": "荒岛有信号",
+      "author": "荒岛书生",
       "source": "公开资料 · 原创整理",
       "sourceUrl": "https://www.anthropic.com/news/model-context-protocol",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-09T08:00:00+08:00",
-      "updatedAt": "2026-09-10T11:03:36+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": true,
       "seoTitle": "2024｜MCP：为模型连接工具建立共同接口",
@@ -3042,7 +3042,7 @@
       "related": [
         "launch-agent-work-and-verification"
       ],
-      "revision": 2
+      "revision": 3
     },
     {
       "id": "launch-history-deepseek-r1",
@@ -3055,13 +3055,13 @@
       "topics": [
         "models"
       ],
-      "author": "荒岛有信号",
+      "author": "荒岛书生",
       "source": "公开资料 · 原创整理",
       "sourceUrl": "https://arxiv.org/abs/2501.12948v1",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-09T08:00:00+08:00",
-      "updatedAt": "2026-09-10T11:03:36+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": false,
       "seoTitle": "2025｜DeepSeek-R1：强化学习推动推理能力的公开研究",
@@ -3073,7 +3073,7 @@
       "related": [
         "launch-reasoning-compute-and-checks"
       ],
-      "revision": 2,
+      "revision": 3,
       "people": []
     },
     {
@@ -3088,13 +3088,13 @@
         "models",
         "developer"
       ],
-      "author": "荒岛有信号",
+      "author": "荒岛书生",
       "source": "公开资料 · 原创整理",
       "sourceUrl": "https://arxiv.org/abs/1706.03762",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-09T08:00:00+08:00",
-      "updatedAt": "2026-09-10T11:03:36+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 5,
       "featured": true,
       "seoTitle": "Transformer 为什么改变了 AI：从序列处理到可扩展的通用架构",
@@ -3109,7 +3109,7 @@
         "launch-history-resnet",
         "launch-history-bert"
       ],
-      "revision": 2,
+      "revision": 3,
       "people": []
     },
     {
@@ -3124,13 +3124,13 @@
         "models",
         "product"
       ],
-      "author": "荒岛有信号",
+      "author": "荒岛书生",
       "source": "公开资料 · 原创整理",
       "sourceUrl": "https://arxiv.org/abs/2203.15556",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-09T08:00:00+08:00",
-      "updatedAt": "2026-09-10T11:03:36+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 4,
       "featured": true,
       "seoTitle": "大模型为什么不能只比参数：从 GPT-3 到 Chinchilla 的规模问题",
@@ -3143,7 +3143,7 @@
         "launch-history-gpt3",
         "launch-history-mixtral"
       ],
-      "revision": 2,
+      "revision": 3,
       "people": []
     },
     {
@@ -3159,13 +3159,13 @@
         "models",
         "developer"
       ],
-      "author": "荒岛有信号",
+      "author": "荒岛书生",
       "source": "公开资料 · 原创整理",
       "sourceUrl": "https://arxiv.org/abs/2005.11401",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-09T08:00:00+08:00",
-      "updatedAt": "2026-09-10T11:03:36+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 4,
       "featured": true,
       "seoTitle": "RAG 的难点在证据链：长上下文为何没有让检索失去意义",
@@ -3180,7 +3180,7 @@
         "launch-history-gpt3",
         "launch-news-agentic-video"
       ],
-      "revision": 2,
+      "revision": 3,
       "people": []
     },
     {
@@ -3195,13 +3195,13 @@
         "models",
         "product"
       ],
-      "author": "荒岛有信号",
+      "author": "荒岛书生",
       "source": "公开资料 · 原创整理",
       "sourceUrl": "https://arxiv.org/abs/2203.02155",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-09T08:00:00+08:00",
-      "updatedAt": "2026-09-10T11:03:36+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 4,
       "featured": false,
       "seoTitle": "从预测文字到遵循指令：RLHF 改变了什么，又没有解决什么",
@@ -3215,7 +3215,7 @@
         "launch-history-chatgpt",
         "launch-news-claude51"
       ],
-      "revision": 2,
+      "revision": 3,
       "people": []
     },
     {
@@ -3231,13 +3231,13 @@
         "models",
         "product"
       ],
-      "author": "荒岛有信号",
+      "author": "荒岛书生",
       "source": "公开资料 · 原创整理",
       "sourceUrl": "https://arxiv.org/abs/2103.00020",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-09T08:00:00+08:00",
-      "updatedAt": "2026-09-10T11:03:36+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 4,
       "featured": false,
       "seoTitle": "从 CLIP 到潜空间扩散：AI 图像生成的几个关键分工",
@@ -3253,7 +3253,7 @@
         "launch-news-images-25",
         "launch-news-agentic-video"
       ],
-      "revision": 2,
+      "revision": 3,
       "people": []
     },
     {
@@ -3269,13 +3269,13 @@
         "developer",
         "product"
       ],
-      "author": "荒岛有信号",
+      "author": "荒岛书生",
       "source": "公开资料 · 原创整理",
       "sourceUrl": "https://arxiv.org/abs/2310.06770",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-09T08:00:00+08:00",
-      "updatedAt": "2026-09-10T11:03:36+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 5,
       "featured": true,
       "seoTitle": "从 Copilot 到 Agent：AI 编程真正扩大的是什么",
@@ -3292,7 +3292,7 @@
         "launch-news-gemini38",
         "launch-news-claude51"
       ],
-      "revision": 2,
+      "revision": 3,
       "people": []
     },
     {
@@ -3307,13 +3307,13 @@
         "models",
         "developer"
       ],
-      "author": "荒岛有信号",
+      "author": "荒岛书生",
       "source": "公开资料 · 原创整理",
       "sourceUrl": "https://arxiv.org/abs/2106.09685",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-09T08:00:00+08:00",
-      "updatedAt": "2026-09-10T11:03:36+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 5,
       "featured": false,
       "seoTitle": "LoRA、MoE、FlashAttention：三种“更高效”其实在解决不同问题",
@@ -3328,7 +3328,7 @@
         "launch-history-transformer",
         "launch-news-gemini38"
       ],
-      "revision": 2,
+      "revision": 3,
       "people": []
     },
     {
@@ -3344,13 +3344,13 @@
         "agent",
         "developer"
       ],
-      "author": "荒岛有信号",
+      "author": "荒岛书生",
       "source": "公开资料 · 原创整理",
       "sourceUrl": "https://arxiv.org/abs/2201.11903",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-09T08:00:00+08:00",
-      "updatedAt": "2026-09-10T11:03:36+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 4,
       "featured": false,
       "seoTitle": "推理模型为什么愿意多花时间：从思维链到可验证的结果",
@@ -3365,7 +3365,7 @@
         "launch-history-gpt3",
         "launch-news-gpt6-system-card"
       ],
-      "revision": 2,
+      "revision": 3,
       "people": []
     },
     {
@@ -3380,13 +3380,13 @@
         "multimodal",
         "product"
       ],
-      "author": "荒岛有信号",
+      "author": "荒岛书生",
       "source": "OpenAI · 系统卡",
       "sourceUrl": "https://deploymentsafety.openai.com/chatgpt-images-2-5",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-08T12:00:00+08:00",
-      "updatedAt": "2026-09-10T11:03:36+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": false,
       "seoTitle": "OpenAI 发布 Images 2.5 系统卡，强调编辑一致性与生成控制",
@@ -3399,7 +3399,7 @@
         "launch-diffusion-and-multimodal",
         "launch-history-latent-diffusion"
       ],
-      "revision": 2,
+      "revision": 3,
       "people": []
     },
     {
@@ -3414,13 +3414,13 @@
         "models",
         "product"
       ],
-      "author": "荒岛有信号",
+      "author": "荒岛书生",
       "source": "Google DeepMind · 官方发布",
       "sourceUrl": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-08T12:00:00+08:00",
-      "updatedAt": "2026-09-10T11:03:36+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": false,
       "seoTitle": "Google DeepMind 推出 AlphaGenome Atlas，开放大规模变异预测查询",
@@ -3432,7 +3432,7 @@
       "related": [
         "launch-history-alphafold2"
       ],
-      "revision": 2,
+      "revision": 3,
       "people": []
     },
     {
@@ -3448,13 +3448,13 @@
         "agent",
         "developer"
       ],
-      "author": "荒岛有信号",
+      "author": "荒岛书生",
       "source": "OpenAI · 系统卡",
       "sourceUrl": "https://deploymentsafety.openai.com/gpt-6-astra",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-03T12:00:00+08:00",
-      "updatedAt": "2026-09-10T11:03:36+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": false,
       "seoTitle": "GPT-6 Astra 系统卡公布：能力提升伴随更严格的网络安全部署措施",
@@ -3467,7 +3467,7 @@
         "launch-agent-work-and-verification",
         "launch-reasoning-compute-and-checks"
       ],
-      "revision": 2,
+      "revision": 3,
       "people": []
     },
     {
@@ -3483,13 +3483,13 @@
         "developer",
         "agent"
       ],
-      "author": "荒岛有信号",
+      "author": "荒岛书生",
       "source": "Google · 官方发布",
       "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-02T12:00:00+08:00",
-      "updatedAt": "2026-09-10T11:03:36+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": false,
       "seoTitle": "Google 发布 Gemini 3.8 Flash 与受限访问的 Flash Cyber",
@@ -3502,7 +3502,7 @@
         "launch-efficient-model-systems",
         "launch-agent-work-and-verification"
       ],
-      "revision": 2,
+      "revision": 3,
       "people": []
     },
     {
@@ -3518,13 +3518,13 @@
         "agent",
         "developer"
       ],
-      "author": "荒岛有信号",
+      "author": "荒岛书生",
       "source": "Anthropic · 官方发布",
       "sourceUrl": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-01T12:00:00+08:00",
-      "updatedAt": "2026-09-10T11:03:36+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": false,
       "seoTitle": "Anthropic 发布 Claude Fable 5.1 与 Mythos 5.1，采用不同访问与防护安排",
@@ -3537,7 +3537,7 @@
         "launch-post-training-and-truth",
         "launch-agent-work-and-verification"
       ],
-      "revision": 2,
+      "revision": 3,
       "people": []
     },
     {
@@ -3553,13 +3553,13 @@
         "agent",
         "product"
       ],
-      "author": "荒岛有信号",
+      "author": "荒岛书生",
       "source": "Google · 官方发布",
       "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-agentic-video-in-gemini/",
       "cover": "",
       "status": "published",
       "publishedAt": "2026-09-01T12:00:00+08:00",
-      "updatedAt": "2026-09-10T11:03:36+08:00",
+      "updatedAt": "2026-10-20T08:48:07+00:00",
       "readMinutes": 2,
       "featured": false,
       "seoTitle": "Gemini 推出主动视频分析：由任务决定查看哪些片段",
@@ -3572,8 +3572,863 @@
         "launch-rag-evidence-chain",
         "launch-diffusion-and-multimodal"
       ],
-      "revision": 2,
+      "revision": 3,
       "people": []
+    },
+    {
+      "id": "update-node-20260928-claude-sonnet-55",
+      "kind": "node",
+      "slug": "event-claude-sonnet-55-20260928",
+      "title": "Claude Sonnet 5.5：日常开发任务继续优化速度与成本",
+      "summary": "模型分工更清楚：快速处理范围明确的任务，复杂工作仍需单独评估。",
+      "body": "",
+      "category": "近期节点",
+      "topics": [
+        "models",
+        "developer",
+        "agent",
+        "product",
+        "history"
+      ],
+      "author": "荒岛书生",
+      "source": "Anthropic",
+      "sourceUrl": "https://www.anthropic.com/claude-sonnet-5-5",
+      "cover": "",
+      "status": "published",
+      "publishedAt": "2026-10-20T08:50:48+00:00",
+      "updatedAt": "2026-10-20T08:50:48+00:00",
+      "readMinutes": 1,
+      "featured": false,
+      "seoTitle": "Claude Sonnet 5.5：日常开发任务继续优化速度与成本",
+      "seoDescription": "模型分工更清楚：快速处理范围明确的任务，复杂工作仍需单独评估。",
+      "route": "coding",
+      "stage": "Agent 时代",
+      "year": "2026.09.28",
+      "people": [],
+      "order": 20260928,
+      "related": [
+        "update-signal-20260928-claude-sonnet-55",
+        "launch-agent-work-and-verification"
+      ],
+      "revision": 1
+    },
+    {
+      "id": "update-node-20261013-gemini4-argon",
+      "kind": "node",
+      "slug": "event-gemini4-argon-20261013",
+      "title": "Gemini 4 Argon：模型能力继续面向复杂工程任务",
+      "summary": "代码、科学与多步骤工作成为这一轮发布的主要场景。",
+      "body": "",
+      "category": "近期节点",
+      "topics": [
+        "models",
+        "agent",
+        "developer",
+        "science",
+        "history"
+      ],
+      "author": "荒岛书生",
+      "source": "Google",
+      "sourceUrl": "https://blog.google/intl/en-mena/product-updates/explore-get-answers/gemini-4-argon-built-to-solve-your-hardest-problems/",
+      "cover": "",
+      "status": "published",
+      "publishedAt": "2026-10-20T08:50:48+00:00",
+      "updatedAt": "2026-10-20T08:50:48+00:00",
+      "readMinutes": 1,
+      "featured": false,
+      "seoTitle": "Gemini 4 Argon：模型能力继续面向复杂工程任务",
+      "seoDescription": "代码、科学与多步骤工作成为这一轮发布的主要场景。",
+      "route": "capability",
+      "stage": "Agent 时代",
+      "year": "2026.10.13",
+      "people": [],
+      "order": 20261013,
+      "related": [
+        "update-signal-20261013-gemini4-argon",
+        "launch-reasoning-compute-and-checks"
+      ],
+      "revision": 1
+    },
+    {
+      "id": "update-node-20261007-gpt6-intelligent-ui",
+      "kind": "node",
+      "slug": "event-gpt6-intelligent-ui-20261007",
+      "title": "GPT-6 Intelligent UI：对话回答开始生成可操作的界面",
+      "summary": "按问题组合图表、按钮和小工具，把部分操作留在对话内部。",
+      "body": "",
+      "category": "产品演进",
+      "topics": [
+        "models",
+        "product",
+        "multimodal",
+        "history"
+      ],
+      "author": "荒岛书生",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/gpt-6-for-everyone/",
+      "cover": "",
+      "status": "published",
+      "publishedAt": "2026-10-20T08:50:48+00:00",
+      "updatedAt": "2026-10-20T08:50:48+00:00",
+      "readMinutes": 1,
+      "featured": false,
+      "seoTitle": "GPT-6 Intelligent UI：对话回答开始生成可操作的界面",
+      "seoDescription": "按问题组合图表、按钮和小工具，把部分操作留在对话内部。",
+      "route": "product",
+      "stage": "Agent 时代",
+      "year": "2026.10.07",
+      "people": [],
+      "order": 20261007,
+      "related": [
+        "update-signal-20261007-gpt6-intelligent-ui",
+        "launch-agent-work-and-verification"
+      ],
+      "revision": 1
+    },
+    {
+      "id": "update-node-20261006-mistral-large-4",
+      "kind": "node",
+      "slug": "event-mistral-large-4-20261006",
+      "title": "Mistral Large 4 预览：多模态与专业任务并行推进",
+      "summary": "先发布 API 预览、再计划开放权重，两种发布状态需要分别记录。",
+      "body": "",
+      "category": "近期节点",
+      "topics": [
+        "models",
+        "multimodal",
+        "agent",
+        "open-source",
+        "history"
+      ],
+      "author": "荒岛书生",
+      "source": "Mistral AI",
+      "sourceUrl": "https://mistral.ai/news/mistral-large-4/",
+      "cover": "",
+      "status": "published",
+      "publishedAt": "2026-10-20T08:50:48+00:00",
+      "updatedAt": "2026-10-20T08:50:48+00:00",
+      "readMinutes": 1,
+      "featured": false,
+      "seoTitle": "Mistral Large 4 预览：多模态与专业任务并行推进",
+      "seoDescription": "先发布 API 预览、再计划开放权重，两种发布状态需要分别记录。",
+      "route": "capability",
+      "stage": "Agent 时代",
+      "year": "2026.10.06",
+      "people": [],
+      "order": 20261006,
+      "related": [
+        "update-signal-20261006-mistral-large-4",
+        "launch-efficient-model-systems"
+      ],
+      "revision": 1
+    },
+    {
+      "id": "update-node-20260920-qwen-image-21",
+      "kind": "node",
+      "slug": "event-qwen-image-21-20260920",
+      "title": "Qwen-Image-2.1：图像生成与编辑走向同一工作流",
+      "summary": "透明图像和多参考图，让素材生成更接近后续编辑流程。",
+      "body": "",
+      "category": "近期节点",
+      "topics": [
+        "models",
+        "multimodal",
+        "open-source",
+        "history"
+      ],
+      "author": "荒岛书生",
+      "source": "Qwen Team",
+      "sourceUrl": "https://qwen.ai/blog?id=qwen-image-2.1",
+      "cover": "",
+      "status": "published",
+      "publishedAt": "2026-10-20T08:50:48+00:00",
+      "updatedAt": "2026-10-20T08:50:48+00:00",
+      "readMinutes": 1,
+      "featured": false,
+      "seoTitle": "Qwen-Image-2.1：图像生成与编辑走向同一工作流",
+      "seoDescription": "透明图像和多参考图，让素材生成更接近后续编辑流程。",
+      "route": "multimodal",
+      "stage": "Agent 时代",
+      "year": "2026.09.20",
+      "people": [],
+      "order": 20260920,
+      "related": [
+        "update-signal-20260920-qwen-image-21",
+        "launch-diffusion-and-multimodal"
+      ],
+      "revision": 1
+    },
+    {
+      "id": "update-signal-20261015-rosalind-academic-plan",
+      "kind": "signal",
+      "slug": "rosalind-academic-plan-20261015",
+      "title": "OpenAI 推出 Rosalind 学术计划，资助生命科学实验室使用 AI",
+      "summary": "符合条件的实验室可申请席位支持，GPT-Rosalind 访问仍需审核。",
+      "body": "",
+      "category": "产品",
+      "topics": [
+        "science",
+        "models",
+        "product"
+      ],
+      "author": "荒岛书生",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/introducing-the-rosalind-academic-plan/",
+      "cover": "",
+      "status": "published",
+      "publishedAt": "2026-10-15T00:00:00Z",
+      "updatedAt": "2026-10-20T08:50:48+00:00",
+      "readMinutes": 1,
+      "featured": false,
+      "seoTitle": "OpenAI 推出 Rosalind 学术计划，资助生命科学实验室使用 AI",
+      "seoDescription": "符合条件的实验室可申请席位支持，GPT-Rosalind 访问仍需审核。",
+      "route": "",
+      "stage": "",
+      "year": "",
+      "people": [],
+      "order": 0,
+      "related": [
+        "launch-reasoning-compute-and-checks"
+      ],
+      "revision": 1
+    },
+    {
+      "id": "update-signal-20261015-timestral",
+      "kind": "signal",
+      "slug": "timestral-20261015",
+      "title": "Mistral 发布 Timestral，把基础模型用于时间序列预测",
+      "summary": "四种规模从 5M 到 209M 参数，支持多变量和概率预测，可在 CPU 推理。",
+      "body": "",
+      "category": "模型",
+      "topics": [
+        "models",
+        "science",
+        "open-source"
+      ],
+      "author": "荒岛书生",
+      "source": "Mistral AI",
+      "sourceUrl": "https://mistral.ai/news/timestral/",
+      "cover": "",
+      "status": "published",
+      "publishedAt": "2026-10-15T00:00:00Z",
+      "updatedAt": "2026-10-20T08:50:48+00:00",
+      "readMinutes": 1,
+      "featured": false,
+      "seoTitle": "Mistral 发布 Timestral，把基础模型用于时间序列预测",
+      "seoDescription": "四种规模从 5M 到 209M 参数，支持多变量和概率预测，可在 CPU 推理。",
+      "route": "",
+      "stage": "",
+      "year": "",
+      "people": [],
+      "order": 0,
+      "related": [
+        "launch-scaling-and-compute"
+      ],
+      "revision": 1
+    },
+    {
+      "id": "update-signal-20261014-grok-voice-3",
+      "kind": "signal",
+      "slug": "grok-voice-3-20261014",
+      "title": "Grok Voice 3.0 上线 API，重点改善实时语音交互",
+      "summary": "语音到语音模型强调客服任务、打断处理与响应速度。",
+      "body": "",
+      "category": "多模态",
+      "topics": [
+        "models",
+        "multimodal",
+        "product",
+        "agent"
+      ],
+      "author": "荒岛书生",
+      "source": "xAI",
+      "sourceUrl": "https://x.ai/news/grok-voice-3",
+      "cover": "",
+      "status": "published",
+      "publishedAt": "2026-10-14T00:00:00Z",
+      "updatedAt": "2026-10-20T08:50:48+00:00",
+      "readMinutes": 1,
+      "featured": false,
+      "seoTitle": "Grok Voice 3.0 上线 API，重点改善实时语音交互",
+      "seoDescription": "语音到语音模型强调客服任务、打断处理与响应速度。",
+      "route": "",
+      "stage": "",
+      "year": "",
+      "people": [],
+      "order": 0,
+      "related": [
+        "launch-diffusion-and-multimodal"
+      ],
+      "revision": 1
+    },
+    {
+      "id": "update-signal-20261013-gemini4-argon",
+      "kind": "signal",
+      "slug": "gemini4-argon-20261013",
+      "title": "Gemini 4 Argon 发布，面向复杂工程与科学任务",
+      "summary": "进入 Gemini API 等入口，重点处理多步骤工作；不同产品有相应订阅要求。",
+      "body": "",
+      "category": "模型",
+      "topics": [
+        "models",
+        "agent",
+        "developer",
+        "science"
+      ],
+      "author": "荒岛书生",
+      "source": "Google",
+      "sourceUrl": "https://blog.google/intl/en-mena/product-updates/explore-get-answers/gemini-4-argon-built-to-solve-your-hardest-problems/",
+      "cover": "",
+      "status": "published",
+      "publishedAt": "2026-10-13T00:00:00Z",
+      "updatedAt": "2026-10-20T08:50:48+00:00",
+      "readMinutes": 1,
+      "featured": false,
+      "seoTitle": "Gemini 4 Argon 发布，面向复杂工程与科学任务",
+      "seoDescription": "进入 Gemini API 等入口，重点处理多步骤工作；不同产品有相应订阅要求。",
+      "route": "",
+      "stage": "",
+      "year": "",
+      "people": [],
+      "order": 0,
+      "related": [
+        "update-node-20261013-gemini4-argon",
+        "launch-reasoning-compute-and-checks"
+      ],
+      "revision": 1
+    },
+    {
+      "id": "update-signal-20261012-glm-legal-beta",
+      "kind": "signal",
+      "slug": "glm-legal-beta-20261012",
+      "title": "智谱介绍 GLM-Legal，开放法律任务模型 Beta 申请",
+      "summary": "基于 GLM-5.3-Flash 做领域训练，重点覆盖合同、证据分析与文书任务。",
+      "body": "",
+      "category": "模型",
+      "topics": [
+        "models",
+        "agent",
+        "product"
+      ],
+      "author": "荒岛书生",
+      "source": "Z.ai / 智谱",
+      "sourceUrl": "https://z.ai/blog/glm-legal",
+      "cover": "",
+      "status": "published",
+      "publishedAt": "2026-10-12T00:00:00Z",
+      "updatedAt": "2026-10-20T08:50:48+00:00",
+      "readMinutes": 1,
+      "featured": false,
+      "seoTitle": "智谱介绍 GLM-Legal，开放法律任务模型 Beta 申请",
+      "seoDescription": "基于 GLM-5.3-Flash 做领域训练，重点覆盖合同、证据分析与文书任务。",
+      "route": "",
+      "stage": "",
+      "year": "",
+      "people": [],
+      "order": 0,
+      "related": [
+        "launch-rag-evidence-chain"
+      ],
+      "revision": 1
+    },
+    {
+      "id": "update-signal-20261008-anthropic-cyber-mission",
+      "kind": "signal",
+      "slug": "anthropic-cyber-mission-20261008",
+      "title": "Anthropic 推出 Cyber Mission，向开源项目提供定期扫描",
+      "summary": "OSS Scanner 由维护者自愿加入；模型报告仍需人工判断与验证。",
+      "body": "",
+      "category": "行业",
+      "topics": [
+        "agent",
+        "developer",
+        "open-source"
+      ],
+      "author": "荒岛书生",
+      "source": "Anthropic",
+      "sourceUrl": "https://www.anthropic.com/news/anthropic-cyber-mission",
+      "cover": "",
+      "status": "published",
+      "publishedAt": "2026-10-08T00:00:00Z",
+      "updatedAt": "2026-10-20T08:50:48+00:00",
+      "readMinutes": 1,
+      "featured": false,
+      "seoTitle": "Anthropic 推出 Cyber Mission，向开源项目提供定期扫描",
+      "seoDescription": "OSS Scanner 由维护者自愿加入；模型报告仍需人工判断与验证。",
+      "route": "",
+      "stage": "",
+      "year": "",
+      "people": [],
+      "order": 0,
+      "related": [
+        "launch-agent-work-and-verification"
+      ],
+      "revision": 1
+    },
+    {
+      "id": "update-signal-20261007-claude-haiku-55",
+      "kind": "signal",
+      "slug": "claude-haiku-55-20261007",
+      "title": "Claude Haiku 5.5 发布，补齐高频低成本任务档位",
+      "summary": "面向摘要、分类与实时支持，并首次为 Haiku 提供可调节的推理投入。",
+      "body": "",
+      "category": "模型",
+      "topics": [
+        "models",
+        "agent",
+        "product"
+      ],
+      "author": "荒岛书生",
+      "source": "Anthropic",
+      "sourceUrl": "https://www.anthropic.com/claude-haiku-5-5",
+      "cover": "",
+      "status": "published",
+      "publishedAt": "2026-10-07T00:00:00Z",
+      "updatedAt": "2026-10-20T08:50:48+00:00",
+      "readMinutes": 1,
+      "featured": false,
+      "seoTitle": "Claude Haiku 5.5 发布，补齐高频低成本任务档位",
+      "seoDescription": "面向摘要、分类与实时支持，并首次为 Haiku 提供可调节的推理投入。",
+      "route": "",
+      "stage": "",
+      "year": "",
+      "people": [],
+      "order": 0,
+      "related": [
+        "launch-efficient-model-systems"
+      ],
+      "revision": 1
+    },
+    {
+      "id": "update-signal-20261007-gpt6-intelligent-ui",
+      "kind": "signal",
+      "slug": "gpt6-intelligent-ui-20261007",
+      "title": "GPT-6 向更多 ChatGPT 用户开放，加入可交互回答",
+      "summary": "Intelligent UI 可以按问题组合图表、按钮、表单和小工具。",
+      "body": "",
+      "category": "产品",
+      "topics": [
+        "models",
+        "product",
+        "multimodal"
+      ],
+      "author": "荒岛书生",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/gpt-6-for-everyone/",
+      "cover": "",
+      "status": "published",
+      "publishedAt": "2026-10-07T00:00:00Z",
+      "updatedAt": "2026-10-20T08:50:48+00:00",
+      "readMinutes": 1,
+      "featured": false,
+      "seoTitle": "GPT-6 向更多 ChatGPT 用户开放，加入可交互回答",
+      "seoDescription": "Intelligent UI 可以按问题组合图表、按钮、表单和小工具。",
+      "route": "",
+      "stage": "",
+      "year": "",
+      "people": [],
+      "order": 0,
+      "related": [
+        "update-node-20261007-gpt6-intelligent-ui",
+        "launch-agent-work-and-verification"
+      ],
+      "revision": 1
+    },
+    {
+      "id": "update-signal-20261006-mistral-large-4",
+      "kind": "signal",
+      "slug": "mistral-large-4-20261006",
+      "title": "Mistral Large 4 开放 API 预览，权重计划月底发布",
+      "summary": "原生多模态模型面向编程、Agent 与专业工作；当前发布状态仍为预览。",
+      "body": "",
+      "category": "模型",
+      "topics": [
+        "models",
+        "multimodal",
+        "agent",
+        "open-source"
+      ],
+      "author": "荒岛书生",
+      "source": "Mistral AI",
+      "sourceUrl": "https://mistral.ai/news/mistral-large-4/",
+      "cover": "",
+      "status": "published",
+      "publishedAt": "2026-10-06T00:00:00Z",
+      "updatedAt": "2026-10-20T08:50:48+00:00",
+      "readMinutes": 1,
+      "featured": false,
+      "seoTitle": "Mistral Large 4 开放 API 预览，权重计划月底发布",
+      "seoDescription": "原生多模态模型面向编程、Agent 与专业工作；当前发布状态仍为预览。",
+      "route": "",
+      "stage": "",
+      "year": "",
+      "people": [],
+      "order": 0,
+      "related": [
+        "update-node-20261006-mistral-large-4",
+        "launch-efficient-model-systems"
+      ],
+      "revision": 1
+    },
+    {
+      "id": "update-signal-20261005-chatgpt-visual-ads",
+      "kind": "signal",
+      "slug": "chatgpt-visual-ads-20261005",
+      "title": "ChatGPT 公布视觉广告新形式，先在美国小范围测试",
+      "summary": "面向 Free 和 Go 用户的图像生成场景，广告与生成图片分开展示。",
+      "body": "",
+      "category": "产品",
+      "topics": [
+        "product",
+        "multimodal"
+      ],
+      "author": "荒岛书生",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/new-chatgpt-ads-format-and-measurement/",
+      "cover": "",
+      "status": "published",
+      "publishedAt": "2026-10-05T00:00:00Z",
+      "updatedAt": "2026-10-20T08:50:48+00:00",
+      "readMinutes": 1,
+      "featured": false,
+      "seoTitle": "ChatGPT 公布视觉广告新形式，先在美国小范围测试",
+      "seoDescription": "面向 Free 和 Go 用户的图像生成场景，广告与生成图片分开展示。",
+      "route": "",
+      "stage": "",
+      "year": "",
+      "people": [],
+      "order": 0,
+      "related": [
+        "launch-agent-work-and-verification"
+      ],
+      "revision": 1
+    },
+    {
+      "id": "update-signal-20260929-gpt-61-sol",
+      "kind": "signal",
+      "slug": "gpt-61-sol-20260929",
+      "title": "OpenAI 发布 GPT-6.1 Sol，更新日常工作与 Agent 模型",
+      "summary": "官方主打能力与成本的平衡，覆盖编程、电脑操作和专业文档任务。",
+      "body": "",
+      "category": "模型",
+      "topics": [
+        "models",
+        "agent",
+        "developer"
+      ],
+      "author": "荒岛书生",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/introducing-gpt-6-1-sol/",
+      "cover": "",
+      "status": "published",
+      "publishedAt": "2026-09-29T00:00:00Z",
+      "updatedAt": "2026-10-20T08:50:48+00:00",
+      "readMinutes": 1,
+      "featured": false,
+      "seoTitle": "OpenAI 发布 GPT-6.1 Sol，更新日常工作与 Agent 模型",
+      "seoDescription": "官方主打能力与成本的平衡，覆盖编程、电脑操作和专业文档任务。",
+      "route": "",
+      "stage": "",
+      "year": "",
+      "people": [],
+      "order": 0,
+      "related": [
+        "launch-reasoning-compute-and-checks"
+      ],
+      "revision": 1
+    },
+    {
+      "id": "update-signal-20260928-claude-sonnet-55",
+      "kind": "signal",
+      "slug": "claude-sonnet-55-20260928",
+      "title": "Claude Sonnet 5.5 上线，日常编程与文档工作继续提速",
+      "summary": "定位于范围清楚的日常任务，官方称输出速度比 Sonnet 5 提升超过 30%。",
+      "body": "",
+      "category": "模型",
+      "topics": [
+        "models",
+        "developer",
+        "agent",
+        "product"
+      ],
+      "author": "荒岛书生",
+      "source": "Anthropic",
+      "sourceUrl": "https://www.anthropic.com/claude-sonnet-5-5",
+      "cover": "",
+      "status": "published",
+      "publishedAt": "2026-09-28T00:00:00Z",
+      "updatedAt": "2026-10-20T08:50:48+00:00",
+      "readMinutes": 1,
+      "featured": false,
+      "seoTitle": "Claude Sonnet 5.5 上线，日常编程与文档工作继续提速",
+      "seoDescription": "定位于范围清楚的日常任务，官方称输出速度比 Sonnet 5 提升超过 30%。",
+      "route": "",
+      "stage": "",
+      "year": "",
+      "people": [],
+      "order": 0,
+      "related": [
+        "update-node-20260928-claude-sonnet-55",
+        "launch-agent-work-and-verification"
+      ],
+      "revision": 1
+    },
+    {
+      "id": "update-signal-20260922-claude-opus-55",
+      "kind": "signal",
+      "slug": "claude-opus-55-20260922",
+      "title": "Claude Opus 5.5 发布，面向复杂任务降低运行成本",
+      "summary": "Claude 5.5 系列首款模型，重点改进编程、知识工作与长任务协作。",
+      "body": "",
+      "category": "模型",
+      "topics": [
+        "models",
+        "agent",
+        "developer"
+      ],
+      "author": "荒岛书生",
+      "source": "Anthropic",
+      "sourceUrl": "https://www.anthropic.com/claude-opus-5-5",
+      "cover": "",
+      "status": "published",
+      "publishedAt": "2026-09-22T00:00:00Z",
+      "updatedAt": "2026-10-20T08:50:48+00:00",
+      "readMinutes": 1,
+      "featured": false,
+      "seoTitle": "Claude Opus 5.5 发布，面向复杂任务降低运行成本",
+      "seoDescription": "Claude 5.5 系列首款模型，重点改进编程、知识工作与长任务协作。",
+      "route": "",
+      "stage": "",
+      "year": "",
+      "people": [],
+      "order": 0,
+      "related": [
+        "launch-agent-work-and-verification"
+      ],
+      "revision": 1
+    },
+    {
+      "id": "update-signal-20260920-qwen-image-21",
+      "kind": "signal",
+      "slug": "qwen-image-21-20260920",
+      "title": "千问开源 Qwen-Image-2.1，统一生图、编辑与透明图层",
+      "summary": "视觉生成部分采用 7B 参数，支持透明图片和最多 10 张参考图。",
+      "body": "",
+      "category": "多模态",
+      "topics": [
+        "models",
+        "multimodal",
+        "open-source"
+      ],
+      "author": "荒岛书生",
+      "source": "Qwen Team",
+      "sourceUrl": "https://qwen.ai/blog?id=qwen-image-2.1",
+      "cover": "",
+      "status": "published",
+      "publishedAt": "2026-09-20T00:00:00Z",
+      "updatedAt": "2026-10-20T08:50:48+00:00",
+      "readMinutes": 1,
+      "featured": false,
+      "seoTitle": "千问开源 Qwen-Image-2.1，统一生图、编辑与透明图层",
+      "seoDescription": "视觉生成部分采用 7B 参数，支持透明图片和最多 10 张参考图。",
+      "route": "",
+      "stage": "",
+      "year": "",
+      "people": [],
+      "order": 0,
+      "related": [
+        "update-node-20260920-qwen-image-21",
+        "launch-diffusion-and-multimodal"
+      ],
+      "revision": 1
+    },
+    {
+      "id": "editorial-depth-muse-personal-agent-wave",
+      "kind": "depth",
+      "slug": "muse-personal-agent-wave",
+      "title": "Muse 与个人 Agent 浪潮：当 AI 开始替你持续办事",
+      "summary": "从 Muse、dots 到 Poppy 草案，讨论长期记忆、后台执行和服务连接如何改变个人助理，以及怎样判断它有没有替人省事。",
+      "body": "",
+      "category": "产品观察",
+      "topics": [
+        "agent",
+        "product",
+        "models"
+      ],
+      "author": "荒岛书生",
+      "source": "Meta、OpenAI、Sierra · 公开资料与原创分析",
+      "sourceUrl": "https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/",
+      "cover": "",
+      "status": "published",
+      "publishedAt": "2026-10-20T09:05:01+00:00",
+      "updatedAt": "2026-10-20T09:05:01+00:00",
+      "readMinutes": 10,
+      "featured": true,
+      "seoTitle": "Muse 与个人 Agent 浪潮：当 AI 开始替你持续办事",
+      "seoDescription": "梳理 Meta Muse、Muse Wonder、OpenAI dots 与 Poppy 草案，理解个人 Agent 的持续记忆、后台执行、服务连接、授权边界与实际使用价值。",
+      "route": "",
+      "stage": "",
+      "year": "",
+      "people": [],
+      "order": 0,
+      "related": [
+        "launch-agent-work-and-verification",
+        "d1",
+        "update-signal-20261007-gpt6-intelligent-ui",
+        "update-signal-20261013-gemini4-argon",
+        "launch-history-mcp"
+      ],
+      "revision": 1
+    },
+    {
+      "id": "editorial-depth-astra-sol-3d-evaluations",
+      "kind": "depth",
+      "slug": "astra-sol-3d-evaluations",
+      "title": "GPT-6 Astra 与 GPT-6.1 Sol：3D 评测究竟测出了什么",
+      "summary": "结合模型发布、Three.js 社区案例和近期研究，拆开生成、空间理解、编辑与核验，讨论怎样看懂一场 3D 评测。",
+      "body": "",
+      "category": "模型观察",
+      "topics": [
+        "models",
+        "developer",
+        "multimodal"
+      ],
+      "author": "荒岛书生",
+      "source": "官方公告、原始评测与研究论文",
+      "sourceUrl": "https://openai.com/index/introducing-gpt-6-1-sol/",
+      "cover": "",
+      "status": "published",
+      "publishedAt": "2026-10-20T09:17:57Z",
+      "updatedAt": "2026-10-20T09:17:57Z",
+      "readMinutes": 12,
+      "featured": true,
+      "seoTitle": "GPT-6 Astra、GPT-6.1 Sol 与 3D 评测：生成、空间理解和核验",
+      "seoDescription": "从 GPT-6 Astra、GPT-6.1 Sol 的发布到 Three.js 社区实验，结合 WorldBench、Code4Scene 与 3DVerifier，解释 3D 评测的能力范围和比较方法。",
+      "route": "",
+      "stage": "",
+      "year": "",
+      "people": [],
+      "order": 0,
+      "related": [
+        "editorial-signal-gpt6-astra-release",
+        "update-signal-20260929-gpt-61-sol",
+        "update-signal-20261013-gemini4-argon",
+        "editorial-node-gpt6-astra",
+        "editorial-depth-reasoning-and-verification",
+        "editorial-depth-muse-personal-agent-wave"
+      ],
+      "revision": 1
+    },
+    {
+      "author": "荒岛书生",
+      "source": "Google / Google DeepMind",
+      "sourceUrl": "https://ai.google.dev/gemini-api/docs/changelog",
+      "cover": "",
+      "status": "published",
+      "updatedAt": "2026-10-20T09:25:13Z",
+      "readMinutes": 1,
+      "featured": false,
+      "people": [],
+      "revision": 1,
+      "id": "update-node-20261006-nano-banana-21",
+      "kind": "node",
+      "slug": "event-nano-banana-21-20261006",
+      "title": "Nano Banana 2.1：图像生成继续走向多轮编辑",
+      "summary": "Flash 系图像模型更新，文字渲染与人物一致性成为持续创作的观察点。",
+      "body": "",
+      "category": "近期节点",
+      "topics": [
+        "models",
+        "multimodal",
+        "product",
+        "history"
+      ],
+      "publishedAt": "2026-10-20T09:25:13Z",
+      "route": "multimodal",
+      "stage": "Agent 时代",
+      "year": "2026.10.06",
+      "order": 20261006,
+      "related": [
+        "update-signal-20261006-nano-banana-21",
+        "launch-diffusion-and-multimodal",
+        "update-node-20260920-qwen-image-21"
+      ],
+      "seoTitle": "Nano Banana 2.1：图像生成继续走向多轮编辑",
+      "seoDescription": "Flash 系图像模型更新，文字渲染与人物一致性成为持续创作的观察点。"
+    },
+    {
+      "author": "荒岛书生",
+      "source": "Google / Google DeepMind",
+      "sourceUrl": "https://ai.google.dev/gemini-api/docs/changelog",
+      "cover": "",
+      "status": "published",
+      "updatedAt": "2026-10-20T09:25:13Z",
+      "readMinutes": 1,
+      "featured": false,
+      "people": [],
+      "revision": 1,
+      "id": "update-signal-20261006-nano-banana-21",
+      "kind": "signal",
+      "slug": "nano-banana-21-20261006",
+      "title": "Google 发布 Nano Banana 2.1，改进生图与多轮编辑",
+      "summary": "基于 Gemini 3.6 Flash，重点改善人物一致性、文字渲染和宽幅图片，API 已正式可用。",
+      "body": "",
+      "category": "多模态",
+      "topics": [
+        "models",
+        "multimodal",
+        "product"
+      ],
+      "publishedAt": "2026-10-06T00:00:00Z",
+      "route": "",
+      "stage": "",
+      "year": "",
+      "order": 0,
+      "related": [
+        "update-node-20261006-nano-banana-21",
+        "launch-diffusion-and-multimodal",
+        "update-node-20260920-qwen-image-21"
+      ],
+      "seoTitle": "Google 发布 Nano Banana 2.1，改进生图与多轮编辑",
+      "seoDescription": "基于 Gemini 3.6 Flash，重点改善人物一致性、文字渲染和宽幅图片，API 已正式可用。"
+    },
+    {
+      "id": "editorial-depth-artificial-analysis-index-guide",
+      "kind": "depth",
+      "slug": "artificial-analysis-index-guide",
+      "title": "10月最新AI榜单：Claude第一，GPT-6.1 Sol紧追Astra",
+      "summary": "Claude Opus 5.5 拿到 58 分，Sol 与 Astra 的取整分数只差一分。把 10 月最新的分数和成本图放在一起，这轮竞争更有看头。",
+      "body": "",
+      "category": "模型观察",
+      "topics": [
+        "models",
+        "developer",
+        "product"
+      ],
+      "author": "荒岛书生",
+      "source": "Artificial Analysis",
+      "sourceUrl": "https://artificialanalysis.ai/evaluations/artificial-analysis-intelligence-index",
+      "cover": "",
+      "status": "published",
+      "publishedAt": "2026-10-20T09:43:59Z",
+      "updatedAt": "2026-10-20T09:49:11Z",
+      "readMinutes": 7,
+      "featured": true,
+      "seoTitle": "10月最新AI榜单：Claude第一，GPT-6.1 Sol紧追Astra",
+      "seoDescription": "2026 年 10 月最新 AI 榜单点评：Claude Opus 5.5 领跑，GPT-6.1 Sol 接近 Astra，成本却更低。附 Artificial Analysis v4.3.2 原色竖榜与成本原图。",
+      "route": "",
+      "stage": "",
+      "year": "",
+      "people": [],
+      "order": 0,
+      "related": [
+        "editorial-depth-astra-sol-3d-evaluations",
+        "editorial-depth-muse-personal-agent-wave",
+        "update-signal-20260929-gpt-61-sol",
+        "update-signal-20260922-claude-opus-55",
+        "editorial-depth-reasoning-and-verification"
+      ],
+      "revision": 2
     }
   ],
   "topics": [
@@ -3583,7 +4438,7 @@
       "description": "从单次回答到完成任务，观察智能体的能力与边界。",
       "cover": "",
       "heat": "持续关注",
-      "count": 23
+      "count": 36
     },
     {
       "slug": "models",
@@ -3591,7 +4446,7 @@
       "description": "理解模型架构、能力变化与实际应用。",
       "cover": "",
       "heat": "基础议题",
-      "count": 74
+      "count": 96
     },
     {
       "slug": "developer",
@@ -3599,7 +4454,7 @@
       "description": "AI 编程、工程实践与交付方法。",
       "cover": "",
       "heat": "实践热点",
-      "count": 27
+      "count": 36
     },
     {
       "slug": "multimodal",
@@ -3607,7 +4462,7 @@
       "description": "跨越文字、图像、声音与行动。",
       "cover": "",
       "heat": "持续关注",
-      "count": 19
+      "count": 30
     },
     {
       "slug": "rag",
@@ -3623,7 +4478,7 @@
       "description": "从技术能力走向可用的产品体验。",
       "cover": "",
       "heat": "持续关注",
-      "count": 26
+      "count": 39
     },
     {
       "slug": "history",
@@ -3631,7 +4486,7 @@
       "description": "从重要人物与历史转折，理解人工智能如何走到今天。",
       "cover": "",
       "heat": "专题",
-      "count": 35
+      "count": 41
     },
     {
       "slug": "open-source",
@@ -3639,7 +4494,7 @@
       "description": "关注模型架构、公开权重与可复现的工程实践。",
       "cover": "",
       "heat": "专题",
-      "count": 7
+      "count": 13
     },
     {
       "slug": "science",
@@ -3647,7 +4502,7 @@
       "description": "观察学习方法如何进入科学问题，以及如何检验结果。",
       "cover": "",
       "heat": "专题",
-      "count": 3
+      "count": 7
     }
   ],
   "routes": [
@@ -3665,7 +4520,7 @@
     {
       "slug": "product",
       "name": "AI 产品路线",
-      "description": "从 ELIZA、专家系统到对话助手，观察 AI 如何进入真实的使用场景。",
+      "description": "从 ELIZA、专家系统到对话助手与可交互回答，观察 AI 如何进入真实的使用场景。",
       "steps": [
         "工具",
         "助手",
@@ -3687,7 +4542,7 @@
     {
       "slug": "multimodal",
       "name": "多模态路线",
-      "description": "从视觉数据与图像识别，到图文对齐和图像生成，追踪多种信息形式的融合。",
+      "description": "从视觉数据与图像识别，到图像创作、语音交互，追踪多种信息形式的融合。",
       "steps": [
         "单模态",
         "多模态",
@@ -3729,11 +4584,11 @@
     }
   ],
   "settings": {
-    "brand": "荒岛有信号",
+    "brand": "荒岛书生",
     "tagline": "看 AI 的现在，预见 AI 的未来",
     "wechatName": "荒岛书生codedoctor",
     "qrCode": "",
-    "about": "## 我们关注什么\n\n荒岛有信号是一个独立的 AI 知识传播网站。信号记录新的变化，深度解释技术与问题，演化把今天放回历史中理解。\n\n## 我们怎样写作\n\n优先查阅原始论文、项目档案和机构公告，使用中文重新组织解释，并保留来源链接。我们区分已经发生的事实、厂商的公开说法和编辑分析，不把单次演示当作普遍结论。\n\n本站使用 AI 辅助资料整理与写作。技术文章的推导示例用于解释原理，不冒充独立实验；遇到来源争议或新证据，会继续修订。每篇内容注明资料依据，欢迎通过公众号反馈勘误。\n\n## 为什么还要读历史\n\n新模型不断出现，但很多重要问题有更长的来路。理解图灵、专家系统、深度学习和 Transformer 的脉络，有助于在热闹中建立自己的判断。",
+    "about": "## 我们关注什么\n\n荒岛书生是一个独立的 AI 知识传播网站。信号记录新的变化，深度解释技术与问题，演化把今天放回历史中理解。\n\n## 我们怎样写作\n\n优先查阅原始论文、项目档案和机构公告，使用中文重新组织解释，并保留来源链接。我们区分已经发生的事实、厂商的公开说法和编辑分析，不把单次演示当作普遍结论。\n\n本站使用 AI 辅助资料整理与写作。技术文章的推导示例用于解释原理，不冒充独立实验；遇到来源争议或新证据，会继续修订。每篇内容注明资料依据，欢迎通过公众号反馈勘误。\n\n## 为什么还要读历史\n\n新模型不断出现，但很多重要问题有更长的来路。理解图灵、专家系统、深度学习和 Transformer 的脉络，有助于在热闹中建立自己的判断。",
     "consulting": "## 把 AI 的可能性，变成具体问题\n\n围绕 AI 产品判断、内容研究与开发实践，提供交流入口。\n\n### 交流前可以准备\n\n1. 你正在解决什么问题？\n2. 现有流程中最费时间的是哪一步？\n3. 希望怎样衡量改变后的结果？\n\n通过公众号联系，备注「咨询」与问题背景。我们会先了解需求，再讨论是否适合进一步合作。",
     "contact": "请通过公众号联系，备注「咨询」。",
     "defaultTheme": "light",
@@ -3744,22 +4599,22 @@
       "evolution",
       "about"
     ],
-    "heroId": "launch-agent-work-and-verification",
+    "heroId": "editorial-depth-artificial-analysis-index-guide",
     "signalIds": [
-      "editorial-signal-lyria-35-gemini",
-      "editorial-signal-gpt6-astra-release",
-      "editorial-signal-gemini-38-flash",
-      "editorial-signal-claude-fable-mythos-51"
+      "update-signal-20261006-nano-banana-21",
+      "update-signal-20261015-timestral",
+      "update-signal-20261014-grok-voice-3",
+      "update-signal-20261013-gemini4-argon"
     ],
     "featuredIds": [
-      "editorial-depth-transformer-explained",
-      "editorial-depth-residual-connections",
-      "editorial-depth-deepseek-moe-explained"
+      "editorial-depth-astra-sol-3d-evaluations",
+      "editorial-depth-muse-personal-agent-wave",
+      "editorial-depth-transformer-explained"
     ],
     "sidebarIds": [
-      "editorial-depth-reasoning-and-verification",
-      "d3",
-      "editorial-depth-scaling-laws"
+      "update-signal-20260929-gpt-61-sol",
+      "update-signal-20260920-qwen-image-21",
+      "editorial-depth-reasoning-and-verification"
     ]
   },
   "media": []

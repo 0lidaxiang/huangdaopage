@@ -1,0 +1,7 @@
+interface:
+  display_name: "荒岛书生写作"
+  short_description: "为荒岛书生撰写和修改 AI 自媒体文章，突出时效、具体看点和作者判断。"
+  default_prompt: "使用 $huangdao-ai-writer，根据本次素材和方向完成符合荒岛书生风格的文章或改稿。"
+
+policy:
+  allow_implicit_invocation: true

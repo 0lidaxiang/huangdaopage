@@ -4,19 +4,19 @@
   "slug": "alexnet",
   "title": "AlexNet：数据、GPU 与深层网络相遇",
   "summary": "深层卷积网络在大规模视觉任务上取得突破，改变研究重心。",
-  "body": "## 历史坐标\n\n**时间：2012。** 这里记录事件或论文首次公开时间，页面的发布日期是本站整理时间。\n\n**关键人物：Alex Krizhevsky、Ilya Sutskever、Geoffrey Hinton。** 人物用于标识相关贡献者；大型项目由团队共同完成，并非单一人物的作品。\n\n## 发生了什么\n\nKrizhevsky、Sutskever 与 Hinton 的 ImageNet 分类论文，将卷积网络、GPU 实现和训练技巧组合起来。2012 年成为深度学习在计算机视觉领域被广泛关注的转折点。\n\n## 为什么值得记住\n\n新的效果不是单靠一条公式出现的。足够大的训练集、可承受的训练时间和适合优化的网络结构同时具备，才让过去难以实践的方法真正跑起来。\n\n## 放回历史中看\n\n这不是视觉智能的终点，也不是神经网络的起点。图像分类优势不能自动迁移到定位、推理或开放世界理解；后续工作仍需处理数据偏差、鲁棒性和计算开销。\n\n## 资料与延伸阅读\n\n- [Krizhevsky 等，NeurIPS 2012](https://papers.nips.cc/paper_files/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html)\n- [返回 AI 演化地图](/evolution)\n\n本文为荒岛编辑部依据公开资料撰写的历史条目；“为什么值得记住”和比较性表述属于编辑分析。资料核验：2026 年 9 月 5 日。",
+  "body": "## 历史坐标\n\n**时间：2012。** 这里记录事件或论文首次公开时间，页面的发布日期是本站整理时间。\n\n**关键人物：Alex Krizhevsky、Ilya Sutskever、Geoffrey Hinton。** 人物用于标识相关贡献者；大型项目由团队共同完成，并非单一人物的作品。\n\n## 发生了什么\n\nKrizhevsky、Sutskever 与 Hinton 的 ImageNet 分类论文，将卷积网络、GPU 实现和训练技巧组合起来。2012 年成为深度学习在计算机视觉领域被广泛关注的转折点。\n\n## 为什么值得记住\n\n新的效果不是单靠一条公式出现的。足够大的训练集、可承受的训练时间和适合优化的网络结构同时具备，才让过去难以实践的方法真正跑起来。\n\n## 放回历史中看\n\n这不是视觉智能的终点，也不是神经网络的起点。图像分类优势不能自动迁移到定位、推理或开放世界理解；后续工作仍需处理数据偏差、鲁棒性和计算开销。\n\n## 资料与延伸阅读\n\n- [Krizhevsky 等，NeurIPS 2012](https://papers.nips.cc/paper_files/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html)\n- [返回 AI 演化地图](/evolution)\n\n本文为荒岛书生编辑部依据公开资料撰写的历史条目；“为什么值得记住”和比较性表述属于编辑分析。资料核验：2026 年 9 月 5 日。",
   "category": "历史节点",
   "topics": [
     "history",
     "multimodal"
   ],
-  "author": "荒岛编辑部",
+  "author": "荒岛书生编辑部",
   "source": "Krizhevsky 等，NeurIPS 2012",
   "sourceUrl": "https://papers.nips.cc/paper_files/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html",
   "cover": "",
   "status": "published",
   "publishedAt": "2026-09-05T06:00:00Z",
-  "updatedAt": "2026-09-05T15:20:46+08:00",
+  "updatedAt": "2026-10-20T08:48:07+00:00",
   "readMinutes": 2,
   "featured": false,
   "seoTitle": "AlexNet：数据、GPU 与深层网络相遇",
@@ -33,5 +33,5 @@
   "related": [
     "d6"
   ],
-  "revision": 1
+  "revision": 2
 }
