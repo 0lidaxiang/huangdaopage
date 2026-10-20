@@ -1,0 +1,34 @@
+{
+  "id": "launch-history-gan",
+  "kind": "node",
+  "slug": "history-gan",
+  "title": "2014｜GAN：通过生成与判别的竞争学习造图",
+  "summary": "生成器与判别器共同训练，推动视觉生成成为独立而活跃的研究方向。",
+  "body": "历史时间：2014.06.10。阶段归类是阅读导航，技术路线之间存在重叠。\n\n## 发生了什么\n\nGAN 论文提出生成器与判别器之间的对抗训练：一个产生样本，一个区分生成样本与训练数据。两者相互提供学习信号。\n\n## 人物与贡献\n\nGoodfellow 等研究者提出生成对抗网络；Bengio 是共同作者之一。\n\n## 为什么是一个节点\n\n视觉 AI 不再只回答“图里是什么”，也开始研究“怎样生成一张图”。但生成好看的单张样本和覆盖完整数据分布不是一回事；这个区分也适用于后来阅读生成模型演示。GAN 与扩散模型代表不同生成路径。\n\n## 资料来源\n\n- [Goodfellow 等：Generative Adversarial Networks（2014）](https://arxiv.org/abs/1406.2661)\n\n资料核验：2026-09-09。本文为基于公开资料的原创整理。",
+  "category": "演化节点",
+  "topics": [
+    "multimodal",
+    "models"
+  ],
+  "author": "荒岛有信号",
+  "source": "公开资料 · 原创整理",
+  "sourceUrl": "https://arxiv.org/abs/1406.2661",
+  "cover": "",
+  "status": "published",
+  "publishedAt": "2026-09-09T08:00:00+08:00",
+  "updatedAt": "2026-09-10T11:03:36+08:00",
+  "readMinutes": 2,
+  "featured": false,
+  "seoTitle": "2014｜GAN：通过生成与判别的竞争学习造图",
+  "seoDescription": "生成器与判别器共同训练，推动视觉生成成为独立而活跃的研究方向。",
+  "route": "multimodal",
+  "stage": "深度学习",
+  "year": "2014.06.10",
+  "people": [
+    "Ian Goodfellow（伊恩·古德费洛）",
+    "Yoshua Bengio（约书亚·本吉奥）"
+  ],
+  "order": 120,
+  "related": [],
+  "revision": 2
+}

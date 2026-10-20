@@ -1,0 +1,35 @@
+{
+  "id": "editorial-node-lighthill-debate",
+  "kind": "node",
+  "slug": "lighthill-debate",
+  "title": "Lighthill 争论：AI 的发展并非一路向上",
+  "summary": "评估、资金与技术预期相互作用，研究领域也会经历收缩。",
+  "body": "## 历史坐标\n\n**时间：1973.06。** 这里记录事件或论文首次公开时间，页面的发布日期是本站整理时间。\n\n**关键人物：詹姆斯·莱特希尔、唐纳德·米奇、约翰·麦卡锡。** 人物用于标识相关贡献者；大型项目由团队共同完成，并非单一人物的作品。\n\n## 发生了什么\n\n1973 年围绕 Lighthill 报告的公开争论，是英国 AI 历史中的重要事件。爱丁堡保留了当年 BBC 辩论与报告资料。该节点以公开辩论时间为准，不把报告草稿、出版和政策反应压缩成同一日期。\n\n## 为什么值得记住\n\n实验室里解决一个受限任务，与在开放环境中稳定工作，往往隔着巨大的工程距离。资金收缩背后包含对这种距离的重新判断，不能只用“社会不理解天才”解释。\n\n## 放回历史中看\n\n所谓 AI 寒冬不是全世界在同一天停止研究，也不是某个人独自造成的。读技术历史要同时观察能力边界、产业承诺和资源安排，避免只排列成功产品而遗漏失败与停滞。\n\n## 资料与延伸阅读\n\n- [爱丁堡大学：1973 年 Lighthill 辩论档案](https://www.aiai.ed.ac.uk/events/lighthill1973/)\n- [返回 AI 演化地图](/evolution)\n\n本文为荒岛编辑部依据公开资料撰写的历史条目；“为什么值得记住”和比较性表述属于编辑分析。资料核验：2026 年 9 月 5 日。",
+  "category": "历史节点",
+  "topics": [
+    "history",
+    "models"
+  ],
+  "author": "荒岛编辑部",
+  "source": "爱丁堡大学：1973 年 Lighthill 辩论档案",
+  "sourceUrl": "https://www.aiai.ed.ac.uk/events/lighthill1973/",
+  "cover": "",
+  "status": "published",
+  "publishedAt": "2026-09-05T06:00:00Z",
+  "updatedAt": "2026-09-05T15:20:46+08:00",
+  "readMinutes": 2,
+  "featured": false,
+  "seoTitle": "Lighthill 争论：AI 的发展并非一路向上",
+  "seoDescription": "评估、资金与技术预期相互作用，研究领域也会经历收缩。",
+  "route": "capability",
+  "stage": "规则系统",
+  "year": "1973.06",
+  "people": [
+    "詹姆斯·莱特希尔",
+    "唐纳德·米奇",
+    "约翰·麦卡锡"
+  ],
+  "order": 19730601,
+  "related": [],
+  "revision": 1
+}

@@ -1,0 +1,35 @@
+{
+  "id": "editorial-node-backpropagation",
+  "kind": "node",
+  "slug": "backpropagation",
+  "title": "反向传播：多层网络学会内部表示",
+  "summary": "误差沿计算图回传，让隐藏层参数可以一起优化。",
+  "body": "## 历史坐标\n\n**时间：1986.10.09。** 这里记录事件或论文首次公开时间，页面的发布日期是本站整理时间。\n\n**关键人物：戴维·鲁梅尔哈特、杰弗里·辛顿、罗纳德·威廉斯。** 人物用于标识相关贡献者；大型项目由团队共同完成，并非单一人物的作品。\n\n## 发生了什么\n\nRumelhart、Hinton 与 Williams 在 Nature 发表关于反向传播学习表示的论文。这是该方法被广泛传播的重要节点，而不是链式法则或全部反向模式自动微分的发明日期。\n\n## 为什么值得记住\n\n多层系统的问题在于：最后的预测错了，内部各层该负多少责任？反向传播把整体目标对参数的导数系统地算出来，使隐藏层也能收到学习信号。\n\n## 放回历史中看\n\n可计算梯度不代表训练一定成功。梯度尺度、初始化、数据和算力仍然限制深层网络。后来残差连接等工作，正是在可优化性上继续补足这条路线。\n\n## 资料与延伸阅读\n\n- [Rumelhart、Hinton、Williams，Nature 1986](https://www.nature.com/articles/323533a0)\n- [返回 AI 演化地图](/evolution)\n\n本文为荒岛编辑部依据公开资料撰写的历史条目；“为什么值得记住”和比较性表述属于编辑分析。资料核验：2026 年 9 月 5 日。",
+  "category": "历史节点",
+  "topics": [
+    "history",
+    "models"
+  ],
+  "author": "荒岛编辑部",
+  "source": "Rumelhart、Hinton、Williams，Nature 1986",
+  "sourceUrl": "https://www.nature.com/articles/323533a0",
+  "cover": "",
+  "status": "published",
+  "publishedAt": "2026-09-05T06:00:00Z",
+  "updatedAt": "2026-09-05T15:20:46+08:00",
+  "readMinutes": 2,
+  "featured": false,
+  "seoTitle": "反向传播：多层网络学会内部表示",
+  "seoDescription": "误差沿计算图回传，让隐藏层参数可以一起优化。",
+  "route": "capability",
+  "stage": "规则系统",
+  "year": "1986.10.09",
+  "people": [
+    "戴维·鲁梅尔哈特",
+    "杰弗里·辛顿",
+    "罗纳德·威廉斯"
+  ],
+  "order": 19861009,
+  "related": [],
+  "revision": 1
+}

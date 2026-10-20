@@ -1,0 +1,24 @@
+{
+  "installCommand": "npm ci",
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "nodeVersion": "22.11.0",
+  "rewrites": [
+    { "source": "/signals", "destination": "/signals/index.html" },
+    { "source": "/depth", "destination": "/depth/index.html" },
+    { "source": "/evolution", "destination": "/evolution/index.html" },
+    { "source": "/topics", "destination": "/topics/index.html" },
+    { "source": "/search", "destination": "/search/index.html" },
+    { "source": "/about", "destination": "/about/index.html" },
+    { "source": "/consulting", "destination": "/consulting/index.html" },
+    { "source": "/signals/:slug", "destination": "/signals/:slug/index.html" },
+    { "source": "/depth/:slug", "destination": "/depth/:slug/index.html" },
+    { "source": "/evolution/node/:slug", "destination": "/evolution/node/:slug/index.html" },
+    { "source": "/evolution/:route", "destination": "/evolution/:route/index.html" },
+    { "source": "/topics/:slug", "destination": "/topics/:slug/index.html" }
+  ],
+  "headers": [
+    { "source": "/*", "headers": [ { "key": "X-Content-Type-Options", "value": "nosniff" }, { "key": "Cache-Control", "value": "public, max-age=0, must-revalidate" } ] },
+    { "source": "/assets/*", "headers": [ { "key": "Cache-Control", "value": "public, max-age=31536000, immutable" } ] }
+  ]
+}

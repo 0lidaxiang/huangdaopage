@@ -1,0 +1,35 @@
+{
+  "id": "launch-news-claude51",
+  "kind": "signal",
+  "slug": "news-claude51",
+  "title": "Anthropic 发布 Claude Fable 5.1 与 Mythos 5.1，采用不同访问与防护安排",
+  "summary": "9 月 1 日更新强调编码、知识工作和研究任务，并区分一般可用与可信访问计划。",
+  "body": "事件日期：2026-09-01（采用原始来源标注日期）；本站整理：2026-09-09。\n\n## 发生了什么\n\nAnthropic 介绍 Claude Fable 5.1 与 Claude Mythos 5.1，称两者基于同一模型，但采用不同防护设置。官方表示 Fable 5.1 一般可用，Mythos 5.1 则通过可信访问计划提供。\n\n## 为什么关注\n\n本站观察：模型发布正在同时回答能力、成本和开放边界三个问题。对于长期任务，值得检查是否保持任务约束、怎样验证结果，以及实际可访问哪一版本。\n\n## 信息边界\n\n公告中的科研案例和基准分数是厂商披露，不能直接推导为已替代科研或工程团队。本站未独立复现这些结果；不同防护设置下的成绩也不宜混在一起比较。\n\n## 资料来源\n\n- [Anthropic · 官方发布](https://www.anthropic.com/claude-fable-and-mythos-5-1)\n\n资料核验：2026-09-09。本文为基于公开资料的原创整理。",
+  "category": "模型",
+  "topics": [
+    "models",
+    "agent",
+    "developer"
+  ],
+  "author": "荒岛有信号",
+  "source": "Anthropic · 官方发布",
+  "sourceUrl": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+  "cover": "",
+  "status": "published",
+  "publishedAt": "2026-09-01T12:00:00+08:00",
+  "updatedAt": "2026-09-10T11:03:36+08:00",
+  "readMinutes": 2,
+  "featured": false,
+  "seoTitle": "Anthropic 发布 Claude Fable 5.1 与 Mythos 5.1，采用不同访问与防护安排",
+  "seoDescription": "9 月 1 日更新强调编码、知识工作和研究任务，并区分一般可用与可信访问计划。",
+  "route": "",
+  "stage": "",
+  "year": "",
+  "order": 0,
+  "related": [
+    "launch-post-training-and-truth",
+    "launch-agent-work-and-verification"
+  ],
+  "revision": 2,
+  "people": []
+}

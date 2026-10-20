@@ -1,0 +1,38 @@
+{
+  "id": "launch-history-resnet",
+  "kind": "node",
+  "slug": "history-resnet",
+  "title": "2015–2016｜ResNet：让更深的网络更容易训练",
+  "summary": "残差连接改变网络学习方式，为加深模型提供更可行的优化路径。",
+  "body": "历史时间：2015.12 / 2016。阶段归类是阅读导航，技术路线之间存在重叠。\n\n## 发生了什么\n\n论文于 2015 年 12 月提交预印本，发表于 CVPR 2016。残差结构让网络学习相对输入的变化，并通过捷径连接保留输入路径。\n\n## 人物与贡献\n\n四位作者共同提出深度残差学习。\n\n## 为什么是一个节点\n\n更深的模型不是简单多堆几层，还要能训练得动。残差学习把表示能力与优化问题连接起来。后来阅读 Transformer 的残差路径时，也可以从这个问题出发：信息和梯度如何穿过很多层，而不在过程中失去作用。\n\n## 资料来源\n\n- [He 等：Deep Residual Learning（2015/2016）](https://arxiv.org/abs/1512.03385)\n\n资料核验：2026-09-09。本文为基于公开资料的原创整理。",
+  "category": "演化节点",
+  "topics": [
+    "multimodal",
+    "models"
+  ],
+  "author": "荒岛有信号",
+  "source": "公开资料 · 原创整理",
+  "sourceUrl": "https://arxiv.org/abs/1512.03385",
+  "cover": "",
+  "status": "published",
+  "publishedAt": "2026-09-09T08:00:00+08:00",
+  "updatedAt": "2026-09-10T11:03:36+08:00",
+  "readMinutes": 2,
+  "featured": false,
+  "seoTitle": "2015–2016｜ResNet：让更深的网络更容易训练",
+  "seoDescription": "残差连接改变网络学习方式，为加深模型提供更可行的优化路径。",
+  "route": "multimodal",
+  "stage": "深度学习",
+  "year": "2015.12 / 2016",
+  "people": [
+    "Kaiming He（何恺明）",
+    "Xiangyu Zhang（张祥雨）",
+    "Shaoqing Ren（任少卿）",
+    "Jian Sun（孙剑）"
+  ],
+  "order": 140,
+  "related": [
+    "launch-understanding-transformer"
+  ],
+  "revision": 2
+}

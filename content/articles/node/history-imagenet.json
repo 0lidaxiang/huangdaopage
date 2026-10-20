@@ -1,0 +1,38 @@
+{
+  "id": "launch-history-imagenet",
+  "kind": "node",
+  "slug": "history-imagenet",
+  "title": "2009｜ImageNet：数据与公共基准成为基础设施",
+  "summary": "大规模、有组织的图像数据让视觉方法能够在共同任务上比较。",
+  "body": "历史时间：2009。阶段归类是阅读导航，技术路线之间存在重叠。\n\n## 发生了什么\n\n2009 年 ImageNet 论文介绍大规模层级图像数据库。后续挑战赛与数据资源为视觉模型提供共同的训练与评估环境，改变了研究成果被衡量和传播的方式。\n\n## 人物与贡献\n\n上述研究者共同署名 CVPR 2009 的 ImageNet 论文；数据集建设是团队与标注协作的成果。\n\n## 为什么是一个节点\n\n算法突破需要可比较的证据，数据基础设施因此成为 AI 历史的重要角色。基准也有边界：在固定标签集上识别物体，不等于理解所有现实场景。数据来源、类别设计与覆盖范围会影响我们看到的能力。\n\n## 资料来源\n\n- [ImageNet 官方：项目与论文信息](https://www.image-net.org/about.php)\n\n资料核验：2026-09-09。本文为基于公开资料的原创整理。",
+  "category": "演化节点",
+  "topics": [
+    "multimodal",
+    "models"
+  ],
+  "author": "荒岛有信号",
+  "source": "公开资料 · 原创整理",
+  "sourceUrl": "https://www.image-net.org/about.php",
+  "cover": "",
+  "status": "published",
+  "publishedAt": "2026-09-09T08:00:00+08:00",
+  "updatedAt": "2026-09-10T11:03:36+08:00",
+  "readMinutes": 2,
+  "featured": false,
+  "seoTitle": "2009｜ImageNet：数据与公共基准成为基础设施",
+  "seoDescription": "大规模、有组织的图像数据让视觉方法能够在共同任务上比较。",
+  "route": "multimodal",
+  "stage": "机器学习",
+  "year": "2009",
+  "people": [
+    "Fei-Fei Li（李飞飞）",
+    "Jia Deng（邓嘉）",
+    "Wei Dong",
+    "Richard Socher",
+    "Li-Jia Li（李佳）",
+    "Kai Li（李凯）"
+  ],
+  "order": 90,
+  "related": [],
+  "revision": 2
+}

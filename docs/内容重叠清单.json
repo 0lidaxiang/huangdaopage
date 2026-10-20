@@ -1,0 +1,480 @@
+{
+  "publicOnly": true,
+  "groups": [
+    {
+      "kind": "depth",
+      "sharedField": "sourceUrl",
+      "valueSha256": "1098fc60be7ca2b0583a5455c6b06c76965e1b968139829a71e96289e05143f7",
+      "sourceUrl": "https://arxiv.org/abs/2203.02155",
+      "records": [
+        {
+          "id": "launch-post-training-and-truth",
+          "slug": "post-training-and-truth",
+          "title": "从预测文字到遵循指令：RLHF 改变了什么，又没有解决什么"
+        },
+        {
+          "id": "editorial-depth-rlhf-and-dpo",
+          "slug": "rlhf-and-dpo",
+          "title": "RLHF 与 DPO：模型怎样学会“更符合人的要求”"
+        }
+      ],
+      "decision": "keep-distinct-records; shared source alone does not prove duplicate text"
+    },
+    {
+      "kind": "depth",
+      "sharedField": "sourceUrl",
+      "valueSha256": "3d7d444bcdb3d33de138e42a1f2a6c932e2fcdc890c5a6c2db7dd70741572bcd",
+      "sourceUrl": "https://arxiv.org/abs/2103.00020",
+      "records": [
+        {
+          "id": "launch-diffusion-and-multimodal",
+          "slug": "diffusion-and-multimodal",
+          "title": "从 CLIP 到潜空间扩散：AI 图像生成的几个关键分工"
+        },
+        {
+          "id": "d6",
+          "slug": "multimodal-next",
+          "title": "从 CLIP 到多模态助手：对齐、理解与行动是三件事"
+        }
+      ],
+      "decision": "keep-distinct-records; shared source alone does not prove duplicate text"
+    },
+    {
+      "kind": "depth",
+      "sharedField": "sourceUrl",
+      "valueSha256": "a7468c68516526913141989e07fcccd64bf51644bd7287e30a432b7a17265e59",
+      "sourceUrl": "https://arxiv.org/abs/1706.03762",
+      "records": [
+        {
+          "id": "launch-understanding-transformer",
+          "slug": "understanding-transformer",
+          "title": "Transformer 为什么改变了 AI：从序列处理到可扩展的通用架构"
+        },
+        {
+          "id": "editorial-depth-transformer-explained",
+          "slug": "transformer-explained",
+          "title": "读懂 Transformer：注意力如何把上下文变成计算"
+        }
+      ],
+      "decision": "keep-distinct-records; shared source alone does not prove duplicate text"
+    },
+    {
+      "kind": "depth",
+      "sharedField": "sourceUrl",
+      "valueSha256": "cae140a2c5e76d6806842c1619035dd4e340190c47a52487dbe4f7275dc16ad2",
+      "sourceUrl": "https://arxiv.org/abs/2106.09685",
+      "records": [
+        {
+          "id": "editorial-depth-lora-and-qlora",
+          "slug": "lora-and-qlora",
+          "title": "LoRA 与 QLoRA：少训练一些参数，究竟省了什么"
+        },
+        {
+          "id": "launch-efficient-model-systems",
+          "slug": "efficient-model-systems",
+          "title": "LoRA、MoE、FlashAttention：三种“更高效”其实在解决不同问题"
+        }
+      ],
+      "decision": "keep-distinct-records; shared source alone does not prove duplicate text"
+    },
+    {
+      "kind": "depth",
+      "sharedField": "sourceUrl",
+      "valueSha256": "02ad74cdb0c9081ff68958b3398f19f5b946b93f506093ac055d1205158730d7",
+      "sourceUrl": "https://arxiv.org/abs/2005.11401",
+      "records": [
+        {
+          "id": "d3",
+          "slug": "rag-evidence",
+          "title": "RAG 的价值不在“接上向量库”，而在证据链"
+        },
+        {
+          "id": "launch-rag-evidence-chain",
+          "slug": "rag-evidence-chain",
+          "title": "RAG 的难点在证据链：长上下文为何没有让检索失去意义"
+        }
+      ],
+      "decision": "keep-distinct-records; shared source alone does not prove duplicate text"
+    },
+    {
+      "kind": "node",
+      "sharedField": "sourceUrl",
+      "valueSha256": "598bb8c891171dbfce4ae03acc5864c1487e28abb6d2c12b87620c4244582be1",
+      "sourceUrl": "https://www.ibm.com/history/deep-blue",
+      "records": [
+        {
+          "id": "launch-history-deep-blue",
+          "slug": "history-deep-blue",
+          "title": "1997｜深蓝击败卡斯帕罗夫：专用系统的高峰"
+        },
+        {
+          "id": "editorial-node-deep-blue",
+          "slug": "deep-blue",
+          "title": "深蓝击败卡斯帕罗夫：专用智能的里程碑"
+        }
+      ],
+      "decision": "keep-distinct-records; shared source alone does not prove duplicate text"
+    },
+    {
+      "kind": "node",
+      "sharedField": "sourceUrl",
+      "valueSha256": "39c54ded8144e1aa69cb10d5252d594bc4bf37adf79b3326b1ffbfd34abf4576",
+      "sourceUrl": "https://news.cornell.edu/stories/2019/09/professors-perceptron-paved-way-ai-60-years-too-soon",
+      "records": [
+        {
+          "id": "launch-history-perceptron",
+          "slug": "history-perceptron",
+          "title": "1958｜感知机：让机器从样本中调整判断"
+        },
+        {
+          "id": "editorial-node-perceptron",
+          "slug": "perceptron",
+          "title": "感知机：让分类规则从样本中学出来"
+        }
+      ],
+      "decision": "keep-distinct-records; shared source alone does not prove duplicate text"
+    },
+    {
+      "kind": "node",
+      "sharedField": "sourceUrl",
+      "valueSha256": "fbbf2cbc86a8b7b4f1c34e06372017a3e8a712a3b700a1422fb2cabc78b41c00",
+      "sourceUrl": "https://www.nature.com/articles/323533a0",
+      "records": [
+        {
+          "id": "editorial-node-backpropagation",
+          "slug": "backpropagation",
+          "title": "反向传播：多层网络学会内部表示"
+        },
+        {
+          "id": "launch-history-backprop",
+          "slug": "history-backprop",
+          "title": "1986｜反向传播推动多层网络学习表示"
+        }
+      ],
+      "decision": "keep-distinct-records; shared source alone does not prove duplicate text"
+    },
+    {
+      "kind": "node",
+      "sharedField": "sourceUrl",
+      "valueSha256": "e778b23064e784e2fcb9b184d505d06d270d7dfc9fcb0e9b22979d7dec68cb62",
+      "sourceUrl": "https://arxiv.org/abs/1512.03385",
+      "records": [
+        {
+          "id": "editorial-node-resnet",
+          "slug": "resnet",
+          "title": "ResNet：残差连接让深层网络更容易训练"
+        },
+        {
+          "id": "launch-history-resnet",
+          "slug": "history-resnet",
+          "title": "2015–2016｜ResNet：让更深的网络更容易训练"
+        }
+      ],
+      "decision": "keep-distinct-records; shared source alone does not prove duplicate text"
+    },
+    {
+      "kind": "node",
+      "sharedField": "sourceUrl",
+      "valueSha256": "3d7d444bcdb3d33de138e42a1f2a6c932e2fcdc890c5a6c2db7dd70741572bcd",
+      "sourceUrl": "https://arxiv.org/abs/2103.00020",
+      "records": [
+        {
+          "id": "launch-history-clip",
+          "slug": "history-clip",
+          "title": "2021｜CLIP：用自然语言连接图像概念"
+        },
+        {
+          "id": "n5",
+          "slug": "multimodal",
+          "title": "CLIP：图像与自然语言对齐"
+        }
+      ],
+      "decision": "keep-distinct-records; shared source alone does not prove duplicate text"
+    },
+    {
+      "kind": "node",
+      "sharedField": "sourceUrl",
+      "valueSha256": "a7468c68516526913141989e07fcccd64bf51644bd7287e30a432b7a17265e59",
+      "sourceUrl": "https://arxiv.org/abs/1706.03762",
+      "records": [
+        {
+          "id": "launch-history-transformer",
+          "slug": "history-transformer",
+          "title": "2017｜Transformer：用注意力重组序列建模"
+        },
+        {
+          "id": "n1",
+          "slug": "transformer",
+          "title": "Transformer：序列建模转向注意力"
+        }
+      ],
+      "decision": "keep-distinct-records; shared source alone does not prove duplicate text"
+    },
+    {
+      "kind": "node",
+      "sharedField": "sourceUrl",
+      "valueSha256": "2b95b6d90dc57dcded513f732b5ae9b9f5d0fa14dae3bc6b8b034ef2b3ac801e",
+      "sourceUrl": "https://arxiv.org/abs/2006.11239",
+      "records": [
+        {
+          "id": "launch-history-ddpm",
+          "slug": "history-ddpm",
+          "title": "2020｜扩散模型：把生成转成逐步去噪"
+        },
+        {
+          "id": "editorial-node-ddpm",
+          "slug": "ddpm",
+          "title": "DDPM：通过逐步去噪学习生成"
+        }
+      ],
+      "decision": "keep-distinct-records; shared source alone does not prove duplicate text"
+    },
+    {
+      "kind": "node",
+      "sharedField": "sourceUrl",
+      "valueSha256": "1098fc60be7ca2b0583a5455c6b06c76965e1b968139829a71e96289e05143f7",
+      "sourceUrl": "https://arxiv.org/abs/2203.02155",
+      "records": [
+        {
+          "id": "launch-history-instructgpt",
+          "slug": "history-instructgpt",
+          "title": "2022｜InstructGPT：把人类偏好接入训练"
+        },
+        {
+          "id": "editorial-node-instructgpt",
+          "slug": "instructgpt",
+          "title": "InstructGPT：从续写文本到遵循意图"
+        }
+      ],
+      "decision": "keep-distinct-records; shared source alone does not prove duplicate text"
+    },
+    {
+      "kind": "node",
+      "sharedField": "sourceUrl",
+      "valueSha256": "089fe2c6fbb14b3de85ea48aa997a61f6180fedd6df47d0ad5bd6996fed46fc0",
+      "sourceUrl": "https://github.blog/news-insights/product-news/introducing-github-copilot-ai-pair-programmer/",
+      "records": [
+        {
+          "id": "n6",
+          "slug": "code-completion",
+          "title": "GitHub Copilot：代码补全进入日常开发"
+        },
+        {
+          "id": "launch-history-copilot",
+          "slug": "history-copilot",
+          "title": "2021｜GitHub Copilot：AI 进入代码编辑现场"
+        }
+      ],
+      "decision": "keep-distinct-records; shared source alone does not prove duplicate text"
+    },
+    {
+      "kind": "node",
+      "sharedField": "sourceUrl",
+      "valueSha256": "32f3c7d144f036a02e6a2380c738376f9566401e9539cd2971c91562719c9fce",
+      "sourceUrl": "https://arxiv.org/abs/1810.04805",
+      "records": [
+        {
+          "id": "editorial-node-bert",
+          "slug": "bert",
+          "title": "BERT：双向预训练改变语言理解"
+        },
+        {
+          "id": "launch-history-bert",
+          "slug": "history-bert",
+          "title": "2018｜BERT：预训练表示走向语言理解任务"
+        }
+      ],
+      "decision": "keep-distinct-records; shared source alone does not prove duplicate text"
+    },
+    {
+      "kind": "node",
+      "sharedField": "sourceUrl",
+      "valueSha256": "047809fe98789a16a22ed967ec95aa9c9b94d7a4c8612f53854fabfca1746f0d",
+      "sourceUrl": "https://arxiv.org/abs/1406.2661",
+      "records": [
+        {
+          "id": "launch-history-gan",
+          "slug": "history-gan",
+          "title": "2014｜GAN：通过生成与判别的竞争学习造图"
+        },
+        {
+          "id": "editorial-node-gan",
+          "slug": "gan",
+          "title": "GAN：生成与判别在对抗中学习"
+        }
+      ],
+      "decision": "keep-distinct-records; shared source alone does not prove duplicate text"
+    },
+    {
+      "kind": "node",
+      "sharedField": "sourceUrl",
+      "valueSha256": "2cab3ea10b8b7ae2638fe8baec372c4dbc8935d8366f847f0a63757c07fd2d0d",
+      "sourceUrl": "https://arxiv.org/abs/2005.14165",
+      "records": [
+        {
+          "id": "launch-history-gpt3",
+          "slug": "history-gpt3",
+          "title": "2020｜GPT-3：任务开始通过上下文表达"
+        },
+        {
+          "id": "editorial-node-gpt3",
+          "slug": "gpt3",
+          "title": "GPT-3：在提示中给例子，也能迁移任务"
+        }
+      ],
+      "decision": "keep-distinct-records; shared source alone does not prove duplicate text"
+    },
+    {
+      "kind": "node",
+      "sharedField": "sourceUrl",
+      "valueSha256": "60cfe5fed32e34e8dd6c80fe873318fa8a481ab501591a1281a82a79949199c8",
+      "sourceUrl": "https://openai.com/index/chatgpt/",
+      "records": [
+        {
+          "id": "launch-history-chatgpt",
+          "slug": "history-chatgpt",
+          "title": "2022｜ChatGPT：对话成为大众使用 AI 的入口"
+        },
+        {
+          "id": "n2",
+          "slug": "chatgpt",
+          "title": "ChatGPT：对话成为大众使用 AI 的入口"
+        }
+      ],
+      "decision": "keep-distinct-records; shared source alone does not prove duplicate text"
+    },
+    {
+      "kind": "node",
+      "sharedField": "sourceUrl",
+      "valueSha256": "02ad74cdb0c9081ff68958b3398f19f5b946b93f506093ac055d1205158730d7",
+      "sourceUrl": "https://arxiv.org/abs/2005.11401",
+      "records": [
+        {
+          "id": "launch-history-rag",
+          "slug": "history-rag",
+          "title": "2020｜RAG：让生成回答访问外部知识"
+        },
+        {
+          "id": "editorial-node-rag",
+          "slug": "rag",
+          "title": "RAG：把可更新资料接到生成模型旁边"
+        }
+      ],
+      "decision": "keep-distinct-records; shared source alone does not prove duplicate text"
+    },
+    {
+      "kind": "node",
+      "sharedField": "sourceUrl",
+      "valueSha256": "0e861a1586231dbd8e84979a26bca488ddf35c0f8d34075daaa57c30917a6ef1",
+      "sourceUrl": "https://arxiv.org/abs/1312.5602",
+      "records": [
+        {
+          "id": "launch-history-dqn",
+          "slug": "history-dqn",
+          "title": "2013｜DQN：从像素与奖励中学习游戏策略"
+        },
+        {
+          "id": "editorial-node-deep-q-network",
+          "slug": "deep-q-network",
+          "title": "DQN：从像素到行动的强化学习"
+        }
+      ],
+      "decision": "keep-distinct-records; shared source alone does not prove duplicate text"
+    },
+    {
+      "kind": "node",
+      "sharedField": "sourceUrl",
+      "valueSha256": "cae140a2c5e76d6806842c1619035dd4e340190c47a52487dbe4f7275dc16ad2",
+      "sourceUrl": "https://arxiv.org/abs/2106.09685",
+      "records": [
+        {
+          "id": "launch-history-lora",
+          "slug": "history-lora",
+          "title": "2021｜LoRA：用小规模参数更新适配大模型"
+        },
+        {
+          "id": "editorial-node-lora",
+          "slug": "lora",
+          "title": "LoRA：低秩增量让模型适配更轻量"
+        }
+      ],
+      "decision": "keep-distinct-records; shared source alone does not prove duplicate text"
+    },
+    {
+      "kind": "node",
+      "sharedField": "sourceUrl",
+      "valueSha256": "c38a8009142b3b2ff60384b7bd90ee6859446b362c455c4f23e905373d26d85c",
+      "sourceUrl": "https://www.nature.com/articles/s41586-021-03819-2",
+      "records": [
+        {
+          "id": "launch-history-alphafold2",
+          "slug": "history-alphafold2",
+          "title": "2021｜AlphaFold 2：结构预测进入高精度阶段"
+        },
+        {
+          "id": "editorial-node-alphafold2",
+          "slug": "alphafold2",
+          "title": "AlphaFold 2：AI 进入科学问题的核心环节"
+        }
+      ],
+      "decision": "keep-distinct-records; shared source alone does not prove duplicate text"
+    },
+    {
+      "kind": "node",
+      "sharedField": "sourceUrl",
+      "valueSha256": "e283b9c34207eff8e62a1618cc1a5bc63348e8c9e67ea2af1dda80b41b6b3d9b",
+      "sourceUrl": "https://www.anthropic.com/news/model-context-protocol",
+      "records": [
+        {
+          "id": "launch-history-mcp",
+          "slug": "history-mcp",
+          "title": "2024｜MCP：为模型连接工具建立共同接口"
+        },
+        {
+          "id": "n3",
+          "slug": "mcp",
+          "title": "MCP：统一模型与外部工具的连接方式"
+        }
+      ],
+      "decision": "keep-distinct-records; shared source alone does not prove duplicate text"
+    },
+    {
+      "kind": "signal",
+      "sharedField": "sourceUrl",
+      "valueSha256": "e7232d52f37fd859a2ad633164226f1c2f18c7af5a6da4e5e7f23ccb8f0263e9",
+      "sourceUrl": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+      "records": [
+        {
+          "id": "editorial-signal-claude-fable-mythos-51",
+          "slug": "claude-fable-mythos-51",
+          "title": "Anthropic 发布 Claude Fable 5.1 与 Mythos 5.1"
+        },
+        {
+          "id": "launch-news-claude51",
+          "slug": "news-claude51",
+          "title": "Anthropic 发布 Claude Fable 5.1 与 Mythos 5.1，采用不同访问与防护安排"
+        }
+      ],
+      "decision": "keep-distinct-records; shared source alone does not prove duplicate text"
+    },
+    {
+      "kind": "signal",
+      "sharedField": "sourceUrl",
+      "valueSha256": "1e5b8618d900b42a6d0b1d1d120a68d5a6363388e52c74af5ad67348ab1581c0",
+      "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+      "records": [
+        {
+          "id": "launch-news-gemini38",
+          "slug": "news-gemini38",
+          "title": "Google 发布 Gemini 3.8 Flash 与受限访问的 Flash Cyber"
+        },
+        {
+          "id": "editorial-signal-gemini-38-flash",
+          "slug": "gemini-38-flash",
+          "title": "Gemini 3.8 Flash 发布，通用模型与安全专用版本分开"
+        }
+      ],
+      "decision": "keep-distinct-records; shared source alone does not prove duplicate text"
+    }
+  ]
+}

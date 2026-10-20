@@ -1,0 +1,37 @@
+{
+  "id": "launch-history-clip",
+  "kind": "node",
+  "slug": "history-clip",
+  "title": "2021｜CLIP：用自然语言连接图像概念",
+  "summary": "图像与文字在共享表示空间中对齐，让视觉任务可以借助文字描述定义。",
+  "body": "历史时间：2021.02.26（论文）。阶段归类是阅读导航，技术路线之间存在重叠。\n\n## 发生了什么\n\nCLIP 通过图文配对学习可迁移的视觉表示，使用自然语言描述支持零样本任务。本节点采用论文在 arXiv 的提交日期，与产品博客发布日分开。\n\n## 人物与贡献\n\nRadford 等研究团队共同提出 CLIP；完整署名见论文。\n\n## 为什么是一个节点\n\n固定分类标签开始变成可用语言表达的概念。不过图文相似度不是完整的图像推理过程，细节、数量和关系仍需要单独检查。它是跨模态表示的重要节点，不是今天所有多模态系统的同义词。\n\n## 资料来源\n\n- [Radford 等：Learning Transferable Visual Models（2021）](https://arxiv.org/abs/2103.00020)\n\n资料核验：2026-09-09。本文为基于公开资料的原创整理。",
+  "category": "演化节点",
+  "topics": [
+    "multimodal",
+    "models"
+  ],
+  "author": "荒岛有信号",
+  "source": "公开资料 · 原创整理",
+  "sourceUrl": "https://arxiv.org/abs/2103.00020",
+  "cover": "",
+  "status": "published",
+  "publishedAt": "2026-09-09T08:00:00+08:00",
+  "updatedAt": "2026-09-10T11:03:36+08:00",
+  "readMinutes": 2,
+  "featured": false,
+  "seoTitle": "2021｜CLIP：用自然语言连接图像概念",
+  "seoDescription": "图像与文字在共享表示空间中对齐，让视觉任务可以借助文字描述定义。",
+  "route": "multimodal",
+  "stage": "大模型时代",
+  "year": "2021.02.26（论文）",
+  "people": [
+    "Alec Radford",
+    "Jong Wook Kim",
+    "Chris Hallacy"
+  ],
+  "order": 210,
+  "related": [
+    "launch-diffusion-and-multimodal"
+  ],
+  "revision": 2
+}

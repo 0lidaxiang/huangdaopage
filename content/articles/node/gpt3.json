@@ -1,0 +1,38 @@
+{
+  "id": "editorial-node-gpt3",
+  "kind": "node",
+  "slug": "gpt3",
+  "title": "GPT-3：在提示中给例子，也能迁移任务",
+  "summary": "大规模自回归预训练，让少样本提示成为重要的使用方式。",
+  "body": "## 历史坐标\n\n**时间：2020.05.28。** 这里记录事件或论文首次公开时间，页面的发布日期是本站整理时间。\n\n**关键人物：Tom Brown、Benjamin Mann、Jared Kaplan、Ilya Sutskever。** 人物用于标识相关贡献者；大型项目由团队共同完成，并非单一人物的作品。\n\n## 发生了什么\n\nLanguage Models are Few-Shot Learners 报告了 GPT-3 的少样本任务表现。论文中的任务演示放在输入上下文中，评估时不需要为每个任务更新模型梯度。\n\n## 为什么值得记住\n\n过去做新任务常常意味着收集标签再训练；上下文中的指令与例子，让使用者可以更快尝试新的任务表达。这也使提示设计成为产品体验的一部分。\n\n## 放回历史中看\n\n上下文学习不等于永久把知识写入模型参数。输入顺序、例子选择和任务难度都会影响结果；论文也讨论了测试污染和部分任务的局限。\n\n## 资料与延伸阅读\n\n- [Brown 等，Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)\n- [返回 AI 演化地图](/evolution)\n\n本文为荒岛编辑部依据公开资料撰写的历史条目；“为什么值得记住”和比较性表述属于编辑分析。资料核验：2026 年 9 月 5 日。",
+  "category": "历史节点",
+  "topics": [
+    "history",
+    "models"
+  ],
+  "author": "荒岛编辑部",
+  "source": "Brown 等，Language Models are Few-Shot Learners",
+  "sourceUrl": "https://arxiv.org/abs/2005.14165",
+  "cover": "",
+  "status": "published",
+  "publishedAt": "2026-09-05T06:00:00Z",
+  "updatedAt": "2026-09-05T15:20:46+08:00",
+  "readMinutes": 2,
+  "featured": false,
+  "seoTitle": "GPT-3：在提示中给例子，也能迁移任务",
+  "seoDescription": "大规模自回归预训练，让少样本提示成为重要的使用方式。",
+  "route": "capability",
+  "stage": "大模型时代",
+  "year": "2020.05.28",
+  "people": [
+    "Tom Brown",
+    "Benjamin Mann",
+    "Jared Kaplan",
+    "Ilya Sutskever"
+  ],
+  "order": 20200528,
+  "related": [
+    "editorial-depth-scaling-laws"
+  ],
+  "revision": 1
+}

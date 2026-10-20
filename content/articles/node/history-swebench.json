@@ -1,0 +1,37 @@
+{
+  "id": "launch-history-swebench",
+  "kind": "node",
+  "slug": "history-swebench",
+  "title": "2023｜SWE-bench：从生成函数转向修复真实仓库",
+  "summary": "以 GitHub 问题和代码仓库为任务单位，测试模型能否完成软件修改。",
+  "body": "历史时间：2023.10.10。阶段归类是阅读导航，技术路线之间存在重叠。\n\n## 发生了什么\n\nSWE-bench 从真实 GitHub 仓库构建软件问题解决任务。模型需要理解问题、定位相关文件并生成补丁，而不是只续写孤立的函数。\n\n## 人物与贡献\n\nJimenez、Yang 等研究者构建 SWE-bench，完整署名见论文。\n\n## 为什么是一个节点\n\n任务单位扩大后，检索、环境安装和测试反馈都影响结果。基准通过率仍不能直接变成企业开发效率：任务分布、允许的工具和人工干预方式都需对齐。它的重要性在于把工程上下文放进测评。\n\n## 资料来源\n\n- [Jimenez 等：SWE-bench（2023）](https://arxiv.org/abs/2310.06770)\n\n资料核验：2026-09-09。本文为基于公开资料的原创整理。",
+  "category": "演化节点",
+  "topics": [
+    "developer",
+    "agent"
+  ],
+  "author": "荒岛有信号",
+  "source": "公开资料 · 原创整理",
+  "sourceUrl": "https://arxiv.org/abs/2310.06770",
+  "cover": "",
+  "status": "published",
+  "publishedAt": "2026-09-09T08:00:00+08:00",
+  "updatedAt": "2026-09-10T11:03:36+08:00",
+  "readMinutes": 2,
+  "featured": false,
+  "seoTitle": "2023｜SWE-bench：从生成函数转向修复真实仓库",
+  "seoDescription": "以 GitHub 问题和代码仓库为任务单位，测试模型能否完成软件修改。",
+  "route": "coding",
+  "stage": "生成式 AI",
+  "year": "2023.10.10",
+  "people": [
+    "Carlos E. Jimenez",
+    "John Yang",
+    "Alexander Wettig"
+  ],
+  "order": 280,
+  "related": [
+    "launch-agent-work-and-verification"
+  ],
+  "revision": 2
+}

@@ -1,0 +1,35 @@
+{
+  "id": "editorial-node-gan",
+  "kind": "node",
+  "slug": "gan",
+  "title": "GAN：生成与判别在对抗中学习",
+  "summary": "生成模型通过与判别器竞争学习分布，开启重要的图像生成路线。",
+  "body": "## 历史坐标\n\n**时间：2014.06.10。** 这里记录事件或论文首次公开时间，页面的发布日期是本站整理时间。\n\n**关键人物：Ian Goodfellow、Yoshua Bengio、Jean Pouget-Abadie。** 人物用于标识相关贡献者；大型项目由团队共同完成，并非单一人物的作品。\n\n## 发生了什么\n\nGoodfellow 等提出生成对抗网络：生成器产生样本，判别器尝试区分真实与生成，两者交替优化。它让生成质量与可学习的判别信号联系起来。\n\n## 为什么值得记住\n\n如果很难手工写出“自然图像应该长什么样”的完整评分函数，就可以训练一个系统提供反馈。这个思路对生成建模影响深远，也体现了目标函数设计的重要性。\n\n## 放回历史中看\n\n对抗训练可能不稳定，生成器也可能只覆盖部分样本类型。后来扩散模型走红，不表示 GAN 从历史中失效；两者的训练目标、速度和适用条件应分别讨论。\n\n## 资料与延伸阅读\n\n- [Goodfellow 等，Generative Adversarial Networks](https://arxiv.org/abs/1406.2661)\n- [返回 AI 演化地图](/evolution)\n\n本文为荒岛编辑部依据公开资料撰写的历史条目；“为什么值得记住”和比较性表述属于编辑分析。资料核验：2026 年 9 月 5 日。",
+  "category": "历史节点",
+  "topics": [
+    "history",
+    "multimodal"
+  ],
+  "author": "荒岛编辑部",
+  "source": "Goodfellow 等，Generative Adversarial Networks",
+  "sourceUrl": "https://arxiv.org/abs/1406.2661",
+  "cover": "",
+  "status": "published",
+  "publishedAt": "2026-09-05T06:00:00Z",
+  "updatedAt": "2026-09-05T15:20:46+08:00",
+  "readMinutes": 2,
+  "featured": false,
+  "seoTitle": "GAN：生成与判别在对抗中学习",
+  "seoDescription": "生成模型通过与判别器竞争学习分布，开启重要的图像生成路线。",
+  "route": "multimodal",
+  "stage": "深度学习",
+  "year": "2014.06.10",
+  "people": [
+    "Ian Goodfellow",
+    "Yoshua Bengio",
+    "Jean Pouget-Abadie"
+  ],
+  "order": 20140610,
+  "related": [],
+  "revision": 1
+}

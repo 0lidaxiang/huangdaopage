@@ -1,0 +1,33 @@
+{
+  "id": "editorial-node-perceptron",
+  "kind": "node",
+  "slug": "perceptron",
+  "title": "感知机：让分类规则从样本中学出来",
+  "summary": "早期学习机器把“写规则”转成了“根据错误调整权重”。",
+  "body": "## 历史坐标\n\n**时间：1958.07。** 这里记录事件或论文首次公开时间，页面的发布日期是本站整理时间。\n\n**关键人物：弗兰克·罗森布拉特（Frank Rosenblatt）。** 人物用于标识相关贡献者；大型项目由团队共同完成，并非单一人物的作品。\n\n## 发生了什么\n\n康奈尔档案记载，1958 年 7 月，罗森布拉特的感知机演示在 IBM 704 上区分左右标记卡片。感知机通过训练调整分类参数，是连接主义发展中的重要早期节点。\n\n## 为什么值得记住\n\n假设你要识别两类卡片：人工方案先指定判断条件，学习方案则根据预测错误调整参数。这个转变把部分知识获取工作交给了数据，也把样本质量变成系统能力的一部分。\n\n## 放回历史中看\n\n线性感知机有明确的表达限制，不能直接解决所有模式识别问题。早期宣传远超实际能力；它的价值不需要靠“第一台真正会思考的机器”这样的夸张称号来成立。\n\n## 资料与延伸阅读\n\n- [Cornell Chronicle：感知机档案回顾](https://news.cornell.edu/stories/2019/09/professors-perceptron-paved-way-ai-60-years-too-soon)\n- [返回 AI 演化地图](/evolution)\n\n本文为荒岛编辑部依据公开资料撰写的历史条目；“为什么值得记住”和比较性表述属于编辑分析。资料核验：2026 年 9 月 5 日。",
+  "category": "历史节点",
+  "topics": [
+    "history",
+    "models"
+  ],
+  "author": "荒岛编辑部",
+  "source": "Cornell Chronicle：感知机档案回顾",
+  "sourceUrl": "https://news.cornell.edu/stories/2019/09/professors-perceptron-paved-way-ai-60-years-too-soon",
+  "cover": "",
+  "status": "published",
+  "publishedAt": "2026-09-05T06:00:00Z",
+  "updatedAt": "2026-09-05T15:20:46+08:00",
+  "readMinutes": 2,
+  "featured": false,
+  "seoTitle": "感知机：让分类规则从样本中学出来",
+  "seoDescription": "早期学习机器把“写规则”转成了“根据错误调整权重”。",
+  "route": "capability",
+  "stage": "规则系统",
+  "year": "1958.07",
+  "people": [
+    "弗兰克·罗森布拉特（Frank Rosenblatt）"
+  ],
+  "order": 19580701,
+  "related": [],
+  "revision": 1
+}

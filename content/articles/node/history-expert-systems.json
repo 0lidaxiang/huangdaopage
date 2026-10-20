@@ -1,0 +1,35 @@
+{
+  "id": "launch-history-expert-systems",
+  "kind": "node",
+  "slug": "history-expert-systems",
+  "title": "1960s–1980s｜专家系统：把领域知识写进推理过程",
+  "summary": "DENDRAL 等项目让 AI 聚焦具体领域，也把知识获取和维护变成核心难题。",
+  "body": "历史时间：1960s–1980s。阶段归类是阅读导航，技术路线之间存在重叠。\n\n## 发生了什么\n\nDENDRAL 与后来的专家系统研究强调领域知识在问题求解中的作用。系统通常把专业经验转成可操作的规则，再根据已有事实组织推理。费根鲍姆的资料库保留了相关论文与回顾。\n\n## 人物与贡献\n\n费根鲍姆、布坎南与莱德伯格等跨学科研究者参与 DENDRAL；其工作连接了计算方法与化学知识。\n\n## 为什么是一个节点\n\n这里的重要变化是缩小问题范围：先把专业任务做好。其困难在于知识不是录入一次就永远有效，例外会累积，规则可能冲突。今天做企业 AI，知识更新、责任归属和异常处理仍然需要专门设计。\n\n## 资料来源\n\n- [Stanford：Edward A. Feigenbaum 论文档案](https://cs.stanford.edu/people/eaf/wordpress/publications/)\n\n资料核验：2026-09-09。本文为基于公开资料的原创整理。",
+  "category": "演化节点",
+  "topics": [
+    "product",
+    "models"
+  ],
+  "author": "荒岛有信号",
+  "source": "公开资料 · 原创整理",
+  "sourceUrl": "https://cs.stanford.edu/people/eaf/wordpress/publications/",
+  "cover": "",
+  "status": "published",
+  "publishedAt": "2026-09-09T08:00:00+08:00",
+  "updatedAt": "2026-09-10T11:03:36+08:00",
+  "readMinutes": 2,
+  "featured": false,
+  "seoTitle": "1960s–1980s｜专家系统：把领域知识写进推理过程",
+  "seoDescription": "DENDRAL 等项目让 AI 聚焦具体领域，也把知识获取和维护变成核心难题。",
+  "route": "product",
+  "stage": "规则系统",
+  "year": "1960s–1980s",
+  "people": [
+    "Edward Feigenbaum（爱德华·费根鲍姆）",
+    "Bruce Buchanan",
+    "Joshua Lederberg（约书亚·莱德伯格）"
+  ],
+  "order": 30,
+  "related": [],
+  "revision": 2
+}

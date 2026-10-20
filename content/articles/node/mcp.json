@@ -1,0 +1,36 @@
+{
+  "id": "n3",
+  "kind": "node",
+  "slug": "mcp",
+  "title": "MCP：统一模型与外部工具的连接方式",
+  "summary": "连接协议减少重复集成，让数据和工具可以被不同 AI 应用使用。",
+  "body": "## 历史坐标\n\n**时间：2024.11.25。** 这里记录事件或论文首次公开时间，页面的发布日期是本站整理时间。\n\n**关键人物：Anthropic 与 MCP 开源贡献者。** 人物用于标识相关贡献者；大型项目由团队共同完成，并非单一人物的作品。\n\n## 发生了什么\n\nAnthropic 发布 Model Context Protocol。它为 AI 应用连接数据源和工具提供共同接口规范。历史日期为 2024 年 11 月 25 日，并非部分早期设计示意中的 2023 年。\n\n## 为什么值得记住\n\n工具生态如果每个应用都各写一套适配器，维护成本会快速增长。共同协议能把一些连接工作复用，让团队更专注于工具质量和任务流程。\n\n## 放回历史中看\n\n协议不会自动赋予调用权限，也不能保证工具说明可信。外部返回的数据仍需按其来源处理；统一接口与可靠授权是两个必须一起解决的问题。\n\n## 资料与延伸阅读\n\n- [Anthropic：Introducing the Model Context Protocol](https://www.anthropic.com/news/model-context-protocol)\n- [返回 AI 演化地图](/evolution)\n\n本文为荒岛编辑部依据公开资料撰写的历史条目；“为什么值得记住”和比较性表述属于编辑分析。资料核验：2026 年 9 月 5 日。",
+  "category": "历史节点",
+  "topics": [
+    "history",
+    "agent",
+    "developer"
+  ],
+  "author": "荒岛编辑部",
+  "source": "Anthropic：Introducing the Model Context Protocol",
+  "sourceUrl": "https://www.anthropic.com/news/model-context-protocol",
+  "cover": "",
+  "status": "published",
+  "publishedAt": "2026-09-05T06:00:00Z",
+  "updatedAt": "2026-09-05T15:20:46+08:00",
+  "readMinutes": 2,
+  "featured": false,
+  "seoTitle": "MCP：统一模型与外部工具的连接方式",
+  "seoDescription": "连接协议减少重复集成，让数据和工具可以被不同 AI 应用使用。",
+  "route": "coding",
+  "stage": "Agent 时代",
+  "year": "2024.11.25",
+  "people": [
+    "Anthropic 与 MCP 开源贡献者"
+  ],
+  "order": 20241125,
+  "related": [
+    "d1"
+  ],
+  "revision": 2
+}

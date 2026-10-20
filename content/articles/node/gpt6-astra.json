@@ -1,0 +1,34 @@
+{
+  "id": "editorial-node-gpt6-astra",
+  "kind": "node",
+  "slug": "gpt6-astra",
+  "title": "GPT-6 Astra：前沿模型进一步面向完整工作",
+  "summary": "官方发布把计算机操作、软件工程与专业任务作为重点场景。",
+  "body": "## 历史坐标\n\n**时间：2026.09.03。** 这里记录事件或论文首次公开时间，页面的发布日期是本站整理时间。\n\n**关键人物：OpenAI 研发团队。** 人物用于标识相关贡献者；大型项目由团队共同完成，并非单一人物的作品。\n\n## 发生了什么\n\nOpenAI 发布 GPT-6 Astra，并说明逐步开放的安排。公告把计算机使用与长流程工作列为主要能力方向，同时公开了相应安全资料。\n\n## 为什么值得记住\n\n观察这一节点，可以把视线从“回答得像不像专家”移动到“能否在真实软件里完成任务”。这里既有模型能力，也有工具、授权和失败恢复的系统要求。\n\n## 放回历史中看\n\n发布公告中的指标属于厂商报告；基准上的进步不能自动等同于任何具体工作的成功率。该节点记录公开发布事实，实际效果仍需按任务评估。\n\n## 资料与延伸阅读\n\n- [OpenAI：GPT-6 Astra 发布公告](https://openai.com/index/gpt-6-astra/)\n- [返回 AI 演化地图](/evolution)\n\n本文为荒岛编辑部依据公开资料撰写的历史条目；“为什么值得记住”和比较性表述属于编辑分析。资料核验：2026 年 9 月 5 日。",
+  "category": "历史节点",
+  "topics": [
+    "history",
+    "agent",
+    "product"
+  ],
+  "author": "荒岛编辑部",
+  "source": "OpenAI：GPT-6 Astra 发布公告",
+  "sourceUrl": "https://openai.com/index/gpt-6-astra/",
+  "cover": "",
+  "status": "published",
+  "publishedAt": "2026-09-05T06:00:00Z",
+  "updatedAt": "2026-09-05T15:20:46+08:00",
+  "readMinutes": 2,
+  "featured": false,
+  "seoTitle": "GPT-6 Astra：前沿模型进一步面向完整工作",
+  "seoDescription": "官方发布把计算机操作、软件工程与专业任务作为重点场景。",
+  "route": "product",
+  "stage": "Agent 时代",
+  "year": "2026.09.03",
+  "people": [
+    "OpenAI 研发团队"
+  ],
+  "order": 20260903,
+  "related": [],
+  "revision": 1
+}

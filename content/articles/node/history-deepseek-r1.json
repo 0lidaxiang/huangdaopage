@@ -1,0 +1,32 @@
+{
+  "id": "launch-history-deepseek-r1",
+  "kind": "node",
+  "slug": "history-deepseek-r1",
+  "title": "2025｜DeepSeek-R1：强化学习推动推理能力的公开研究",
+  "summary": "R1-Zero 与 R1 展示不同训练流程，推动推理训练和蒸馏方法的讨论。",
+  "body": "历史时间：2025.01.22（论文）。阶段归类是阅读导航，技术路线之间存在重叠。\n\n## 发生了什么\n\n报告研究强化学习对推理行为的影响，并区分 R1-Zero 与包含冷启动等步骤的 R1。这里记录论文提交时间，避免与权重发布时间混淆。\n\n## 人物与贡献\n\n技术报告以 DeepSeek-AI 团队署名；不把全部研究归于公司创始人个人。\n\n## 为什么是一个节点\n\n“不用监督微调”只对应特定实验设置，不能概括整个 R1 流程。推理训练、推理时计算和把能力蒸馏给小模型，也应分别讨论。对使用者，最关键的是在真实任务中验证正确率、延迟与可检查性。\n\n## 资料来源\n\n- [DeepSeek-AI：DeepSeek-R1（2025）](https://arxiv.org/abs/2501.12948v1)\n\n资料核验：2026-09-09。本文为基于公开资料的原创整理。",
+  "category": "演化节点",
+  "topics": [
+    "models"
+  ],
+  "author": "荒岛有信号",
+  "source": "公开资料 · 原创整理",
+  "sourceUrl": "https://arxiv.org/abs/2501.12948v1",
+  "cover": "",
+  "status": "published",
+  "publishedAt": "2026-09-09T08:00:00+08:00",
+  "updatedAt": "2026-09-10T11:03:36+08:00",
+  "readMinutes": 2,
+  "featured": false,
+  "seoTitle": "2025｜DeepSeek-R1：强化学习推动推理能力的公开研究",
+  "seoDescription": "R1-Zero 与 R1 展示不同训练流程，推动推理训练和蒸馏方法的讨论。",
+  "route": "capability",
+  "stage": "Agent 时代",
+  "year": "2025.01.22（论文）",
+  "order": 310,
+  "related": [
+    "launch-reasoning-compute-and-checks"
+  ],
+  "revision": 2,
+  "people": []
+}

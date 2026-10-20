@@ -1,0 +1,36 @@
+{
+  "id": "launch-history-alphago",
+  "kind": "node",
+  "slug": "history-alphago",
+  "title": "2016｜AlphaGo：学习与搜索共同扩大决策能力",
+  "summary": "策略网络、价值网络与树搜索组合，使复杂棋局中的决策取得突破。",
+  "body": "历史时间：2016.01。阶段归类是阅读导航，技术路线之间存在重叠。\n\n## 发生了什么\n\n2016 年 1 月 Nature 论文介绍 AlphaGo，记录其击败职业棋手樊麾的结果。系统把深度网络对局面的判断与树搜索结合。本节点日期指论文发表，不把它与同年 3 月李世石比赛混为一谈。\n\n## 人物与贡献\n\nSilver、黄士杰等完成系统研究；Hassabis 是论文共同作者。\n\n## 为什么是一个节点\n\nAlphaGo 说明“学习”和“搜索”可以合作。网络帮助筛选值得探索的方向，搜索帮助检验候选行动。棋盘规则与胜负标准清晰，是成功的重要条件；开放世界任务中的目标冲突和反馈质量更复杂。\n\n## 资料来源\n\n- [Silver 等：Mastering the game of Go（2016）](https://doi.org/10.1038/nature16961)\n\n资料核验：2026-09-09。本文为基于公开资料的原创整理。",
+  "category": "演化节点",
+  "topics": [
+    "models"
+  ],
+  "author": "荒岛有信号",
+  "source": "公开资料 · 原创整理",
+  "sourceUrl": "https://doi.org/10.1038/nature16961",
+  "cover": "",
+  "status": "published",
+  "publishedAt": "2026-09-09T08:00:00+08:00",
+  "updatedAt": "2026-09-10T11:03:36+08:00",
+  "readMinutes": 2,
+  "featured": false,
+  "seoTitle": "2016｜AlphaGo：学习与搜索共同扩大决策能力",
+  "seoDescription": "策略网络、价值网络与树搜索组合，使复杂棋局中的决策取得突破。",
+  "route": "capability",
+  "stage": "深度学习",
+  "year": "2016.01",
+  "people": [
+    "David Silver",
+    "Aja Huang（黄士杰）",
+    "Demis Hassabis（德米斯·哈萨比斯）"
+  ],
+  "order": 150,
+  "related": [
+    "launch-reasoning-compute-and-checks"
+  ],
+  "revision": 2
+}

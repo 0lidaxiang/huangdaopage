@@ -1,0 +1,38 @@
+{
+  "id": "editorial-node-resnet",
+  "kind": "node",
+  "slug": "resnet",
+  "title": "ResNet：残差连接让深层网络更容易训练",
+  "summary": "让一组层学习对输入的修正，而非每次从头重建表示。",
+  "body": "## 历史坐标\n\n**时间：2015.12.10。** 这里记录事件或论文首次公开时间，页面的发布日期是本站整理时间。\n\n**关键人物：何恺明、张祥雨、任少卿、孙剑。** 人物用于标识相关贡献者；大型项目由团队共同完成，并非单一人物的作品。\n\n## 发生了什么\n\n四位作者发表 Deep Residual Learning for Image Recognition，用跨层连接将输入与变换结果相加。论文针对深网络的优化困难展开实验，成为现代深度架构的重要基础。\n\n## 为什么值得记住\n\n当增加的层暂时没有学到有用变化时，保留输入可以给优化提供更好的起点。这个直觉后来超越了视觉卷积网络，也进入 Transformer 等结构。\n\n## 放回历史中看\n\n残差连接并不保证梯度永远健康，也不会消除过拟合。2016 年 Identity Mappings 后续工作进一步研究信息传播与激活位置；解释 ResNet 时应把“更易优化”与“万能训练技巧”区分开。\n\n## 资料与延伸阅读\n\n- [He 等，Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)\n- [返回 AI 演化地图](/evolution)\n\n本文为荒岛编辑部依据公开资料撰写的历史条目；“为什么值得记住”和比较性表述属于编辑分析。资料核验：2026 年 9 月 5 日。",
+  "category": "历史节点",
+  "topics": [
+    "history",
+    "models"
+  ],
+  "author": "荒岛编辑部",
+  "source": "He 等，Deep Residual Learning for Image Recognition",
+  "sourceUrl": "https://arxiv.org/abs/1512.03385",
+  "cover": "",
+  "status": "published",
+  "publishedAt": "2026-09-05T06:00:00Z",
+  "updatedAt": "2026-09-05T15:20:46+08:00",
+  "readMinutes": 2,
+  "featured": false,
+  "seoTitle": "ResNet：残差连接让深层网络更容易训练",
+  "seoDescription": "让一组层学习对输入的修正，而非每次从头重建表示。",
+  "route": "capability",
+  "stage": "深度学习",
+  "year": "2015.12.10",
+  "people": [
+    "何恺明",
+    "张祥雨",
+    "任少卿",
+    "孙剑"
+  ],
+  "order": 20151210,
+  "related": [
+    "editorial-depth-residual-connections"
+  ],
+  "revision": 1
+}

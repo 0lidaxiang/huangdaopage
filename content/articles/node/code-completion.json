@@ -1,0 +1,37 @@
+{
+  "id": "n6",
+  "kind": "node",
+  "slug": "code-completion",
+  "title": "GitHub Copilot：代码补全进入日常开发",
+  "summary": "编辑器中的代码上下文，成为生成建议的重要入口。",
+  "body": "## 历史坐标\n\n**时间：2021.06.29。** 这里记录事件或论文首次公开时间，页面的发布日期是本站整理时间。\n\n**关键人物：Nat Friedman、GitHub 与 OpenAI 研发团队。** 人物用于标识相关贡献者；大型项目由团队共同完成，并非单一人物的作品。\n\n## 发生了什么\n\nGitHub 发布 Copilot 技术预览，使用 OpenAI Codex 为代码行和函数提供建议。这个节点记录技术预览日，不与后来的正式商用或聊天功能发布时间混用。\n\n## 为什么值得记住\n\n生成能力只有进入开发者正在工作的地方，才能减少切换成本。编辑器集成让模型拿到局部代码语境，也使接受、修改和拒绝建议成为自然动作。\n\n## 放回历史中看\n\n补全正确一段代码与交付一个工程变更存在距离。测试、依赖、需求澄清和仓库上下文仍然重要；后来的编程 Agent 是沿这些环节继续延伸。\n\n## 资料与延伸阅读\n\n- [GitHub：Copilot 技术预览公告](https://github.blog/news-insights/product-news/introducing-github-copilot-ai-pair-programmer/)\n- [返回 AI 演化地图](/evolution)\n\n本文为荒岛编辑部依据公开资料撰写的历史条目；“为什么值得记住”和比较性表述属于编辑分析。资料核验：2026 年 9 月 5 日。",
+  "category": "历史节点",
+  "topics": [
+    "history",
+    "developer",
+    "product"
+  ],
+  "author": "荒岛编辑部",
+  "source": "GitHub：Copilot 技术预览公告",
+  "sourceUrl": "https://github.blog/news-insights/product-news/introducing-github-copilot-ai-pair-programmer/",
+  "cover": "",
+  "status": "published",
+  "publishedAt": "2026-09-05T06:00:00Z",
+  "updatedAt": "2026-09-05T15:20:46+08:00",
+  "readMinutes": 2,
+  "featured": false,
+  "seoTitle": "GitHub Copilot：代码补全进入日常开发",
+  "seoDescription": "编辑器中的代码上下文，成为生成建议的重要入口。",
+  "route": "coding",
+  "stage": "大模型时代",
+  "year": "2021.06.29",
+  "people": [
+    "Nat Friedman",
+    "GitHub 与 OpenAI 研发团队"
+  ],
+  "order": 20210629,
+  "related": [
+    "d1"
+  ],
+  "revision": 2
+}

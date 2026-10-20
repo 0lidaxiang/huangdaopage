@@ -1,0 +1,35 @@
+{
+  "id": "launch-news-gemini38",
+  "kind": "signal",
+  "slug": "news-gemini38",
+  "title": "Google 发布 Gemini 3.8 Flash 与受限访问的 Flash Cyber",
+  "summary": "9 月 2 日更新聚焦长任务、软件工程与网络防御，并区分通用模型和面向可信防御者的版本。",
+  "body": "事件日期：2026-09-02（采用原始来源标注日期）；本站整理：2026-09-09。\n\n## 发生了什么\n\nGoogle 介绍 Gemini 3.8 Flash 和 Gemini 3.8 Flash Cyber。官方将前者定位于推理、编码和 Agent 工作流；后者通过 Fairwind Program 面向可信防御者提供访问。\n\n## 为什么关注\n\n本站观察：同一技术基础开始按照使用情景分配不同开放方式。对开发者而言，确认可用版本、权限和适用任务，比只看统一的模型名称更重要。\n\n## 信息边界\n\n性能进步来自官方报告，不是本站横向实测。受限版本不能写成所有用户已经可用；价格、地区和账号资格可能调整，实际使用时需要重新核对官方页面。\n\n## 资料来源\n\n- [Google · 官方发布](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/)\n\n资料核验：2026-09-09。本文为基于公开资料的原创整理。",
+  "category": "模型",
+  "topics": [
+    "models",
+    "developer",
+    "agent"
+  ],
+  "author": "荒岛有信号",
+  "source": "Google · 官方发布",
+  "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+  "cover": "",
+  "status": "published",
+  "publishedAt": "2026-09-02T12:00:00+08:00",
+  "updatedAt": "2026-09-10T11:03:36+08:00",
+  "readMinutes": 2,
+  "featured": false,
+  "seoTitle": "Google 发布 Gemini 3.8 Flash 与受限访问的 Flash Cyber",
+  "seoDescription": "9 月 2 日更新聚焦长任务、软件工程与网络防御，并区分通用模型和面向可信防御者的版本。",
+  "route": "",
+  "stage": "",
+  "year": "",
+  "order": 0,
+  "related": [
+    "launch-efficient-model-systems",
+    "launch-agent-work-and-verification"
+  ],
+  "revision": 2,
+  "people": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "launch-history-dartmouth",
+  "kind": "node",
+  "slug": "history-dartmouth",
+  "title": "1956｜达特茅斯：人工智能成为一项共同研究议程",
+  "summary": "一份 1955 年的提案和次年夏季研究计划，为人工智能确立名称与跨学科议题。",
+  "body": "历史时间：1956 夏。阶段归类是阅读导航，技术路线之间存在重叠。\n\n## 发生了什么\n\n提案日期是 1955 年 8 月 31 日，计划在 1956 年夏天于达特茅斯开展研究。语言、神经网络、抽象、学习和创造力都在其问题清单中。这里区分提案时间与研究活动时间。\n\n## 人物与贡献\n\n四人共同署名研究提案。麦卡锡推动以 artificial intelligence 命名这一领域。\n\n## 为什么是一个节点\n\nAI 从一开始就包含多种方法，后来并没有沿一条单线前进。阅读历史时，把学科命名、算法发明与产品普及分开，会比寻找一个“AI 诞生日”更有解释力。\n\n## 资料来源\n\n- [达特茅斯研究计划原始提案（1955）](https://www-formal.stanford.edu/jmc/history/dartmouth/dartmouth.html)\n\n资料核验：2026-09-09。本文为基于公开资料的原创整理。",
+  "category": "演化节点",
+  "topics": [
+    "models"
+  ],
+  "author": "荒岛有信号",
+  "source": "公开资料 · 原创整理",
+  "sourceUrl": "https://www-formal.stanford.edu/jmc/history/dartmouth/dartmouth.html",
+  "cover": "",
+  "status": "published",
+  "publishedAt": "2026-09-09T08:00:00+08:00",
+  "updatedAt": "2026-09-10T11:03:36+08:00",
+  "readMinutes": 2,
+  "featured": false,
+  "seoTitle": "1956｜达特茅斯：人工智能成为一项共同研究议程",
+  "seoDescription": "一份 1955 年的提案和次年夏季研究计划，为人工智能确立名称与跨学科议题。",
+  "route": "capability",
+  "stage": "规则系统",
+  "year": "1956 夏",
+  "people": [
+    "John McCarthy（约翰·麦卡锡）",
+    "Marvin Minsky（马文·明斯基）",
+    "Nathaniel Rochester",
+    "Claude Shannon（克劳德·香农）"
+  ],
+  "order": 10,
+  "related": [],
+  "revision": 2
+}

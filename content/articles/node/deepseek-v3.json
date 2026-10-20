@@ -1,0 +1,36 @@
+{
+  "id": "editorial-node-deepseek-v3",
+  "kind": "node",
+  "slug": "deepseek-v3",
+  "title": "DeepSeek-V3：把稀疏架构做成系统工程",
+  "summary": "MoE、MLA、负载均衡与训练基础设施，共同决定效率。",
+  "body": "## 历史坐标\n\n**时间：2024.12.27。** 这里记录事件或论文首次公开时间，页面的发布日期是本站整理时间。\n\n**关键人物：DeepSeek 研发团队。** 人物用于标识相关贡献者；大型项目由团队共同完成，并非单一人物的作品。\n\n## 发生了什么\n\nDeepSeek-V3 技术报告首次提交，报告模型总参数 671B、每 token 激活约 37B，并采用 MLA、DeepSeekMoE 与多 token 预测等设计。这个节点记录报告日期，不与模型发布日混用。\n\n## 为什么值得记住\n\n高效模型不是只改一个层。注意力缓存、专家路由、数值精度和集群通信相互影响，架构与硬件协同才能把理论节省转化为实际吞吐。\n\n## 放回历史中看\n\n报告中的训练资源口径不代表整个公司的研发总成本，也不能直接成为所有部署的价格承诺。V3 的预训练架构与 R1 的推理后训练，应该分别理解。\n\n## 资料与延伸阅读\n\n- [DeepSeek-AI：DeepSeek-V3 Technical Report](https://arxiv.org/abs/2412.19437)\n- [返回 AI 演化地图](/evolution)\n\n本文为荒岛编辑部依据公开资料撰写的历史条目；“为什么值得记住”和比较性表述属于编辑分析。资料核验：2026 年 9 月 5 日。",
+  "category": "历史节点",
+  "topics": [
+    "history",
+    "models",
+    "open-source"
+  ],
+  "author": "荒岛编辑部",
+  "source": "DeepSeek-AI：DeepSeek-V3 Technical Report",
+  "sourceUrl": "https://arxiv.org/abs/2412.19437",
+  "cover": "",
+  "status": "published",
+  "publishedAt": "2026-09-05T06:00:00Z",
+  "updatedAt": "2026-09-05T15:20:46+08:00",
+  "readMinutes": 2,
+  "featured": false,
+  "seoTitle": "DeepSeek-V3：把稀疏架构做成系统工程",
+  "seoDescription": "MoE、MLA、负载均衡与训练基础设施，共同决定效率。",
+  "route": "capability",
+  "stage": "Agent 时代",
+  "year": "2024.12.27",
+  "people": [
+    "DeepSeek 研发团队"
+  ],
+  "order": 20241227,
+  "related": [
+    "editorial-depth-deepseek-moe-explained"
+  ],
+  "revision": 1
+}

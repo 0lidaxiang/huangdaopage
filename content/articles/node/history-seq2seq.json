@@ -1,0 +1,36 @@
+{
+  "id": "launch-history-seq2seq",
+  "kind": "node",
+  "slug": "history-seq2seq",
+  "title": "2014｜Seq2Seq：用统一框架连接输入与输出序列",
+  "summary": "编码器与解码器让机器翻译等任务进入端到端序列学习框架。",
+  "body": "历史时间：2014.09.10。阶段归类是阅读导航，技术路线之间存在重叠。\n\n## 发生了什么\n\n论文用多层 LSTM 将输入序列编码，再生成目标序列。它为不同长度的输入输出建立了一套可训练接口，机器翻译是主要实验场景。\n\n## 人物与贡献\n\n三人共同撰写 Sequence to Sequence Learning with Neural Networks。\n\n## 为什么是一个节点\n\n把整个任务连接成可训练流程，减少了手工拆分环节，但固定长度表示也可能成为瓶颈。理解这一步，才能理解后来注意力为何重要：生成一个词时，需要更灵活地重新访问输入信息。\n\n## 资料来源\n\n- [Sutskever、Vinyals、Le：Seq2Seq（2014）](https://arxiv.org/abs/1409.3215)\n\n资料核验：2026-09-09。本文为基于公开资料的原创整理。",
+  "category": "演化节点",
+  "topics": [
+    "models"
+  ],
+  "author": "荒岛有信号",
+  "source": "公开资料 · 原创整理",
+  "sourceUrl": "https://arxiv.org/abs/1409.3215",
+  "cover": "",
+  "status": "published",
+  "publishedAt": "2026-09-09T08:00:00+08:00",
+  "updatedAt": "2026-09-10T11:03:36+08:00",
+  "readMinutes": 2,
+  "featured": false,
+  "seoTitle": "2014｜Seq2Seq：用统一框架连接输入与输出序列",
+  "seoDescription": "编码器与解码器让机器翻译等任务进入端到端序列学习框架。",
+  "route": "capability",
+  "stage": "深度学习",
+  "year": "2014.09.10",
+  "people": [
+    "Ilya Sutskever（伊利亚·苏茨克维）",
+    "Oriol Vinyals",
+    "Quoc V. Le（黎国维）"
+  ],
+  "order": 130,
+  "related": [
+    "launch-understanding-transformer"
+  ],
+  "revision": 2
+}

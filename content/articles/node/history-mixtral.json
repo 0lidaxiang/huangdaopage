@@ -1,0 +1,37 @@
+{
+  "id": "launch-history-mixtral",
+  "kind": "node",
+  "slug": "history-mixtral",
+  "title": "2024｜Mixtral：用稀疏专家控制每次计算量",
+  "summary": "稀疏 MoE 把总参数规模与单个 token 实际使用的参数分开。",
+  "body": "历史时间：2024.01.08（论文）。阶段归类是阅读导航，技术路线之间存在重叠。\n\n## 发生了什么\n\nMixtral 技术报告描述稀疏专家模型：在相应前馈层中，每个 token 通过路由选择部分专家参与计算。本节点采用论文时间。\n\n## 人物与贡献\n\nJiang 等 Mistral 团队成员共同撰写技术报告。\n\n## 为什么是一个节点\n\n专家是可学习的网络模块，不是预设的数学老师或法律专家。稀疏激活可以控制算量，但模型权重、通信与调度仍有成本。因而评价 MoE 不能只看总参数，也不能只看活跃参数。\n\n## 资料来源\n\n- [Jiang 等：Mixtral of Experts（2024）](https://arxiv.org/abs/2401.04088)\n\n资料核验：2026-09-09。本文为基于公开资料的原创整理。",
+  "category": "演化节点",
+  "topics": [
+    "models"
+  ],
+  "author": "荒岛有信号",
+  "source": "公开资料 · 原创整理",
+  "sourceUrl": "https://arxiv.org/abs/2401.04088",
+  "cover": "",
+  "status": "published",
+  "publishedAt": "2026-09-09T08:00:00+08:00",
+  "updatedAt": "2026-09-10T11:03:36+08:00",
+  "readMinutes": 2,
+  "featured": false,
+  "seoTitle": "2024｜Mixtral：用稀疏专家控制每次计算量",
+  "seoDescription": "稀疏 MoE 把总参数规模与单个 token 实际使用的参数分开。",
+  "route": "capability",
+  "stage": "Agent 时代",
+  "year": "2024.01.08（论文）",
+  "people": [
+    "Albert Q. Jiang",
+    "Alexandre Sablayrolles",
+    "Arthur Mensch"
+  ],
+  "order": 290,
+  "related": [
+    "launch-scaling-and-compute",
+    "launch-efficient-model-systems"
+  ],
+  "revision": 2
+}

@@ -1,0 +1,34 @@
+{
+  "id": "launch-history-dqn",
+  "kind": "node",
+  "slug": "history-dqn",
+  "title": "2013｜DQN：从像素与奖励中学习游戏策略",
+  "summary": "深度网络与强化学习结合，让同一种方法尝试从游戏画面学习行动。",
+  "body": "历史时间：2013.12.19。阶段归类是阅读导航，技术路线之间存在重叠。\n\n## 发生了什么\n\n2013 年预印本 Playing Atari with Deep Reinforcement Learning 把深度网络用于从画面估计行动价值。经验回放等设计帮助把交互经验转成训练样本。此处记录早期论文，区别于后续 2015 年 Nature 成果。\n\n## 人物与贡献\n\nMnih 等团队成员共同提出 Atari 深度强化学习方法。\n\n## 为什么是一个节点\n\n分类任务通常给正确答案，强化学习则给行动后的奖励。这个变化让 AI 面向连续决策，也带来探索、延迟反馈和奖励定义的困难。游戏环境提供可重复试验的场所，迁移到现实行动仍需要额外验证。\n\n## 资料来源\n\n- [Mnih 等：Playing Atari（2013）](https://arxiv.org/abs/1312.5602)\n\n资料核验：2026-09-09。本文为基于公开资料的原创整理。",
+  "category": "演化节点",
+  "topics": [
+    "models"
+  ],
+  "author": "荒岛有信号",
+  "source": "公开资料 · 原创整理",
+  "sourceUrl": "https://arxiv.org/abs/1312.5602",
+  "cover": "",
+  "status": "published",
+  "publishedAt": "2026-09-09T08:00:00+08:00",
+  "updatedAt": "2026-09-10T11:03:36+08:00",
+  "readMinutes": 2,
+  "featured": false,
+  "seoTitle": "2013｜DQN：从像素与奖励中学习游戏策略",
+  "seoDescription": "深度网络与强化学习结合，让同一种方法尝试从游戏画面学习行动。",
+  "route": "capability",
+  "stage": "深度学习",
+  "year": "2013.12.19",
+  "people": [
+    "Volodymyr Mnih",
+    "Koray Kavukcuoglu",
+    "David Silver"
+  ],
+  "order": 110,
+  "related": [],
+  "revision": 2
+}

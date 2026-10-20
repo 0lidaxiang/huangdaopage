@@ -1,0 +1,42 @@
+{
+  "id": "launch-history-transformer",
+  "kind": "node",
+  "slug": "history-transformer",
+  "title": "2017｜Transformer：用注意力重组序列建模",
+  "summary": "自注意力使序列内部的信息可以直接交互，为大规模语言预训练提供重要架构。",
+  "body": "历史时间：2017.06.12。阶段归类是阅读导航，技术路线之间存在重叠。\n\n## 发生了什么\n\n2017 年论文提出基于注意力的编码器—解码器架构，用于机器翻译。它避免以循环或卷积作为序列建模主干，允许训练时更多位置并行计算。\n\n## 人物与贡献\n\n八位作者共同署名 Attention Is All You Need，不能把架构归功于单个人。\n\n## 为什么是一个节点\n\n输入位置之间能够直接交换信息，是它的重要优势。但并行训练不等于生成时所有词能同时产出；自回归生成仍有前后依赖。原始 Transformer 也不等于所有后来的大语言模型，编码器、解码器与训练目标还会分化。\n\n## 资料来源\n\n- [Vaswani 等：Attention Is All You Need（2017）](https://arxiv.org/abs/1706.03762)\n\n资料核验：2026-09-09。本文为基于公开资料的原创整理。",
+  "category": "演化节点",
+  "topics": [
+    "models"
+  ],
+  "author": "荒岛有信号",
+  "source": "公开资料 · 原创整理",
+  "sourceUrl": "https://arxiv.org/abs/1706.03762",
+  "cover": "",
+  "status": "published",
+  "publishedAt": "2026-09-09T08:00:00+08:00",
+  "updatedAt": "2026-09-10T11:03:36+08:00",
+  "readMinutes": 2,
+  "featured": true,
+  "seoTitle": "2017｜Transformer：用注意力重组序列建模",
+  "seoDescription": "自注意力使序列内部的信息可以直接交互，为大规模语言预训练提供重要架构。",
+  "route": "capability",
+  "stage": "深度学习",
+  "year": "2017.06.12",
+  "people": [
+    "Ashish Vaswani",
+    "Noam Shazeer",
+    "Niki Parmar",
+    "Jakob Uszkoreit",
+    "Llion Jones",
+    "Aidan N. Gomez",
+    "Łukasz Kaiser",
+    "Illia Polosukhin"
+  ],
+  "order": 160,
+  "related": [
+    "launch-understanding-transformer",
+    "launch-efficient-model-systems"
+  ],
+  "revision": 2
+}

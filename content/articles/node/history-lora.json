@@ -1,0 +1,36 @@
+{
+  "id": "launch-history-lora",
+  "kind": "node",
+  "slug": "history-lora",
+  "title": "2021｜LoRA：用小规模参数更新适配大模型",
+  "summary": "低秩更新减少需要训练的参数，让任务适配拥有更轻量的工程选择。",
+  "body": "历史时间：2021.06.17。阶段归类是阅读导航，技术路线之间存在重叠。\n\n## 发生了什么\n\nLoRA 冻结预训练权重，用低秩矩阵表示需要学习的权重变化。它把适配工作集中到较少的可训练参数中。\n\n## 人物与贡献\n\nHu、Shen 等共同作者研究低秩适配，完整名单见论文。\n\n## 为什么是一个节点\n\n这里解决的是训练与管理适配参数的成本，不是让基础模型凭空变小。部署时通常仍需基础权重。对工程团队，是否采用 LoRA 要看需要改变行为还是补充知识，不能用训练参数少直接推出推理成本也按同比例下降。\n\n## 资料来源\n\n- [Hu 等：LoRA（2021）](https://arxiv.org/abs/2106.09685)\n\n资料核验：2026-09-09。本文为基于公开资料的原创整理。",
+  "category": "演化节点",
+  "topics": [
+    "developer",
+    "agent"
+  ],
+  "author": "荒岛有信号",
+  "source": "公开资料 · 原创整理",
+  "sourceUrl": "https://arxiv.org/abs/2106.09685",
+  "cover": "",
+  "status": "published",
+  "publishedAt": "2026-09-09T08:00:00+08:00",
+  "updatedAt": "2026-09-10T11:03:36+08:00",
+  "readMinutes": 2,
+  "featured": false,
+  "seoTitle": "2021｜LoRA：用小规模参数更新适配大模型",
+  "seoDescription": "低秩更新减少需要训练的参数，让任务适配拥有更轻量的工程选择。",
+  "route": "coding",
+  "stage": "大模型时代",
+  "year": "2021.06.17",
+  "people": [
+    "Edward J. Hu",
+    "Yelong Shen（沈耶龙）"
+  ],
+  "order": 220,
+  "related": [
+    "launch-efficient-model-systems"
+  ],
+  "revision": 2
+}

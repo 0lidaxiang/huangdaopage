@@ -1,0 +1,33 @@
+{
+  "id": "editorial-signal-wellbeing-evaluation-grants",
+  "kind": "signal",
+  "slug": "wellbeing-evaluation-grants",
+  "title": "Anthropic 设立 500 万美元资助，支持 AI 福祉评估",
+  "summary": "评测开始关注长期、多轮使用影响，而不只是单次回答是否正确。",
+  "body": "## 发生了什么\n\n**消息日期：2026-08-25。** Anthropic 宣布一项 500 万美元资助计划，支持独立研究者开发衡量 AI 对用户福祉影响的开放评估，并提供模型访问与技术支持。\n\n## 为什么值得关注\n\n编辑观察：对话系统的影响具有时间维度。同一句话放在不同上下文中可能产生不同效果，因此，多轮场景和评估标准的有效性值得被认真研究。\n\n## 需要分清的边界\n\n资助计划的设立不代表相关模型已被证明改善福祉，也不替代后续研究结果。本文报道研究计划，不提供医学或心理健康建议。\n\n## 原始来源\n\n- [Anthropic 官方原文](https://www.anthropic.com/news/wellbeing-research-grants)\n\n荒岛编辑部依据一手公告撰写，事实与编辑分析分列。核验日期：2026 年 9 月 5 日；未独立复现厂商性能测试。",
+  "category": "研究",
+  "topics": [
+    "product",
+    "science"
+  ],
+  "author": "荒岛编辑部",
+  "source": "Anthropic",
+  "sourceUrl": "https://www.anthropic.com/news/wellbeing-research-grants",
+  "cover": "",
+  "status": "published",
+  "publishedAt": "2026-08-25T00:00:00+08:00",
+  "updatedAt": "2026-09-05T15:20:46+08:00",
+  "readMinutes": 2,
+  "featured": false,
+  "seoTitle": "Anthropic 设立 500 万美元资助，支持 AI 福祉评估",
+  "seoDescription": "评测开始关注长期、多轮使用影响，而不只是单次回答是否正确。",
+  "route": "",
+  "stage": "",
+  "year": "",
+  "order": 0,
+  "related": [
+    "editorial-node-eliza"
+  ],
+  "revision": 1,
+  "people": []
+}

@@ -1,0 +1,37 @@
+{
+  "id": "launch-history-ddpm",
+  "kind": "node",
+  "slug": "history-ddpm",
+  "title": "2020｜扩散模型：把生成转成逐步去噪",
+  "summary": "通过学习逆转加噪过程，扩散模型为高质量图像生成提供可扩展路径。",
+  "body": "历史时间：2020.06.19。阶段归类是阅读导航，技术路线之间存在重叠。\n\n## 发生了什么\n\nDDPM 论文展示了通过逐步去噪生成图像的概率建模方法。训练时学习从带噪状态恢复信息，生成时从随机噪声逐步得到样本。\n\n## 人物与贡献\n\n三人共同撰写 Denoising Diffusion Probabilistic Models。\n\n## 为什么是一个节点\n\n读者可以把它理解为逐步形成结构，但不应以为模型在找回一张预先藏在噪声里的原图。生成来自训练得到的分布与条件控制。后来潜空间扩散进一步改变计算发生的位置，改善生成成本。\n\n## 资料来源\n\n- [Ho 等：DDPM（2020）](https://arxiv.org/abs/2006.11239)\n\n资料核验：2026-09-09。本文为基于公开资料的原创整理。",
+  "category": "演化节点",
+  "topics": [
+    "multimodal",
+    "models"
+  ],
+  "author": "荒岛有信号",
+  "source": "公开资料 · 原创整理",
+  "sourceUrl": "https://arxiv.org/abs/2006.11239",
+  "cover": "",
+  "status": "published",
+  "publishedAt": "2026-09-09T08:00:00+08:00",
+  "updatedAt": "2026-09-10T11:03:36+08:00",
+  "readMinutes": 2,
+  "featured": false,
+  "seoTitle": "2020｜扩散模型：把生成转成逐步去噪",
+  "seoDescription": "通过学习逆转加噪过程，扩散模型为高质量图像生成提供可扩展路径。",
+  "route": "multimodal",
+  "stage": "大模型时代",
+  "year": "2020.06.19",
+  "people": [
+    "Jonathan Ho",
+    "Ajay Jain",
+    "Pieter Abbeel"
+  ],
+  "order": 200,
+  "related": [
+    "launch-diffusion-and-multimodal"
+  ],
+  "revision": 2
+}

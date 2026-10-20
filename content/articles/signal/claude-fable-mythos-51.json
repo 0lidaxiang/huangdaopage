@@ -1,0 +1,35 @@
+{
+  "id": "editorial-signal-claude-fable-mythos-51",
+  "kind": "signal",
+  "slug": "claude-fable-mythos-51",
+  "title": "Anthropic 发布 Claude Fable 5.1 与 Mythos 5.1",
+  "summary": "新版本围绕编程、知识工作和长期任务展开，访问与防护条件仍需区分。",
+  "body": "## 发生了什么\n\n**消息日期：2026-09-01。** Anthropic 发布 Fable 5.1 与 Mythos 5.1，介绍编程、知识工作和科研方面的能力进展，并说明相应防护与企业访问安排。\n\n## 为什么值得关注\n\n编辑观察：发布材料同时讨论能力与部署约束，说明产品可用性越来越取决于模型之外的系统设计。团队评估时应使用自己能实际获得的版本和配置。\n\n## 需要分清的边界\n\n基准中的模型配置、推理预算和防护方式可能不同，不能只截取一个数字比较。企业防护计划与模型发布也不是同一时间、同一范围完成。\n\n## 原始来源\n\n- [Anthropic 官方原文](https://www.anthropic.com/claude-fable-and-mythos-5-1)\n\n荒岛编辑部依据一手公告撰写，事实与编辑分析分列。核验日期：2026 年 9 月 5 日；未独立复现厂商性能测试。",
+  "category": "模型",
+  "topics": [
+    "models",
+    "agent",
+    "product"
+  ],
+  "author": "荒岛编辑部",
+  "source": "Anthropic",
+  "sourceUrl": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+  "cover": "",
+  "status": "published",
+  "publishedAt": "2026-09-01T00:00:00+08:00",
+  "updatedAt": "2026-09-05T15:20:46+08:00",
+  "readMinutes": 2,
+  "featured": false,
+  "seoTitle": "Anthropic 发布 Claude Fable 5.1 与 Mythos 5.1",
+  "seoDescription": "新版本围绕编程、知识工作和长期任务展开，访问与防护条件仍需区分。",
+  "route": "",
+  "stage": "",
+  "year": "",
+  "order": 0,
+  "related": [
+    "d1",
+    "editorial-depth-reasoning-and-verification"
+  ],
+  "revision": 1,
+  "people": []
+}

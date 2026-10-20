@@ -1,0 +1,35 @@
+{
+  "id": "launch-history-alexnet",
+  "kind": "node",
+  "slug": "history-alexnet",
+  "title": "2012｜AlexNet：数据、GPU 与深层网络汇合",
+  "summary": "ImageNet 竞赛上的明显进步，让深度卷积网络成为计算机视觉的重要方向。",
+  "body": "历史时间：2012。阶段归类是阅读导航，技术路线之间存在重叠。\n\n## 发生了什么\n\nAlexNet 将多层卷积网络、GPU 训练及多种训练技巧结合，在 2012 年 ImageNet 挑战赛中取得显著领先。结果推动更多研究者投入可从数据学习表示的视觉模型。\n\n## 人物与贡献\n\n三人共同完成 ImageNet 深度卷积网络论文。\n\n## 为什么是一个节点\n\n它不是某一个技巧孤立获胜，而是数据规模、计算工具与训练方法一起跨过实用门槛。今天判断新方向时，也应检查这些条件是否同时成立；单看模型结构图，往往看不到真正的工程积累。\n\n## 资料来源\n\n- [Krizhevsky 等：ImageNet Classification（2012）](https://www.cs.toronto.edu/~hinton/absps/imagenet.pdf)\n\n资料核验：2026-09-09。本文为基于公开资料的原创整理。",
+  "category": "演化节点",
+  "topics": [
+    "multimodal",
+    "models"
+  ],
+  "author": "荒岛有信号",
+  "source": "公开资料 · 原创整理",
+  "sourceUrl": "https://www.cs.toronto.edu/~hinton/absps/imagenet.pdf",
+  "cover": "",
+  "status": "published",
+  "publishedAt": "2026-09-09T08:00:00+08:00",
+  "updatedAt": "2026-09-10T11:03:36+08:00",
+  "readMinutes": 2,
+  "featured": true,
+  "seoTitle": "2012｜AlexNet：数据、GPU 与深层网络汇合",
+  "seoDescription": "ImageNet 竞赛上的明显进步，让深度卷积网络成为计算机视觉的重要方向。",
+  "route": "multimodal",
+  "stage": "深度学习",
+  "year": "2012",
+  "people": [
+    "Alex Krizhevsky",
+    "Ilya Sutskever（伊利亚·苏茨克维）",
+    "Geoffrey Hinton（杰弗里·辛顿）"
+  ],
+  "order": 100,
+  "related": [],
+  "revision": 2
+}

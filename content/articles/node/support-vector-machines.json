@@ -1,0 +1,34 @@
+{
+  "id": "editorial-node-support-vector-machines",
+  "kind": "node",
+  "slug": "support-vector-machines",
+  "title": "支持向量机：统计学习把泛化放到中心",
+  "summary": "间隔、核方法与软间隔，使分类问题有了另一套重要解法。",
+  "body": "## 历史坐标\n\n**时间：1995.09。** 这里记录事件或论文首次公开时间，页面的发布日期是本站整理时间。\n\n**关键人物：科琳娜·科尔特斯、弗拉基米尔·瓦普尼克。** 人物用于标识相关贡献者；大型项目由团队共同完成，并非单一人物的作品。\n\n## 发生了什么\n\nCortes 与 Vapnik 发表 Support-vector networks，讨论将输入映射到特征空间，并在其中构造分类边界的方法，也允许训练数据不能被完全无误分开。\n\n## 为什么值得记住\n\n一个分类器不应只记住训练样本。把边界与样本之间的间隔、容许错误和模型复杂度放在一起考虑，为理解“见过的数据”和“新数据”之间的差异提供了抓手。\n\n## 放回历史中看\n\n这条路线与神经网络不是简单的前后替代关系。今天许多规模有限、特征明确的问题仍可用经典方法解决；技术选型应该跟着数据和目标走，而不是跟着历史年表追新。\n\n## 资料与延伸阅读\n\n- [Cortes & Vapnik，Machine Learning 1995](https://link.springer.com/article/10.1007/BF00994018)\n- [返回 AI 演化地图](/evolution)\n\n本文为荒岛编辑部依据公开资料撰写的历史条目；“为什么值得记住”和比较性表述属于编辑分析。资料核验：2026 年 9 月 5 日。",
+  "category": "历史节点",
+  "topics": [
+    "history",
+    "models"
+  ],
+  "author": "荒岛编辑部",
+  "source": "Cortes & Vapnik，Machine Learning 1995",
+  "sourceUrl": "https://link.springer.com/article/10.1007/BF00994018",
+  "cover": "",
+  "status": "published",
+  "publishedAt": "2026-09-05T06:00:00Z",
+  "updatedAt": "2026-09-05T15:20:46+08:00",
+  "readMinutes": 2,
+  "featured": false,
+  "seoTitle": "支持向量机：统计学习把泛化放到中心",
+  "seoDescription": "间隔、核方法与软间隔，使分类问题有了另一套重要解法。",
+  "route": "capability",
+  "stage": "机器学习",
+  "year": "1995.09",
+  "people": [
+    "科琳娜·科尔特斯",
+    "弗拉基米尔·瓦普尼克"
+  ],
+  "order": 19950901,
+  "related": [],
+  "revision": 1
+}

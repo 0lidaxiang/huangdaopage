@@ -1,0 +1,32 @@
+{
+  "id": "launch-history-turing",
+  "kind": "node",
+  "slug": "history-turing",
+  "title": "1950｜图灵把“机器能思考吗”变成可讨论的实验",
+  "summary": "从定义智能转向观察行为，图灵提出模仿游戏，也讨论机器学习的可能性。",
+  "body": "历史时间：1950.10。阶段归类是阅读导航，技术路线之间存在重叠。\n\n## 发生了什么\n\n1950 年 10 月，图灵在 Mind 发表论文，试图用可观察的问答行为讨论机器智能。这不是今天常见的某一个聊天测评榜单，也不是意识检测实验。\n\n## 人物与贡献\n\n图灵在《Computing Machinery and Intelligence》中提出模仿游戏，并讨论学习机器。\n\n## 为什么是一个节点\n\n这篇文章把哲学争论连接到了可设计的实验。回看今天的聊天模型，应同时问两件事：回答是否像人，以及任务是否做对。前者不能替代后者；流畅对话也不能直接证明机器具有意识。\n\n## 资料来源\n\n- [Turing：Computing Machinery and Intelligence（1950）](https://courses.cs.umbc.edu/undergraduate/471/papers/turing.shtml)\n\n资料核验：2026-09-09。本文为基于公开资料的原创整理。",
+  "category": "演化节点",
+  "topics": [
+    "models"
+  ],
+  "author": "荒岛有信号",
+  "source": "公开资料 · 原创整理",
+  "sourceUrl": "https://courses.cs.umbc.edu/undergraduate/471/papers/turing.shtml",
+  "cover": "",
+  "status": "published",
+  "publishedAt": "2026-09-09T08:00:00+08:00",
+  "updatedAt": "2026-09-10T11:03:36+08:00",
+  "readMinutes": 2,
+  "featured": false,
+  "seoTitle": "1950｜图灵把“机器能思考吗”变成可讨论的实验",
+  "seoDescription": "从定义智能转向观察行为，图灵提出模仿游戏，也讨论机器学习的可能性。",
+  "route": "capability",
+  "stage": "规则系统",
+  "year": "1950.10",
+  "people": [
+    "Alan Turing（艾伦·图灵）"
+  ],
+  "order": 0,
+  "related": [],
+  "revision": 2
+}

@@ -1,0 +1,35 @@
+{
+  "id": "launch-history-alphafold2",
+  "kind": "node",
+  "slug": "history-alphafold2",
+  "title": "2021｜AlphaFold 2：结构预测进入高精度阶段",
+  "summary": "专门的网络结构结合生物与几何约束，推进蛋白质结构预测。",
+  "body": "历史时间：2021.07.15（论文）。阶段归类是阅读导航，技术路线之间存在重叠。\n\n## 发生了什么\n\nNature 于 2021 年 7 月发表 AlphaFold 2 论文，系统描述其蛋白质结构预测方法。该成果建立在 CASP14 评估中的突破之上。\n\n## 人物与贡献\n\nJumper 等团队成员完成 AlphaFold 2 研究，Hassabis 是共同作者。\n\n## 为什么是一个节点\n\n这是 AI 进入科学问题的代表，但结构预测不等于解释全部生物功能，更不等于药物已经有效。它为实验者提供候选结构与研究线索，成果仍需结合置信度和实验语境使用。这里讨论科研方法，不提供诊疗建议。\n\n## 资料来源\n\n- [Jumper 等：Highly accurate protein structure prediction（2021）](https://www.nature.com/articles/s41586-021-03819-2)\n\n资料核验：2026-09-09。本文为基于公开资料的原创整理。",
+  "category": "演化节点",
+  "topics": [
+    "models"
+  ],
+  "author": "荒岛有信号",
+  "source": "公开资料 · 原创整理",
+  "sourceUrl": "https://www.nature.com/articles/s41586-021-03819-2",
+  "cover": "",
+  "status": "published",
+  "publishedAt": "2026-09-09T08:00:00+08:00",
+  "updatedAt": "2026-09-10T11:03:36+08:00",
+  "readMinutes": 2,
+  "featured": false,
+  "seoTitle": "2021｜AlphaFold 2：结构预测进入高精度阶段",
+  "seoDescription": "专门的网络结构结合生物与几何约束，推进蛋白质结构预测。",
+  "route": "capability",
+  "stage": "大模型时代",
+  "year": "2021.07.15（论文）",
+  "people": [
+    "John Jumper（约翰·江珀）",
+    "Demis Hassabis（德米斯·哈萨比斯）"
+  ],
+  "order": 240,
+  "related": [
+    "launch-news-alphagenome-atlas"
+  ],
+  "revision": 2
+}

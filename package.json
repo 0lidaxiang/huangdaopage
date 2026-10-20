@@ -1,0 +1,42 @@
+{
+  "name": "huangdaopage",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/prepare-content.mjs && vite --host 127.0.0.1",
+    "typecheck": "tsc --noEmit",
+    "build": "tsc --noEmit && node scripts/build.mjs",
+    "preview": "node scripts/serve.mjs",
+    "content:export": "python3 -B scripts/export-content.py",
+    "content:audit": "python3 -B scripts/export-content.py --audit-only",
+    "content:check": "node scripts/validate-content.mjs",
+    "test": "python3 -B -m unittest discover -s tests -p \"*_test.py\" && node --test tests/*.test.mjs",
+    "test:e2e": "playwright test",
+    "format": "prettier --write src scripts tests vite.config.ts playwright.config.ts",
+    "lint": "tsc --noEmit && prettier --check src scripts/*.mjs tests/*.mjs tests/*.ts vite.config.ts playwright.config.ts",
+    "content:sync": "node scripts/sync-content.mjs",
+    "output:check": "python3 -B scripts/audit-output.py"
+  },
+  "dependencies": {
+    "lucide-react": "^0.468.0",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "react-markdown": "^10.1.0",
+    "react-router-dom": "7.18.3",
+    "rehype-highlight": "^7.0.2",
+    "remark-gfm": "^4.0.1"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.55.0",
+    "@types/react": "^18.3.18",
+    "@types/react-dom": "^18.3.5",
+    "@vitejs/plugin-react": "^4.4.1",
+    "prettier": "^3.6.2",
+    "typescript": "5.8.3",
+    "vite": "6.4.3"
+  },
+  "engines": {
+    "node": ">=22.11.0 <23"
+  }
+}

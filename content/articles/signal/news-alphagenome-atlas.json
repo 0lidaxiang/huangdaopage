@@ -1,0 +1,33 @@
+{
+  "id": "launch-news-alphagenome-atlas",
+  "kind": "signal",
+  "slug": "news-alphagenome-atlas",
+  "title": "Google DeepMind 推出 AlphaGenome Atlas，开放大规模变异预测查询",
+  "summary": "9 月 8 日发布的平台收录约 90 亿种人类 DNA 单碱基变化的分子影响预测，面向学术研究开放。",
+  "body": "事件日期：2026-09-08（采用原始来源标注日期）；本站整理：2026-09-09。\n\n## 发生了什么\n\nGoogle DeepMind 发布 AlphaGenome Atlas，称平台汇集约 90 亿种单核苷酸变异的影响预测，并通过免费门户供学术研究使用。这里记录的是模型预测资料库的发布，不是逐项实验验证的完成。\n\n## 为什么关注\n\n本站观察：AI 科研成果正从单次模型演示转向可查询的研究基础设施。对研究者，覆盖范围、来源和可重复使用方式，会影响预测能否帮助筛选后续实验。\n\n## 信息边界\n\n预测不等于已确认的生物因果关系，也不构成诊断结论。平台面向研究的用途与限制应以官方说明为准，本站未进行生物学有效性复核。\n\n## 资料来源\n\n- [Google DeepMind · 官方发布](https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/)\n\n资料核验：2026-09-09。本文为基于公开资料的原创整理。",
+  "category": "研究",
+  "topics": [
+    "models",
+    "product"
+  ],
+  "author": "荒岛有信号",
+  "source": "Google DeepMind · 官方发布",
+  "sourceUrl": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+  "cover": "",
+  "status": "published",
+  "publishedAt": "2026-09-08T12:00:00+08:00",
+  "updatedAt": "2026-09-10T11:03:36+08:00",
+  "readMinutes": 2,
+  "featured": false,
+  "seoTitle": "Google DeepMind 推出 AlphaGenome Atlas，开放大规模变异预测查询",
+  "seoDescription": "9 月 8 日发布的平台收录约 90 亿种人类 DNA 单碱基变化的分子影响预测，面向学术研究开放。",
+  "route": "",
+  "stage": "",
+  "year": "",
+  "order": 0,
+  "related": [
+    "launch-history-alphafold2"
+  ],
+  "revision": 2,
+  "people": []
+}

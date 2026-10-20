@@ -1,0 +1,34 @@
+{
+  "id": "launch-history-backprop",
+  "kind": "node",
+  "slug": "history-backprop",
+  "title": "1986｜反向传播推动多层网络学习表示",
+  "summary": "误差从输出传回网络内部，让隐藏层能够学到对任务有用的表示。",
+  "body": "历史时间：1986.10。阶段归类是阅读导航，技术路线之间存在重叠。\n\n## 发生了什么\n\n1986 年 Nature 论文展示了通过反向传播误差训练神经网络的方式。训练不再只调整最终分类器，也调整内部表示，使多层网络的学习更具实际可行性。\n\n## 人物与贡献\n\n三人共同发表这篇有影响力的论文，推动反向传播用于学习内部表示；不应把更早的相关数学与算法工作抹去。\n\n## 为什么是一个节点\n\n从“人工决定看什么特征”转向“让训练发现特征”是一个长期转折。方法有了并不意味着大规模应用立刻发生：数据、计算和优化稳定性仍需共同改善。这也解释了为何 1986 与 2012 之间存在很长的积累期。\n\n## 资料来源\n\n- [Rumelhart、Hinton、Williams：Nature（1986）](https://www.nature.com/articles/323533a0)\n\n资料核验：2026-09-09。本文为基于公开资料的原创整理。",
+  "category": "演化节点",
+  "topics": [
+    "models"
+  ],
+  "author": "荒岛有信号",
+  "source": "公开资料 · 原创整理",
+  "sourceUrl": "https://www.nature.com/articles/323533a0",
+  "cover": "",
+  "status": "published",
+  "publishedAt": "2026-09-09T08:00:00+08:00",
+  "updatedAt": "2026-09-10T11:03:36+08:00",
+  "readMinutes": 2,
+  "featured": false,
+  "seoTitle": "1986｜反向传播推动多层网络学习表示",
+  "seoDescription": "误差从输出传回网络内部，让隐藏层能够学到对任务有用的表示。",
+  "route": "capability",
+  "stage": "机器学习",
+  "year": "1986.10",
+  "people": [
+    "David Rumelhart",
+    "Geoffrey Hinton（杰弗里·辛顿）",
+    "Ronald Williams"
+  ],
+  "order": 50,
+  "related": [],
+  "revision": 2
+}

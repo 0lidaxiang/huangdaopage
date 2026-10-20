@@ -1,0 +1,38 @@
+{
+  "id": "launch-history-bert",
+  "kind": "node",
+  "slug": "history-bert",
+  "title": "2018｜BERT：预训练表示走向语言理解任务",
+  "summary": "双向上下文预训练后，再针对具体任务微调，改变了语言理解的开发方式。",
+  "body": "历史时间：2018.10.11。阶段归类是阅读导航，技术路线之间存在重叠。\n\n## 发生了什么\n\nBERT 论文于 2018 年提交，强调在预训练中共同利用左右上下文。下游任务可在预训练模型上增加少量输出结构并微调。\n\n## 人物与贡献\n\n四位作者共同提出 BERT。\n\n## 为什么是一个节点\n\n研究者不必为每项任务从零学习全部语言表示。它与后来以生成文本完成任务的路线形成有用对照：预训练共享知识，但目标函数和使用方式可以不同。“用了 Transformer”还不足以说明一个模型适合什么任务。\n\n## 资料来源\n\n- [Devlin 等：BERT（2018）](https://arxiv.org/abs/1810.04805)\n\n资料核验：2026-09-09。本文为基于公开资料的原创整理。",
+  "category": "演化节点",
+  "topics": [
+    "models"
+  ],
+  "author": "荒岛有信号",
+  "source": "公开资料 · 原创整理",
+  "sourceUrl": "https://arxiv.org/abs/1810.04805",
+  "cover": "",
+  "status": "published",
+  "publishedAt": "2026-09-09T08:00:00+08:00",
+  "updatedAt": "2026-09-10T11:03:36+08:00",
+  "readMinutes": 2,
+  "featured": false,
+  "seoTitle": "2018｜BERT：预训练表示走向语言理解任务",
+  "seoDescription": "双向上下文预训练后，再针对具体任务微调，改变了语言理解的开发方式。",
+  "route": "capability",
+  "stage": "深度学习",
+  "year": "2018.10.11",
+  "people": [
+    "Jacob Devlin",
+    "Ming-Wei Chang（张明炜）",
+    "Kenton Lee",
+    "Kristina Toutanova"
+  ],
+  "order": 170,
+  "related": [
+    "launch-understanding-transformer",
+    "launch-rag-evidence-chain"
+  ],
+  "revision": 2
+}

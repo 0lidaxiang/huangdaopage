@@ -1,0 +1,36 @@
+{
+  "id": "launch-history-mcp",
+  "kind": "node",
+  "slug": "history-mcp",
+  "title": "2024｜MCP：为模型连接工具建立共同接口",
+  "summary": "开放协议尝试减少 AI 应用与数据源之间重复开发连接器的工作。",
+  "body": "历史时间：2024.11.25。阶段归类是阅读导航，技术路线之间存在重叠。\n\n## 发生了什么\n\nAnthropic 于 2024 年 11 月 25 日发布 Model Context Protocol，公开协议、SDK 与服务器示例，使 AI 应用能以共同方式连接数据和工具。\n\n## 人物与贡献\n\nAnthropic 公告明确列出两位 MCP 创建者。\n\n## 为什么是一个节点\n\n协议解决的是连接方式，不会自动赋予模型正确判断与操作权限。工具能够调用之后，还要明确谁授权、哪些参数有效、写入如何确认。它是 Agent 基础设施中的一层，不能代替任务规划与业务验收。\n\n## 资料来源\n\n- [Anthropic：Introducing the Model Context Protocol（2024）](https://www.anthropic.com/news/model-context-protocol)\n\n资料核验：2026-09-09。本文为基于公开资料的原创整理。",
+  "category": "演化节点",
+  "topics": [
+    "developer",
+    "agent"
+  ],
+  "author": "荒岛有信号",
+  "source": "公开资料 · 原创整理",
+  "sourceUrl": "https://www.anthropic.com/news/model-context-protocol",
+  "cover": "",
+  "status": "published",
+  "publishedAt": "2026-09-09T08:00:00+08:00",
+  "updatedAt": "2026-09-10T11:03:36+08:00",
+  "readMinutes": 2,
+  "featured": true,
+  "seoTitle": "2024｜MCP：为模型连接工具建立共同接口",
+  "seoDescription": "开放协议尝试减少 AI 应用与数据源之间重复开发连接器的工作。",
+  "route": "coding",
+  "stage": "Agent 时代",
+  "year": "2024.11.25",
+  "people": [
+    "David Soria Parra",
+    "Justin Spahr-Summers"
+  ],
+  "order": 300,
+  "related": [
+    "launch-agent-work-and-verification"
+  ],
+  "revision": 2
+}

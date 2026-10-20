@@ -1,0 +1,32 @@
+{
+  "id": "editorial-signal-chatgpt-ads-run-rate",
+  "kind": "signal",
+  "slug": "chatgpt-ads-run-rate",
+  "title": "OpenAI 披露 ChatGPT 广告年化收入运行率达 10 亿美元",
+  "summary": "这是按当前业务速度折算的指标，不是已经收取了一整年的收入。",
+  "body": "## 发生了什么\n\n**消息日期：2026-08-31。** OpenAI 称 ChatGPT Ads 的 annualized revenue run rate 达到 10 亿美元，并宣布继续扩展广告自助投放的覆盖市场。该指标应按“年化收入运行率”理解。\n\n## 为什么值得关注\n\n编辑观察：对话产品的商业化正在形成订阅、API 与广告等多种收入来源。对用户体验而言，广告标识是否清楚、回答和商业内容如何区分，会成为持续观察的重点。\n\n## 需要分清的边界\n\n年化运行率不能写成已实现年度收入或利润。数据由公司披露，本文未取得独立审计材料；商业规模也不能直接证明用户体验改善。\n\n## 原始来源\n\n- [OpenAI 官方原文](https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads/)\n\n荒岛编辑部依据一手公告撰写，事实与编辑分析分列。核验日期：2026 年 9 月 5 日；未独立复现厂商性能测试。",
+  "category": "公司",
+  "topics": [
+    "product"
+  ],
+  "author": "荒岛编辑部",
+  "source": "OpenAI",
+  "sourceUrl": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads/",
+  "cover": "",
+  "status": "published",
+  "publishedAt": "2026-08-31T00:00:00+08:00",
+  "updatedAt": "2026-09-05T15:20:46+08:00",
+  "readMinutes": 2,
+  "featured": false,
+  "seoTitle": "OpenAI 披露 ChatGPT 广告年化收入运行率达 10 亿美元",
+  "seoDescription": "这是按当前业务速度折算的指标，不是已经收取了一整年的收入。",
+  "route": "",
+  "stage": "",
+  "year": "",
+  "order": 0,
+  "related": [
+    "n2"
+  ],
+  "revision": 1,
+  "people": []
+}

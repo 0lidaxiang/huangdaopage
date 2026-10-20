@@ -1,0 +1,34 @@
+{
+  "id": "launch-news-images-25",
+  "kind": "signal",
+  "slug": "news-images-25",
+  "title": "OpenAI 发布 Images 2.5 系统卡，强调编辑一致性与生成控制",
+  "summary": "9 月 8 日公布的系统卡介绍图像编辑、信息图和草图输入等变化，并说明相应安全评估。",
+  "body": "事件日期：2026-09-08（采用原始来源标注日期）；本站整理：2026-09-09。\n\n## 发生了什么\n\nOpenAI 公布 ChatGPT Images 2.5 系统卡。官方称，新模型改善了编辑时的细节保留、信息图准确度与布局，并加入草图生成、模板和共享提示等控制方式。\n\n## 为什么关注\n\n本站观察：图像工具的竞争正在从“第一张是否好看”扩展到“能否按要求反复修改”。对内容创作者，精确文字与保留指定元素，比单张展示图更能影响交付效率。\n\n## 信息边界\n\n上述改善来自厂商披露，本站未独立测量速度或准确率。系统卡同时讨论逼真图像带来的冒用风险；生成内容不能当作真实事件的现场照片。\n\n## 资料来源\n\n- [OpenAI · 系统卡](https://deploymentsafety.openai.com/chatgpt-images-2-5)\n\n资料核验：2026-09-09。本文为基于公开资料的原创整理。",
+  "category": "产品",
+  "topics": [
+    "multimodal",
+    "product"
+  ],
+  "author": "荒岛有信号",
+  "source": "OpenAI · 系统卡",
+  "sourceUrl": "https://deploymentsafety.openai.com/chatgpt-images-2-5",
+  "cover": "",
+  "status": "published",
+  "publishedAt": "2026-09-08T12:00:00+08:00",
+  "updatedAt": "2026-09-10T11:03:36+08:00",
+  "readMinutes": 2,
+  "featured": false,
+  "seoTitle": "OpenAI 发布 Images 2.5 系统卡，强调编辑一致性与生成控制",
+  "seoDescription": "9 月 8 日公布的系统卡介绍图像编辑、信息图和草图输入等变化，并说明相应安全评估。",
+  "route": "",
+  "stage": "",
+  "year": "",
+  "order": 0,
+  "related": [
+    "launch-diffusion-and-multimodal",
+    "launch-history-latent-diffusion"
+  ],
+  "revision": 2,
+  "people": []
+}

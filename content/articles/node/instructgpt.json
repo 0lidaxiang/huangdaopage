@@ -1,0 +1,38 @@
+{
+  "id": "editorial-node-instructgpt",
+  "kind": "node",
+  "slug": "instructgpt",
+  "title": "InstructGPT：从续写文本到遵循意图",
+  "summary": "示范、偏好与强化学习，被组织成改善助手行为的训练流程。",
+  "body": "## 历史坐标\n\n**时间：2022.03.04。** 这里记录事件或论文首次公开时间，页面的发布日期是本站整理时间。\n\n**关键人物：Long Ouyang、Jeff Wu、John Schulman、Jan Leike。** 人物用于标识相关贡献者；大型项目由团队共同完成，并非单一人物的作品。\n\n## 发生了什么\n\nInstructGPT 论文介绍基于人类示范与输出排序的训练过程。模型不仅学习文本分布，也学习标注者在具体提示上更偏好的回答形式与行为。\n\n## 为什么值得记住\n\n用户要的是完成请求，不是随意延续一段文本。后训练把产品目标带入优化过程，解释了为什么参数规模相同的模型，交互感受仍可能差别明显。\n\n## 放回历史中看\n\n人类偏好并不等于事实真相；奖励信号也可能鼓励讨好或表面流畅。评估助手必须同时考虑正确性、帮助程度与行为边界。\n\n## 资料与延伸阅读\n\n- [Ouyang 等，Training language models to follow instructions](https://arxiv.org/abs/2203.02155)\n- [返回 AI 演化地图](/evolution)\n\n本文为荒岛编辑部依据公开资料撰写的历史条目；“为什么值得记住”和比较性表述属于编辑分析。资料核验：2026 年 9 月 5 日。",
+  "category": "历史节点",
+  "topics": [
+    "history",
+    "models"
+  ],
+  "author": "荒岛编辑部",
+  "source": "Ouyang 等，Training language models to follow instructions",
+  "sourceUrl": "https://arxiv.org/abs/2203.02155",
+  "cover": "",
+  "status": "published",
+  "publishedAt": "2026-09-05T06:00:00Z",
+  "updatedAt": "2026-09-05T15:20:46+08:00",
+  "readMinutes": 2,
+  "featured": false,
+  "seoTitle": "InstructGPT：从续写文本到遵循意图",
+  "seoDescription": "示范、偏好与强化学习，被组织成改善助手行为的训练流程。",
+  "route": "capability",
+  "stage": "大模型时代",
+  "year": "2022.03.04",
+  "people": [
+    "Long Ouyang",
+    "Jeff Wu",
+    "John Schulman",
+    "Jan Leike"
+  ],
+  "order": 20220304,
+  "related": [
+    "editorial-depth-rlhf-and-dpo"
+  ],
+  "revision": 1
+}

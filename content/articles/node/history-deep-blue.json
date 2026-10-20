@@ -1,0 +1,35 @@
+{
+  "id": "launch-history-deep-blue",
+  "kind": "node",
+  "slug": "history-deep-blue",
+  "title": "1997｜深蓝击败卡斯帕罗夫：专用系统的高峰",
+  "summary": "专用硬件、搜索与棋局评估共同推动机器赢得国际象棋人机对抗赛。",
+  "body": "历史时间：1997.05。阶段归类是阅读导航，技术路线之间存在重叠。\n\n## 发生了什么\n\n1997 年 5 月，深蓝以 3.5 比 2.5 赢得六局比赛。IBM 的历史资料强调了高速搜索、评估函数和专用计算的共同作用。1996 年深蓝虽赢过单局，整场比赛仍由卡斯帕罗夫获胜。\n\n## 人物与贡献\n\n许峰雄、Campbell 等 IBM 团队成员研发深蓝；卡斯帕罗夫是比赛中的世界冠军对手。\n\n## 为什么是一个节点\n\n这个节点按年代放在机器学习阶段，但深蓝本身主要体现搜索与专用工程，不能写成深度学习胜利。受限规则世界里的超人表现，与跨领域处理陌生问题，是两种不同的能力要求。\n\n## 资料来源\n\n- [IBM：Deep Blue 历史](https://www.ibm.com/history/deep-blue)\n\n资料核验：2026-09-09。本文为基于公开资料的原创整理。",
+  "category": "演化节点",
+  "topics": [
+    "product",
+    "models"
+  ],
+  "author": "荒岛有信号",
+  "source": "公开资料 · 原创整理",
+  "sourceUrl": "https://www.ibm.com/history/deep-blue",
+  "cover": "",
+  "status": "published",
+  "publishedAt": "2026-09-09T08:00:00+08:00",
+  "updatedAt": "2026-09-10T11:03:36+08:00",
+  "readMinutes": 2,
+  "featured": false,
+  "seoTitle": "1997｜深蓝击败卡斯帕罗夫：专用系统的高峰",
+  "seoDescription": "专用硬件、搜索与棋局评估共同推动机器赢得国际象棋人机对抗赛。",
+  "route": "product",
+  "stage": "机器学习",
+  "year": "1997.05",
+  "people": [
+    "Feng-hsiung Hsu（许峰雄）",
+    "Murray Campbell",
+    "Garry Kasparov（加里·卡斯帕罗夫）"
+  ],
+  "order": 70,
+  "related": [],
+  "revision": 2
+}

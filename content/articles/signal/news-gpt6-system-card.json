@@ -1,0 +1,35 @@
+{
+  "id": "launch-news-gpt6-system-card",
+  "kind": "signal",
+  "slug": "news-gpt6-system-card",
+  "title": "GPT-6 Astra 系统卡公布：能力提升伴随更严格的网络安全部署措施",
+  "summary": "OpenAI 在 9 月 3 日系统卡中称，Astra 达到其框架中的 Critical 网络安全能力阈值。",
+  "body": "事件日期：2026-09-03（采用原始来源标注日期）；本站整理：2026-09-09。\n\n## 发生了什么\n\nOpenAI 发布 GPT-6 Astra 及系统卡。公司表示，该模型首次达到其 Preparedness Framework 定义的 Critical 网络安全能力等级，并加强了访问、监测和内部隔离等措施。\n\n## 为什么关注\n\n本站观察：阅读前沿模型发布，除了代码和推理表现，也要看工具访问、监测与权限如何安排。能力范围扩大后，部署方式本身已经成为产品信息的一部分。\n\n## 信息边界\n\nCritical 在这里是 OpenAI 特定框架下的能力分级，不能理解为所有任务都达到同一级别，更不能直接等同于已发生安全事故。系统卡包含厂商与外部评估信息，本站未复现实验。\n\n## 资料来源\n\n- [OpenAI · 系统卡](https://deploymentsafety.openai.com/gpt-6-astra)\n\n资料核验：2026-09-09。本文为基于公开资料的原创整理。",
+  "category": "模型",
+  "topics": [
+    "models",
+    "agent",
+    "developer"
+  ],
+  "author": "荒岛有信号",
+  "source": "OpenAI · 系统卡",
+  "sourceUrl": "https://deploymentsafety.openai.com/gpt-6-astra",
+  "cover": "",
+  "status": "published",
+  "publishedAt": "2026-09-03T12:00:00+08:00",
+  "updatedAt": "2026-09-10T11:03:36+08:00",
+  "readMinutes": 2,
+  "featured": false,
+  "seoTitle": "GPT-6 Astra 系统卡公布：能力提升伴随更严格的网络安全部署措施",
+  "seoDescription": "OpenAI 在 9 月 3 日系统卡中称，Astra 达到其框架中的 Critical 网络安全能力阈值。",
+  "route": "",
+  "stage": "",
+  "year": "",
+  "order": 0,
+  "related": [
+    "launch-agent-work-and-verification",
+    "launch-reasoning-compute-and-checks"
+  ],
+  "revision": 2,
+  "people": []
+}
